@@ -55,7 +55,7 @@ collection_name: left-nav-three
 	
 <tr>	
 	<td><img src="/images/DAYSHOTEL.jpg" width="200px" alt="DAYS HOTEL BY WYNDHAM SINGAPORE AT ZHONGSHAN PARK"  /> </td>
-	<td><img src="/images/DestinationSingaporeBeachRoad.jpg" width="200px" alt="Destination Singapore Beach Road" /> </td>
+	<td><img src="/images/DestinationSingapore.jpg" width="200px" alt="Destination Singapore Beach Road" /> </td>
 	<td><img src="../images/eep_1_beach_villas.jpg" alt="Equarius Beach Villas" />     </td>
 	<td><img src="/images/eep_3_equarius_hotel.jpg" width="200px" alt="Equarius Hotel" /> </td>
 </tr>
