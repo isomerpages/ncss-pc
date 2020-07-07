@@ -43,7 +43,7 @@ collection_name: left-nav-three
 	<td><img src="/images/eep_28_Conrad.jpg" width="200px" alt="Conrad Centennial Singapore" /> </td>
 	<td><img src="/images/eep_29_Copthorne.png" width="200px" alt="Copthorne Kings Hotel Singapore" /> </td>
 	<td><img src="/images/CourtyardbyMarriottSingaporeNovena.png" width="200px" alt="Courtyard by Marriott Singapore Novena"  /> </td>
-	<td><img src="../images/EEP_2_Crockfords_Tower.jpg" alt="Crockfords Tower" />     </td>
+	<td><img src="/images/EEP_2_Crockfords_Tower.jpg" alt="Crockfords Tower" />     </td>
 </tr>	
 
 <tr>	
@@ -56,7 +56,7 @@ collection_name: left-nav-three
 <tr>	
 	<td><img src="/images/DAYSHOTEL.jpg" width="200px" alt="DAYS HOTEL BY WYNDHAM SINGAPORE AT ZHONGSHAN PARK"  /> </td>
 	<td><img src="/images/DestinationSingapore.JPG" width="200px" alt="Destination Singapore Beach Road" /> </td>
-	<td><img src="../images/eep_1_beach_villas.jpg" alt="Equarius Beach Villas" />     </td>
+	<td><img src="/images/eep_1_beach_villas.jpg" alt="Equarius Beach Villas" />     </td>
 	<td><img src="/images/eep_3_equarius_hotel.jpg" width="200px" alt="Equarius Hotel" /> </td>
 </tr>
 
@@ -96,7 +96,7 @@ collection_name: left-nav-three
 </tr>	
 	
 <tr>	
-	<td><img src="/images/eep_6_hard_rock_hotel.jpg" width="200px" alt="Hard Rock Hotel" /> </td>
+	<td><img src="/images/EEP_6_Hard_Rock_Hotel.jpg" width="200px" alt="Hard Rock Hotel" /> </td>
 	<td><img src="/images/eep_37_HiltonGarden.jpg" width="200px" alt="Hilton Garden Inn Singapore Serangoon" /> </td>
 	<td><img src="/images/eep_38_Hilton.png" width="200px" alt="Hilton Singapore" /> </td>
 	<td><img src="/images/eep_36_HolidayInn.jpg" width="200px" alt="Holiday Inn Orchard City Centre Singapore" /> </td>
@@ -210,7 +210,7 @@ collection_name: left-nav-three
 <tr>	
 	<td><img src="/images/RehabMart.jpg" width="200px" alt="Rehab Mart "  /> </td>
 	<td><img src="/images/eep_58_Shangri2.jpg" width="200px" alt="Shangri-La Rasa Sentosa Resort and Spa, Singapore" /> </td>
-	<td><img src="/images/SheratonTowersSingapore.jpg"   width="200px" alt="Sheraton Towers Singapore" /> </td>
+	<td><img src="/images/SheratonTowersSingapore.JPG"   width="200px" alt="Sheraton Towers Singapore" /> </td>
 	<td><img src="/images/eep_59_Marriott.jpg" width="200px" alt="Singapore Marriott Tang Plaza Hotel" /> </td>
 </tr>
 	
