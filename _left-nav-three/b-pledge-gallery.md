@@ -82,7 +82,7 @@ collection_name: left-nav-three
 <tr>	
 	<td><img src="/images/eep_32_Four.png" width="200px" alt="Four Points by Sheraton Singapore, Riverview" /> </td>
 	<td><img src="/images/EEP_5_Genting_Hotel_Jurong.jpg" width="200px" alt="Genting Hotel Jurong" /></td>
-	<td><img src="/images/xxx.jpg" width="200px" alt="Global Premium Hotels Limited" /> </td>
+	<td><img src="/images/GlobalPremiumHotelsLimited.png" width="200px" alt="Global Premium Hotels Limited" /> </td>
 	<td><img src="/images/eep_34_Grand.jpg" width="200px" alt="Grand Copthorne Waterfront Hotel Singapore" /> </td>
 </tr>
 	
