@@ -70,7 +70,7 @@ The PC-ELF will run from 2018 – 2022.
 		<tr>
 			<td >2</td>
 			<td >Outcomes</td>
-			<td >As long as the funding request benefits service users and are assessed to be needed in the social service landscape, agencies may apply for PC funding.</td>
+			<td >If the funding request benefits service users and are assessed to be needed in the social service landscape, agencies may apply for PC funding.</td>
 			<td >PC-ELF programmes must achieve the following outcomes:
 			<br>- People live independently in their communities and have the ability to sustain employment; and
 			<br>- People participate in developing solutions and make decisions for their own well-being. 
@@ -87,33 +87,33 @@ The PC-ELF will run from 2018 – 2022.
 		<tr>
 			<td >4</td>
 			<td >Project/Programme Commencement</td>
-			<td >Agencies are given the flexibility to utilise the funding supported in 2020 once the approved areas have been communicated, or when the funds have been disbursed in 2021. However, PC 2020 funds must be utilised by 2023.</td>
-			<td >Agencies must commence the programmes supported under PC-ELF 2020 by 1<sup>st</sup> July 2020.</td>
+			<td >Agencies are given the flexibility to utilise the funding supported in 2021 once the approved areas have been communicated, or when the funds have been disbursed in 2022. However, PC 2021 funds must be utilised by 2024.</td>
+			<td >Agencies must commence the programmes supported under PC-ELF on 1<sup>st</sup> July in the year of approval.</td>
 		</tr>
 		<tr>
 			<td >5</td>
 			<td >Reporting Requirements</td>
 			<td >Supported PC benefitting agencies are required to submit a Fund Report Form, to report the utilisation of funds. The first report must be submitted in May 2022.</td>
-			<td >Supported PC-ELF benefitting agencies are required to submit a PC-ELF Outcome Report and an Income &amp; Expense statement certified by the Agency&rsquo;s President, Treasurer, Executive Head or their equivalents. The first reporting cycle will be during July - August 2021.</td>
+			<td >Supported PC-ELF benefitting agencies are required to submit a PC-ELF Outcome Report and an Income &amp; Expense statement certified by the Agency&rsquo;s President, Treasurer, Executive Head or their equivalents. Supported programmes are required to commence in July of the calendar year, with each reporting period (“Reporting Period”) being 1st July of current year to 30th June of the following year. Programme performance must be reported within 4 weeks of the end of the Reporting Period (i.e. in July)</td>
 		</tr>
 	</tbody>
 </table>   
 
-Agencies are also strongly encouraged to review the Guidelines stated in Section A of the application forms of the two funds.
+Agencies are also strongly encouraged to review the Requirements stated in Section A of the application forms of the two funds.
   
 ##### 4. When is the application window for PC-ELF?
-PC-ELF and PC share the same application window. The application window typically opens in August and agencies are given six weeks to apply.
+PC-ELF and PC share the same application window. The application window typically opens in August and agencies are given five to six weeks to apply.
 
 The application forms for PC and PC-ELF are different. Hence, agencies are required to fill in the correct form for the fund they are applying for.
 
 ##### 5. Can I apply for both PC and PC-ELF?
-Yes, agencies are free to apply for both funds with separate applications, meeting the fund requirements. Agencies should ascertain which fund is more appropriate and relevant to their programmes.
+Yes, agencies are free to apply for both funds with separate applications, meeting the fund requirements. Agencies should ascertain which fund is more appropriate and relevant to their programme(s).
 
 ##### 6. Who can apply for PC-ELF?
 The PC-ELF applications are open to social service agencies with a valid IPC status.
 
-##### 7. When will I be updated of the application outcome for PC-ELF 2020?
-Agencies will be informed of the application outcome by Feb/Mar 2020 via a letter from the President’s Office.
+##### 7. When will I be updated of the application outcome for PC-ELF 2021?
+Agencies will be informed of the application outcome by Feb/Mar 2021 via a letter from the President’s Office.
 
 In May 2020, Agencies will be informed of the range of funds allocated to the programme via email. The definitive amount is not given as the programmes’ funding is dependent on the funds raised during the year.
 
@@ -121,20 +121,20 @@ In May 2020, Agencies will be informed of the range of funds allocated to the pr
 Agencies can apply for funding for up to 3 years. If only 1 or 2 years of funding is required, there is no need to fill up the requested amounts for the remaining years.
 
 ##### 9.When can I expect to receive the funds if my agency is supported?
-Agencies can expect to receive the funds in the following year sometime in June.
+Agencies can expect to receive the funds in the following year between July and August, contingent upon the fulfilment of the reporting requirements.
 
 ##### 10. Why do we only receive the funds for PC-ELF 1.5 years after I had applied?
-E.g. for PC-ELF 2020
-After the PC-ELF application window has closed, NCSS will assess the applications and thereafter, submit to President’s Office to review and confirm the list of benefitting agencies for the year. Fund-raising will be conducted for the whole of 2020 till early 2021. The funding amounts will then be confirmed based on the fund raised, and thus only disbursed to agencies in Jun 2021.
+E.g. for PC-ELF 2021
+After the PC-ELF application window has closed, NCSS will assess the applications and thereafter, submit the recommendations to the President’s Office for final approval and confirm the list of benefitting agencies for the year. Fund-raising will be conducted during the calendar year of 2021. The funding amounts will be confirmed based on the funds raised and will be disbursed to agencies in July/August following the submission of the annual outcome report and certified income and expense statement.
 
-##### 11. Are agencies expected to commence the projects applied in PC20 in 2020, before funds are disbursed?
-Agencies should start their programme once the supported areas and funding have been communicated in March 2020. In June 2021, agencies will receive the first year’s disbursement and will be informed of the confirmed funding amount for the programme duration.
+##### 11. Are agencies expected to commence the projects applied in PC21 in 2021, before funds are disbursed?
+Agencies should start their programme once the supported areas and funding have been communicated in March 2021. In July/August 2022, agencies will receive the first year’s disbursement and will be informed of the confirmed funding amount for the programme duration.
 
 ##### 12. When will the funds for Y2 and Y3 be disbursed?
-The funds for Y2 and Y3 will be disbursed in June 2022 and 2023, respectively, contingent upon the annual submission of the required reports to NCSS, as well as the programme performance.
+The funds for Y2 and Y3 will be disbursed in July/August in the next two years as part of the annual disbursement schedule, contingent upon the annual submission of the required reports to NCSS, as well as the programme performance.
 
 ##### 13. Will we receive the exact amount requested from PC-ELF?
-Funding will be subject to the strength of justifications in the use of resources and outcomes to be achieved in the proposal.
+Funding will be subject to the strength of justifications in the use of resources and outcomes to be achieved in the proposal. Initiatives supported by PC ELF will be funded at up to 95% of total operating expenditure, capped at $500,000 per year.
 
 ##### 14. What happens if we do not fully utilise the funding we are provided with?
 PC-ELF funding must be utilised by the Agencies within three (3) years from the date of the first disbursement for the purposes it was approved for. If funds are not expended within the specified time frame, NCSS has the sole discretion to grant an extension for the period of fund usage or to claw back the unutilised funds.
@@ -143,7 +143,7 @@ PC-ELF funding must be utilised by the Agencies within three (3) years from the 
 Yes, Agencies can fund-raise for any shortfall/components of the programme not covered by PC-ELF funding.
 
 ##### 16. What are the reporting requirements of PC-ELF?
-An annual reporting template will be provided to supported agencies for the reporting of the programmes outcomes. The report has to be submitted by August at the end of each programme year. 
+An annual outcome reporting template will be provided to supported agencies for the reporting of the programmes outcomes. The report must be submitted by August at the end of each programme year. 
 
 The agency is also required to submit the programme’s certified income and expenditure statement, as well as its annual audited financial statements at its earliest availability. The audited financial statement should classify the PC-ELF funds as a restricted fund. If the Programme is receiving different sources of funding for the purposes of operating the Programme, it should be itemised and disclosures on the funding should be included.
 
