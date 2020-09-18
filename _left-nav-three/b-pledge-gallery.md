@@ -321,14 +321,14 @@ collection_name: left-nav-three
 
 <tr>	
 	<td><img src="/images/YOTELSINGAPOREORCHARDROAD.png" width="200px" alt="YOTEL SINGAPORE ORCHARD ROAD"  /> </td>
-	<td>&nbsp;</td>
+	<td><img src="/images/Facebook_Singapore_Pte_Ltd.jpg" width="200px" alt="Facebook Singapore Pte Ltd"  /> </td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 </tr>	
 
 <tr>	
 	<td>YOTEL SINGAPORE ORCHARD ROAD</td>
-	<td>&nbsp;</td>
+	<td>Facebook Singapore Pte Ltd</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 </tr>
