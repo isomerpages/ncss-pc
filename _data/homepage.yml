@@ -37,7 +37,21 @@ info-sections:
     section-description: During these challenging times of COVID-19, your support towards the President’s Challenge will enable the benefitting organisations to sustain their operations and service delivery in empowering the lives of the vulnerable in our community.
     section-image-path: /images/PC_Donate_Website.png
     section-more-button: Donate Now
-    section-more-button-url: https://www.giving.sg/president-s-challenge
+    section-more-button-url: /take-action/donate/
+    
+  - section-title: 
+    section-subtitle: Empower Lives By Volunteering
+    section-description: Your gift of time and support towards the President’s Challenge will enable our benefitting organisations to sustain their operations and service delivery in serving the vulnerable groups.
+    section-image-path: /images/PC_Volunteer_Website.png
+    section-more-button: Learn More
+    section-more-button-url: /take-action/volunteer/
+    
+  - section-title: 
+    section-subtitle: Empower Lives Through Inclusive Employment
+    section-description: Your support for inclusive employment through the Enabling Employment Pledge will empower persons with disabilities to develop their potential and gain independence.
+    section-image-path: /images/PC_EEP_Website.png
+    section-more-button: Learn More
+    section-more-button-url: /enabling-employment-pledge/take-pledge
     
 # Resources Section
 resources-title: Media
