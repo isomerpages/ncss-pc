@@ -33,11 +33,11 @@ key-highlights:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: President's Challenge Enabling Employment Pledge 
-    section-description:  Lend your support to this national movement, to build a caring and inclusive Singapore, where difference in abilities are valued and embraced
-    section-image-path: /images/EEPLogo.png
-    section-more-button: Learn More
-    section-more-button-url: /enabling-employment-pledge/take-pledge
+    section-subtitle: Empower Lives By Donating
+    section-description: During these challenging times of COVID-19, your support towards the President’s Challenge will enable the benefitting organisations to sustain their operations and service delivery in empowering the lives of the vulnerable in our community.
+    section-image-path: /images/PC_Donate_Website.png
+    section-more-button: Donate Now
+    section-more-button-url: https://www.giving.sg/president-s-challenge
     
 # Resources Section
 resources-title: Media
