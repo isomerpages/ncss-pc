@@ -14,6 +14,10 @@ Come and make a difference! Check out what our partners are doing to support Pre
 
 
 <table width="100%" cellpadding="10px" cellspacing="10px">
+ <tr><td colspan="2" id="tag1"><h4>President’s Challenge Appreciation Event 2020 </h4></td></tr>
+ <tr><td width="200px" > <img src="/images/e_event4.jpg" alt="President’s Challenge Appreciation Event 2020" style="width:200px"></td>
+<td>64 organisations were lauded at the President’s Challenge Appreciation Event, in recognition of their inclusive hiring practices and fundraising for PC2020 despite challenges from the COVID-19 pandemic. 05 organisations were also recognised for their volunteering efforts.<BR>
+The annual Appreciation Event took on a virtual format this year, which saw President Halimah Yacob interacting with top donors and volunteers..<BR><BR></td></tr> 
  <tr><td colspan="2" id="tag1"><h4>President's Challenge PULSE! Sports Fiesta 2019 </h4></td></tr>
  <tr><td width="200px" > <img src="/images/e_event1.jpg" alt="President’s Challenge PULSE! Sports Fiesta 2019" style="width:200px"></td>
 <td>The President’s Challenge PULSE! Sports Fiesta 2019, led by youth volunteers from the PA Youth Movement, brings fellow youths together and encourages them to give back to the community. By leveraging the energy of youth volunteers, President’s Challenge hopes to harness the collective efforts of everyone to provide an ecosystem of support to the vulnerable groups in the community.<BR><BR></td></tr> 
