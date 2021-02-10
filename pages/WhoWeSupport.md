@@ -20,50 +20,62 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <tr><td>
 <ol>
 <li><a href="http://www.ainsociety.org.sg/" target='_blank'>Ain Society</a></li>
-<li><a href="http://www.beyond.org.sg/" target='_blank'>Beyond Social Services</a></li>
-<li><a href="https://ccsscares.sg/" target='_blank'>Care Community Services Society</a></li>
-<li><a href="https://emcc.org.sg/" target='_blank'>Eagles Mediation &amp; Counselling Centre (EMCC)</a></li>
+<li><a href="https://www.amp.org.sg/" target='_blank'>Association of Muslim Professionals</a></li>
+<li><a href="https://www.bmcsg.org/" target='_blank'>Beautiful Mind Charity</a></li>
+<li><a href="http://www.beautifulpeople.org.sg/" target='_blank'>Beautiful People Sg Ltd</a></li>
+<li><a href="https://www.boystown.org.sg/" target='_blank'>Boys' Town</a></li>
+<li><a href="https://canossaville.org.sg/" target='_blank'>Canossaville Children and Community Services</a></li> 
+<li><a href="https://www.campusimpact.org.sg/" target='_blank'>CampusImpact</a></li>
+<li><a href="http://www.street11.org.sg/" target='_blank'>Child At Street 11</a></li>
+<li><a href="https://www.epworth.sg/" target='_blank'>Epworth Community Services</a></li>
 <li><a href="https://www.faithacts.org.sg/" target='_blank'>FaithActs</a></li>
+<li><a href="https://www.filos.sg/" target='_blank'>Filos Community Services Limited</a></li>
+<li><a href="https://www.foodfromtheheart.sg/" target='_blank'>Food from the Heart</a></li>
 <li><a href="https://www.irf.org.sg/" target='_blank'>ISCOS ReGen Fund</a></li>
-<li><a href="https://www.lawsocprobono.org/" target='_blank'>Law Society Pro Bono Services</a></li>
-<li><a href="https://www.morningstar.org.sg/" target='_blank'>Morning Star Community Services</a></li>
+<li><a href="https://lccs.org.sg/" target='_blank'>Lutheran Community Care Services Ltd</a></li>
+<li><a href="https://www.morningstar.org.sg/" target='_blank'>Morning Star Community Services</a></li>  
+<li><a href="https://mwh.muhammadiyah.org.sg/" target='_blank'>Muhammadiyah Welfare Home</a></li>
+<li><a href="https://www.jamiyah.org.sg/" target='_blank'>Muslim Missionary Society Singapore</a></li> 
 <li><a href="https://www.newhopecs.org.sg/" target='_blank'>New Hope Community Services</a></li>
 <li><a href="https://www.newlife.org.sg/" target='_blank'>New Life Community Services</a></li>
-<li><a href="https://nulife.com.sg/" target='_blank'>NuLife Care &amp; Counselling Services</a></li>
-<li><a href="https://pfs.org.sg/" target='_blank'>Prison Fellowship Singapore</a></li>
-<li><a href="https://www.sscharities.com/" target='_blank'>Shared Services for Charities</a></li>
-<li><a href="http://www.shine.org.sg/" target='_blank'>SHINE Children and Youth Services</a></li>
-<li><a href="https://shenghong.org.sg/" target='_blank'>Society of Sheng Hong Welfare Services</a></li>
-<li><a href="https://www.cjc.org.sg/" target='_blank'>The Community Justice Centre Limited</a></li>
-<li><a href="https://thenewcharismission.org.sg/" target='_blank'>The New Charis Mission</a></li>
-<li><a href="https://www.trybe.org/" target='_blank'>Trybe Limited</a></li>
+<li><a href="http://www.salemwelfareservices.org.sg/" target='_blank'>Salem Welfare Services</a></li> 
+<li><a href="https://www.sscharities.com/" target='_blank'>Shared Services for Charities</a></li> 
+<li><a href="https://www.shine.org.sg/" target='_blank'>SHINE Children and Youth Services</a></li>  
+<li><a href="https://www.scwo.org.sg/" target='_blank'>Singapore Council of Women's Organisations</a></li>
+<li><a href="https://www.socialhealthgrowth.org/" target='_blank'>Social Health Growth Ltd</a></li>
+<li><a href="https://sccfsc.sg/" target='_blank'>South Central Community Family Service Centre Limited</a></li>
+<li><a href="https://www.cjc.org.sg/" target='_blank'>The Community Justice Centre</a></li>
+<li><a href="https://www.touch.org.sg/" target='_blank'>TOUCH Community Services Limited</a></li>
+<li><a href="https://uws.org.sg/" target='_blank'>United Women Singapore</a></li>
 </ol>
  </td></tr>
  
  
 <tr><td>Disability</td></tr>
 <tr><td>
-<ol>           
-<li><a href="https://www.bmcsg.org/" target='_blank'>Beautiful Mind Charity</a></li>
+<ol> 
+<li><a href="https://www.autismlinks.org.sg/" target='_blank'>Autism Association (Singapore)</a></li> 
 <li><a href="http://cpas.org.sg/" target='_blank'>Cerebral Palsy Alliance Singapore</a></li>
+<li><a href="http://www.downsyndrome-singapore.org/" target='_blank'>Down Syndrome Association (Singapore)</a></li> 
 <li><a href="https://www.das.org.sg/" target='_blank'>Dyslexia Association of Singapore</a></li>
-<li><a href="https://extraordinarypeople.sg/" target='_blank'>Extra.Ordinary People Limited</a></li>
-<li><a href="https://mamreoaks.sg/" target='_blank'>Mamre Oaks Limited</a></li>
-<li><a href="https://www.rainbowcentre.org.sg/" target='_blank'>Rainbow Centre, Singapore</a></li>
-<li><a href="https://employment.sgenable.sg/" target='_blank'>SG Enable Ltd</a></li>
-<li><a href="https://savh.org.sg/" target='_blank'>Singapore Association of the Visually Handicapped (SAVH)</a></li>
-<li><a href="https://www.sundac.org/" target='_blank'>SUN-DAC</a></li>
-<li><a href="https://www.vsa.org.sg/" target='_blank'>Very Special Arts Singapore Limited</a></li>       
+<li><a href="https://www.guidedogs.org.sg/" target='_blank'>Guide Dogs Singapore Ltd</a></li>
+<li><a href="https://hwa.org.sg/" target='_blank'>Handicaps Welfare Association</a></li> 
+<li><a href="https://www.minds.org.sg/" target='_blank'>Movement for the Intellectually Disabled of Singapore (MINDS)</a></li>  
+<li><a href="https://www.rainbowcentre.org.sg/" target='_blank'>Rainbow Centre, Singapore</a></li>  
+<li><a href="https://www.spd.org.sg/" target='_blank'>SPD</a></li>
+<li><a href="https://sadeaf.org.sg/" target='_blank'>The Singapore Association for the Deaf</a></li>       
  </ol>
 </td></tr>
+
 
 <tr><td>Eldercare</td></tr>
 <tr><td>
 <ol>
-<li><a href="https://www.carecorner.org.sg/seniors-services" target='_blank'>Care Corner Seniors Services Ltd</a></li>  
-<li><a href="http://www.cwa.org.sg/" target='_blank'>Caregiving Welfare Association</a></li>
-<li><a href="https://rsvp.org.sg/" target='_blank'>RSVP Singapore The Organisation of Senior Volunteers</a></li>
-<li><a href="https://sreenarayanamission.org/" target='_blank'>Sree Narayana Mission (Singapore)</a></li>
+<li><a href="https://www.bgss.org.sg/" target='_blank'>Blessed Grace Social Services Limited</a></li>  
+<li><a href="https://www.blossomseeds.sg/" target='_blank'>Blossom Seeds Limited</a></li>
+<li><a href="https://www.ccsscares.sg/" target='_blank'>Care Community Services Society</a></li> 
+<li><a href="https://www.metta.org.sg/hq/" target='_blank'>Metta Welfare Association</a></li>
+<li><a href="http://www.montfortcare.org.sg/" target='_blank'>Montfort Care</a></li>
 <li><a href="https://www.stjohneldershome.org.sg/home" target='_blank'>St John&#39;s Home for Elderly Persons</a></li>
 
 </ol>
@@ -73,9 +85,7 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <tr><td>Mental Health Services</td></tr>
 <tr><td>
 <ol>
-<li><a href="https://www.psaltcare.com/" target='_blank'>Psalt Care Limited</a></li>
-<li><a href="http://www.sos.org.sg" target='_blank'>Samaritans of Singapore</a></li>
- 
+<li><a href="https://www.resilience.org.sg/" target='_blank'>Resilience Collective Ltd</a></li>
 </ol>
 </td></tr>
 
@@ -83,16 +93,20 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <tr><td>Healthcare</td></tr>
 <tr><td>
 <ol>
-<li><a href="https://www.hnf.org.sg/" target='_blank'>Home Nursing Foundation</a></li>
-<li><a href="https://www.mft.org.sg/" target='_blank'>Man Fut Tong Nursing Home</a></li>
-<li><a href="https://www.mdas.org.sg/" target='_blank'>Muscular Dystrophy Association (Singapore)</a></li>
-<li><a href="https://www.sianchay.org.sg/en/" target='_blank'>Sian Chay Medical Institution</a></li>
-<li><a href="https://www.silverribbonsingapore.com/" target='_blank'>Silver Ribbon (Singapore)</a></li>
-<li><a href="http://www.schome.org.sg/" target='_blank'>Singapore Christian Home</a></li>
-<li><a href="http://www.snsa.org.sg/" target='_blank'>Singapore National Stroke Association</a></li>
-<li><a href="https://www.sma.org.sg/smacares/" target='_blank'>SMA Charity Fund</a></li>
-<li><a href="https://societyagedsick.org.sg/" target='_blank'>Society for the Aged Sick</a></li>
-<li><a href="https://www.slec.org.sg/" target='_blank'>St Luke&#39;s ElderCare Centre</a></li>
+<li><a href="http://www.anrc.org.sg/" target='_blank'>Adventist Nursing and Rehabilitation Centre</a></li>
+<li><a href="https://alz.org.sg/" target='_blank'>Alzheimer's Disease Association</a></li> 
+<li><a href="https://www.assisihospice.org.sg/" target='_blank'>Assisi Hospice</a></li>
+<li><a href="https://www.doverpark.org.sg/" target='_blank'>Dover Park Hospice</a></li>
+<li><a href="https://www.epilepsycare.org/" target='_blank'>Epilepsy Care Group (Singapore)</a></li>
+<li><a href="https://www.hca.org.sg/" target='_blank'>HCA Hospice Care</a></li>
+<li><a href="https://nkfs.org/" target='_blank'>National Kidney Foundation</a></li> 
+<li><a href="https://www.sata.com.sg/" target='_blank'>SATA Commhealth</a></li>
+<li><a href="https://www.silverribbonsingapore.com/" target='_blank'>Silver Ribbon</a></li> 
+<li><a href="https://www.samhealth.org.sg/" target='_blank'>Singapore Association for Mental Health, The (SAMH)</a></li> 
+<li><a href="https://www.giving.sg/web/singhealth-fund" target='_blank'>SingHealth Fund</a></li>
+<li><a href="https://www.slh.org.sg/" target='_blank'>St Luke's Hospital</a></li>
+<li><a href="https://www.swami.org.sg/" target='_blank'>Sunshine Welfare Action Mission (SWAMI)</a></li>
+<li><a href="https://www.silverribbonsingapore.com/" target='_blank'>Silver Ribbon</a></li> 
 </ol>
 </td></tr>
 
@@ -102,15 +116,15 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <ol>
 <li><a href="http://www.breakthroughmissions.org.sg/" target='_blank'>Breakthrough Missions</a></li>
 <li><a href="https://www.sbws.org.sg/4l_gh.html" target='_blank'>Green Haven</a></li>
+<li><a href="https://www.hcsa.org.sg/" target='_blank'>HCSA Community Services</a></li> 
 <li><a href="https://heb.org.sg/our-subsidiaries/heb-ashram/" target='_blank'>HEB-Ashram</a></li>
 <li><a href="http://www.icarehub.org.sg/" target='_blank'>iC@re Hub Ltd</a></li>
-<li><a href="https://jhh.jamiyah.org.sg/" target='_blank'>Jamiyah Halfway House</a></li>
-<li><a href="https://mwh.muhammadiyah.org.sg/" target='_blank'>Muhammadiyah Welfare Home</a></li>
+<li><a href="https://www.newlifestories.org.sg/" target='_blank'>New Life Stories</a></li>
 <li><a href="http://pertapis.org.sg/pertapis-halfway-house/" target='_blank'>PERTAPIS Halfway House</a></li>
-<li><a href="http://www.saca.org.sg/" target='_blank'>Singapore After-Care Association (SACA)</a></li>
-<li><a href="https://www.sana.org.sg/" target='_blank'>Singapore Anti-Narcotics Association (SANA)</a></li>
-<li><a href="https://www.teenchallenge.org.sg/" target='_blank'>Teen Challenge (Singapore)</a></li>
+<li><a href="https://www.sana.org.sg/" target='_blank'>Singapore Anti-Narcotics Association (SANA)</a></li> 
 <li><a href="http://thehelpinghand.org.sg/" target='_blank'>The Helping Hand</a></li>
+<li><a href="https://thenewcharismission.org.sg/" target='_blank'>The New Charis Mission</a></li> 
+<li><a href="https://www.yellowribbon.gov.sg/yellow-ribbon-fund" target='_blank'>Yellow Ribbon Fund</a></li>
 </ol>
 </td></tr>
 
@@ -120,6 +134,8 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <ol>
  <li><a href="https://dsa.org.sg/" target='_blank'>Deaf Sports Association (Singapore)</a></li>
  <li><a href="http://parabowlsingapore.org/" target='_blank'>Lawn Bowls Association for the Disabled (Singapore)</a></li>
+ <li><a href="https://sdsc.org.sg/" target='_blank'>Singapore Disability Sports Council</a></li>
+ <li><a href="https://www.specialolympics.org/programs/asia-pacific/singapore" target='_blank'>Special Olympics Singapore</a></li>
 </ol>
 </td></tr>
 
@@ -128,18 +144,23 @@ Every year, our community outreach and fundraising campaign selects a large numb
 </td></tr>
 <tr><td>
 <ol>
-<li><a href="https://www.comchest.sg/" target='_blank'>Community Chest</a></li>
-<li><a href="http://www.campusimpact.org.sg/" target='_blank'>CampusImpact</a></li>
-<li><a href="https://girlguides.org.sg/" target='_blank'>Girl Guides Singapore</a></li>
-<li><a href="https://www.lakeside.org.sg/" target='_blank'>Lakeside Family Services</a></li>
-<li><a href="https://www.nationalgallery.sg/" target='_blank'>National Gallery Singapore</a></li>
-<li><a href="https://www.onehopecentre.org/" target='_blank'>One Hope Centre</a></li>
+<li><a href="https://www.comchest.gov.sg/" target='_blank'>Community Chest</a></li>
+<li><a href="https://www.awwa.org.sg/" target='_blank'>AWWA Ltd</a></li>
+<li><a href="https://caringfleet.com/" target='_blank'>Caring Fleet Services</a></li>
+<li><a href="https://cyclingwithoutage.sg/" target='_blank'>Cycling Without Age Singapore</a></li>
+<li><a href="https://emcc.org.sg/" target='_blank'>Eagles Mediation &amp; Counselling Centre (EMCC)</a></li>
+<li><a href="https://www.hcsa.org.sg/" target='_blank'>HCSA Community Services</a></li>
+<li><a href="https://www.ojoy.org/" target='_blank'>O’Joy Limited</a></li>
+<li><a href="http://4pm.org.sg/" target='_blank'>Persatuan Persuratan Pemuda Pemudi Melayu (Malay Youth Literary Association)</a></li>
+<li><a href="https://www.playeum.com/" target='_blank'>Playeum Ltd</a></li>
 <li><a href="https://www.reach.org.sg/" target='_blank'>REACH Community Services Society</a></li>
-<li><a href="http://www.salemwelfareservices.org.sg/" target='_blank'>Salem Welfare Services Ltd</a></li>
-<li><a href="https://foodbank.sg/" target='_blank'>The Food Bank Singapore Ltd</a></li>
-<li><a href="https://xinyuan.org.sg/" target='_blank'>Xin Yuan Community Care</a></li>
+<li><a href="https://savh.org.sg/" target='_blank'>Singapore Association of the Visually Handicapped (SAVH)</a></li>
+<li><a href="https://www.eurasians.sg/" target='_blank'>The Eurasian Association</a></li>
+<li><a href="https://www.wecare.org.sg/" target='_blank'>WE CARE Community Services Ltd</a></li>
+<li><a href="https://www.ymca.org.sg/" target='_blank'>YMCA Of Singapore</a></li>
+<li><a href="https://www.yong-en.org.sg/2019/" target='_blank'>Yong-en Care Centre</a></li>
 </ol>
-</td></tr>
+ </td></tr> 
 
 
 
@@ -147,12 +168,12 @@ Every year, our community outreach and fundraising campaign selects a large numb
 </td></tr>
 <tr><td>
  <ol>
-<li><a href="http://www.clubheal.org.sg/" target='_blank'>Club HEAL</a></li>
-<li><a href="http://www.minds.org.sg/ " target='_blank'>Movement for the Intellectually Disabled of SIngapore</a></li>
-<li><a href="https://www.mdas.org.sg/" target='_blank'>Muscular Dystrophy Association (Singapore)</a></li>
-<li><a href="http://www.wecare.org.sg/" target='_blank'>WE CARE Community Services</a></li>
-<li><a href="https://employment.sgenable.sg/" target='_blank'>SG Enable Ltd</a></li>
-<li><a href="https://www.spd.org.sg/" target='_blank'>SPD</a></li>
+<li><a href="https://www.amp.org.sg/" target='_blank'>Association of Muslim Professionals</a></li>
+<li><a href="https://www.bizlink.org.sg/" target='_blank'>Bizlink Centre Singapore Ltd</a></li>
+<li><a href="http://centreforseniors.org.sg/wps/portal/centreforseniors/home" target='_blank'>Centre for Seniors</a></li>
+<li><a href="https://www.imda.gov.sg/for-community/digital-readiness/Digital-For-Life#:~:text=The%20Digital%20for%20Life%20Fund,eligible%20for%20250%25%20tax%20deduction." target='_blank'>Digital for Life Fund</a></li>  
+<li><a href="https://www.rainbowcentre.org.sg/" target='_blank'>Rainbow Centre, Singapore</a></li>
+<li><a href="https://www.trybe.org/" target='_blank'>Trybe Limited</a></li>
  </ol>
 </td></tr>
 </table> 
