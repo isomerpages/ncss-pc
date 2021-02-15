@@ -153,84 +153,84 @@ collection_name: left-nav-three
 	<td><img src="/images/JWMarriottSingapore.jpg" width="200px" alt="JW Marriott Singapore South Beach"  /> </td>
 	<td><img src="/images/eep_45_LaTierra.jpg" width="200px" alt="La Tierra" /> </td>
 	<td><img src="/images/eep_46_LeMeridien.jpg" width="200px" alt="Le Meridien Resort at Sentosa, Singapore " /> </td>
-	<td><img src="/images/eep_47_HotelM.jpg" width="200px" alt="M HOTEL " /> </td>	
+	<td><img src="/images/LikeMeetWork_Pte_Ltd.jpg" width="200px" alt="Like Meet Work Coworking Space" /> </td>
 </tr>	
 
 <tr>	
 	<td>JW Marriott Singapore South Beach</td>
 	<td>La Tierra</td>
 	<td>Le Meridien Resort at Sentosa, Singapore </td>
-	<td>M HOTEL </td>	
+	<td>Like Meet Work Coworking Space </td>
 </tr>	
 	
 <tr>	
+	<td><img src="/images/eep_47_HotelM.jpg" width="200px" alt="M HOTEL " /> </td>	
 	<td><img src="/images/eep_48_make.jpg" width="200px" alt="Make The Change Pte Ltd" /> </td>
 	<td><img src="/images/eep_49_Mandarin.jpg" width="200px" alt="Mandarin Orchard Singapore" /> </td>
 	<td><img src="/images/eep_50_Marina.png" width="200px" alt="MARINA BAY HOTEL PTE LTD" /> </td>
-	<td><img src="/images/MercureSingaporeBugis.jpg" width="200px" alt="Mercure Singapore on Bugis" /> </td>
 </tr>
 	
 <tr>	
+	<td>M HOTEL </td>	
 	<td>Make The Change Pte Ltd</td>
 	<td>Mandarin Orchard Singapore</td>
 	<td>Mandarin Oriental Singapore</td>
-	<td>Mercure Singapore on Bugis</td>	
 </tr>	
 		
 <tr>	
+	<td><img src="/images/MercureSingaporeBugis.jpg" width="200px" alt="Mercure Singapore on Bugis" /> </td>
 	<td><img src="/images/eep_51_Mercure.png" width="200px" alt="Mercure Singapore on Stevens" /> </td>
 	<td><img src="/images/eep_52_Novotel.png" width="200px" alt="Novotel Singapore on Stevens" /> </td>
 	<td><img src="/images/eep_53_One.png" width="200px" alt="One Farrer Hotel" /> </td>
-	<td><img src="/images/eep_27_City_Hotel.jpg" width="200px" alt="Orchard Hotel Singapore" /> </td>
 </tr>	
 
 <tr>	
+	<td>Mercure Singapore on Bugis</td>	
 	<td>Mercure Singapore on Stevens</td>
 	<td>Novotel Singapore on Stevens</td>
 	<td>One Farrer Hotel</td>
-	<td>Orchard Hotel Singapore</td>
 </tr>	
 	
 <tr>	
+	<td><img src="/images/eep_27_City_Hotel.jpg" width="200px" alt="Orchard Hotel Singapore" /> </td>
 	<td><img src="/images/PanPacificServiced.jpg" width="200px" alt="Pan Pacific Serviced Suites Beach Road, Singapore"  /> </td>
 	<td><img src="/images/ParkAvenueChangi.jpg" width="200px" alt="Park Avenue Changi"  /> </td>
 	<td><img src="/images/ParkAvenueHospitality.jpg" width="200px" alt="Park Avenue Hospitality"  /> </td>
-	<td><img src="/images/ParkAvenueRochester.jpg" width="200px" alt="Park Avenue Rochester"  /> </td> 
 </tr>	
 
 <tr>	
+	<td>Orchard Hotel Singapore</td>
 	<td>Pan Pacific Serviced Suites Beach Road, Singapore</td>
 	<td>Park Avenue Changi</td>
 	<td>Park Avenue Hospitality</td>
-	<td>Park Avenue Rochester</td>	
 </tr>		
 
 <tr>
+	<td><img src="/images/ParkAvenueRochester.jpg" width="200px" alt="Park Avenue Rochester"  /> </td> 
 	<td><img src="/images/ParkHotelAlexandra.jpg" width="200px" alt="Park Hotel Alexandra"  /> </td>
 	<td><img src="/images/ParkHotelClarkeQuay.png" width="200px" alt="Park Hotel Clarke Quay"  /> </td>
 	<td><img src="/images/ParkHotelFarrerPark.jpg" width="200px" alt="Park Hotel Farrer Park"  /> </td>
-	<td><img src="/images/ParkHotelGroup.jpg" width="200px" alt="Park Hotel Group"  /> </td>	
 </tr>	
 
 <tr>	
+	<td>Park Avenue Rochester</td>	
 	<td>Park Hotel Alexandra</td>
 	<td>Park Hotel Clarke Quay</td>
 	<td>Park Hotel Farrer Park</td>
-	<td>Park Hotel Group</td>
 </tr>	
  
 <tr>	
+	<td><img src="/images/ParkHotelGroup.jpg" width="200px" alt="Park Hotel Group"  /> </td>	
 	<td><img src="/images/eep_54_Parkroyal.jpg" width="200px" alt="PARKROYAL COLLECTION Marina Bay" /> </td>
 	<td><img src="/images/Parkroyalcollection.jpg" width="200px" alt="PARKROYAL COLLECTION Pickering" /> </td>
 	<td><img src="/images/PARKROYALonBeachRoad.png" width="200px" alt="PARKROYAL on Beach Road" /> </td>
-	<td><img src="/images/eep_56_Parkroyal3.png" width="200px" alt="PARKROYAL on Kitchener Road" /> </td>	
 </tr>	
 
 <tr>	
+	<td>Park Hotel Group</td>
 	<td>PARKROYAL COLLECTION Marina Bay</td>
 	<td>PARKROYAL COLLECTION Pickering</td>
 	<td>PARKROYAL on Beach Road</td>
-	<td>PARKROYAL on Kitchener Road</td>	
 </tr>	
 	
 <tr>	
@@ -248,11 +248,25 @@ collection_name: left-nav-three
 </tr>	
 	
 <tr>	
+	<td><img src="/images/eep_56_Parkroyal3.png" width="200px" alt="PARKROYAL on Kitchener Road" /> </td>	
+	<td><img src="/images/Route.png" width="200px" alt="Route" /> </td>	
+	<td><img src="/images/SBSTransitLtd.jpg" width="200px" alt="SBS Transit" /> </td>
+	<td><img src="/images/Seoul_Garden_Group_Pte_Ltd.jpg" width="200px" alt="Seoul Garden Group" /> </td>	
+</tr>
+
+<tr>	
+	<td>PARKROYAL on Kitchener Road</td>
+	<td>Route</td>	
+	<td>SBS Transit</td>
+	<td>Seoul Garden Group</td>		
+</tr>	
+
+<tr>
 	<td><img src="/images/eep_58_Shangri2.jpg" width="200px" alt="Shangri-La Rasa Sentosa Resort and Spa, Singapore" /> </td>
 	<td><img src="/images/SheratonTowersSingapore.JPG"   width="200px" alt="Sheraton Towers Singapore" /> </td>
 	<td><img src="/images/eep_59_Marriott.jpg" width="200px" alt="Singapore Marriott Tang Plaza Hotel" /> </td>
 	<td><img src="/images/eep_60_six.jpg" width="200px" alt="Six Senses Singapore" /> </td>	
-</tr>
+</tr>	
 	
 <tr>	
 	<td>Shangri-La Rasa Sentosa Resort and Spa, Singapore</td>
@@ -434,28 +448,36 @@ collection_name: left-nav-three
 <tr>	
 	<td><img src="/images/The_Talent_Shark_Pte_Ltd.png" width="200px" alt="The Talent Shark Pte Ltd"  /> </td>
 	<td><img src="/images/Travelodge_Harbourfront_Singapore.png" width="250px" alt="Travelodge Harbourfront Singapore"  /> </td>
+	<td><img src="/images/Thong_Siek_Food_Industry_Pte_Ltd.png" width="200px" alt="Thong Siek Food Industry Pte Ltd"  /> </td>
 	<td><img src="/images/UE_Park_Avenue_International_Pte_Ltd.jpg" width="200px" alt="UE Park Avenue International Pte Ltd"  /> </td>
-	<td><img src="/images/Village_Hotel_Albert_Court.png" width="200px" alt="Village Hotel Albert Court"  /> </td>
 </tr>	
 
 <tr>	
 	<td>The Talent Shark Pte Ltd</td>
 	<td>Travelodge Harbourfront Singapore</td>
+	<td>Thong Siek Food Industry Pte Ltd</td>
 	<td>UE Park Avenue International Pte Ltd</td>
-	<td>Village Hotel Albert Court</td>
 </tr>
 
 <tr>	
+	<td><img src="/images/Village_Hotel_Albert_Court.png" width="200px" alt="Village Hotel Albert Court"  /> </td>
 	<td><img src="/images/Village_Hotel_Bugis.png" width="200px" alt="Village Hotel Bugis"  /> </td>
 	<td><img src="/images/Village_Hotel_Changi.png" width="250px" alt="Village Hotel Changi"  /> </td>
 	<td><img src="/images/Village_Hotel_Katong.png" width="300px" alt="Village Hotel Katong"  /> </td>
-	<td><img src="/images/Village_Hotel_Sentosa.png" width="180px" alt="Village Hotel Sentosa"  /> </td>
 </tr>	
 
 <tr>	
+	<td>Village Hotel Albert Court</td>
 	<td>Village Hotel Bugis</td>
 	<td>Village Hotel Changi</td>
 	<td>Village Hotel Katong</td>
+</tr>
+
+<tr>
+	<td><img src="/images/Village_Hotel_Sentosa.png" width="180px" alt="Village Hotel Sentosa"  /> </td>
+</tr>
+
+<tr>	
 	<td>Village Hotel Sentosa</td>
 </tr>
 
