@@ -160,7 +160,7 @@ collection_name: left-nav-three
 	<td>JW Marriott Singapore South Beach</td>
 	<td>La Tierra</td>
 	<td>Le Meridien Resort at Sentosa, Singapore </td>
-	<td>Like Meet Work Coworking Space </td>
+	<td>LikeMeetWork Pte. Ltd. </td>
 </tr>	
 	
 <tr>	
@@ -256,9 +256,9 @@ collection_name: left-nav-three
 
 <tr>	
 	<td>PARKROYAL on Kitchener Road</td>
-	<td>Route</td>	
-	<td>SBS Transit</td>
-	<td>Seoul Garden Group</td>		
+	<td>Route One Consulting Pte Ltd</td>	
+	<td>SBS Transit Ltd</td>
+	<td>Seoul Garden Group Pte Ltd</td>		
 </tr>	
 
 <tr>
