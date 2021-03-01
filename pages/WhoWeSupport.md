@@ -101,12 +101,11 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <li><a href="https://www.hca.org.sg/" target='_blank'>HCA Hospice Care</a></li>
 <li><a href="https://nkfs.org/" target='_blank'>National Kidney Foundation</a></li> 
 <li><a href="https://www.sata.com.sg/" target='_blank'>SATA Commhealth</a></li>
-<li><a href="https://www.silverribbonsingapore.com/" target='_blank'>Silver Ribbon</a></li> 
 <li><a href="https://www.samhealth.org.sg/" target='_blank'>Singapore Association for Mental Health, The (SAMH)</a></li> 
 <li><a href="https://www.giving.sg/web/singhealth-fund" target='_blank'>SingHealth Fund</a></li>
+<li><a href="https://www.silverribbonsingapore.com/" target='_blank'>Silver Ribbon</a></li> 
 <li><a href="https://www.slh.org.sg/" target='_blank'>St Luke's Hospital</a></li>
 <li><a href="https://www.swami.org.sg/" target='_blank'>Sunshine Welfare Action Mission (SWAMI)</a></li>
-<li><a href="https://www.silverribbonsingapore.com/" target='_blank'>Silver Ribbon</a></li> 
 </ol>
 </td></tr>
 
