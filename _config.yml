@@ -1,8 +1,7 @@
 title: President's Challenge 
 title-abbreviated: President's Challenge
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: President's Challenge. Empowering Lives, Uplifting Communities.
+url: https://www.presidentschallenge.gov.sg
 
 # Build settings
 markdown: kramdown
