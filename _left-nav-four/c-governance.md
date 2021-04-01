@@ -9,6 +9,7 @@ collection_name: left-nav-four
 ### GOVERNANCE
 
 #### Disbursement of Funds
+[2019 Disbursement of Funds](/files/2019_Disbursement_of_Funds.pdf){:target="_blank"} <br>
 [2016 Disbursement of Funds](/files/2016-Disbursement-of-Funds_1.pdf){:target="_blank"} <br>
 [2015 Disbursement of Funds](/files/2015-disbursements-edited.pdf){:target="_blank"} <br>
 [2014 Disbursement of Funds](/files/2014-disbursements-edited.pdf){:target="_blank"} <br>
