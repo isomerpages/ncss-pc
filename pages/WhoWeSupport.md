@@ -106,6 +106,7 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <li><a href="https://www.silverribbonsingapore.com/" target='_blank'>Silver Ribbon</a></li> 
 <li><a href="https://www.slh.org.sg/" target='_blank'>St Luke's Hospital</a></li>
 <li><a href="https://www.swami.org.sg/" target='_blank'>Sunshine Welfare Action Mission (SWAMI)</a></li>
+ <li><a href="https://www.ttsh.com.sg/about-ttsh/ttsh-community-fund/" target='_blank'>TTSH Community Fund</a></li>
 </ol>
 </td></tr>
 
