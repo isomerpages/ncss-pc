@@ -11,14 +11,14 @@ collection_name: left-nav-three
 <tr>
 	<td width="25%"><img src="/images/eep_21_Amara_Singapore.png" width="200px" alt="Amara Singapore" /></td> 
 	<td width="25%"><img src="/images/eep_22_Andaz_Singapore.jpg" width="250px" alt="Andaz Singapore" /> </td>
-	<td width="25%"><img src="/images/eep_23_Blksg_Pte_td.png" width="200px" alt="Blk.sg Pte Ltd" /> </td>
+	<td width="25%"><img src="/images/BLK_LOGO_CAMERA.jpg" width="200px" alt="Blk.sg" /> </td>
 	<td width="25%"><img src="/images/eep_24_Capri1.jpg" width="200px" alt="Capri by Fraser, Changi City  Singapore" /> </td>
 </tr>
 
 <tr>
 	<td>Amara Singapore</td>
 	<td>Andaz Singapore</td>
-	<td>Blk.sg Pte Ltd</td>
+	<td>Blk.sg</td>
 	<td>Capri by Fraser, Changi City  Singapore</td>
 </tr>
 
