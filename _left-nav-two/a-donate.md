@@ -18,10 +18,10 @@ The funds raised will make a difference in their lives.
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
 <tr><td width="33%" align="center"> <img src="/images/Donate-Story1.jpg" style="width:200px;height:200px;" alt="" border="0"> </td>
 <td width="34%" align="center"> <img src="/images/person-seeing-doctor.jpg" style="width:200px;height:200px;" alt="" border="0"> </td>
-<td width="33%" align="center"> <img src="/images/Donate-Story3.jpg" style="width:200px;height:200px;" alt="" border="0"> </td></tr>
+<td width="33%" align="center"> <img src="/images/Donate-Story3a.jpg" style="width:200px;height:200px;" alt="" border="0"> </td></tr>
 <tr><td><b>$20</b> goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.</td>
 <td><b>$50</b> helps subsidise the medical costs for the less fortunate such as their doctor visits and medication.</td>
-<td><b>$100</b> covers skills training costs so that those with intellectual disabilities can lead independent lives.</td></tr></table>
+<td><b>$100</b> covers skills training costs so that those with disabilities can lead independent lives.</td></tr></table>
  <br>
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/TmRRl--HJ6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
