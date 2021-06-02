@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Partner With Us
+title: 'Partner With Us'
 permalink: /take-action/partner-with-us/
-breadcrumb: Partner With Us
-collection_name: left-nav-two
+breadcrumb: 'Partner With Us'
+
 ---
+
 
 ### PARTNER WITH US
 
