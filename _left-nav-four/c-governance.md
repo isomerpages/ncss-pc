@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Governance
 permalink: /quick-links/governance/
 breadcrumb: Governance
-collection_name: left-nav-four
+
 ---
+
 
 ### GOVERNANCE
 
