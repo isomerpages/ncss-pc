@@ -1,7 +1,8 @@
 ---
-layout: contact-us
-title: Contact Us
+layout: contact_us
+title: 'Contact Us'
 permalink: /who-we-are/contact-us/
-breadcrumb: Contact Us
-collection_name: left-nav-one
+breadcrumb: 'Contact Us'
+
 ---
+
