@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Useful Links
+title: 'Useful Links'
 permalink: /quick-links/useful-links/
-breadcrumb: Useful Links
-collection_name: left-nav-four
+breadcrumb: 'Useful Links'
+
 ---
+
 
 Find out all the information you may need to know about the social service sector and relevant organisations in Singapore.
 
