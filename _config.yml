@@ -13,13 +13,13 @@ paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 collections:
-    left-nav-one:
+    who-we-are:
         output: true
-    left-nav-two:
+    take-action:
         output: true
-    left-nav-three:
+    enabling-employment-pledge:
         output: true
-    left-nav-four:
+    links:
         output: true
 resources_name: resource-room
 favicon: /images/favicon.ico
