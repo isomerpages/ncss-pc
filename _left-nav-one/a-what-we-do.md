@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: What We Do
+title: 'What We Do'
 permalink: /who-we-are/what-we-do/
-breadcrumb: What We Do
-collection_name: left-nav-one
+breadcrumb: 'What We Do'
+
 ---
+
 
 ### WHAT WE DO
 
