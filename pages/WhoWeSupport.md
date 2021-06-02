@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Who We Support
+title: 'Who We Support'
 permalink: /WhoWeSupport/
-breadcrumb: Who We Support
+breadcrumb: 'Who We Support'
+
 ---
+
 
 ### WHO WE SUPPORT
 
