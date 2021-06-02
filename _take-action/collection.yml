@@ -1,0 +1,7 @@
+collections:
+  take-action:
+    output: true
+    order:
+      - donate.md
+      - volunteer.md
+      - partner-with-us.md
