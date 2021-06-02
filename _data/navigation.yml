@@ -11,4 +11,13 @@ links:
     - title: 'Enabling Employment Pledge'
       collection: enabling-employment-pledge
     - title: Links
-      collection: links
+      false_collection: true
+      sublinks:
+      - title: Useful Links
+        url: /quick-links/useful-links/
+      - title: Forms
+        url: /quick-links/forms/
+      - title: Governance
+        url: /quick-links/governance/
+      - title: Media
+        url: /resource-room/
