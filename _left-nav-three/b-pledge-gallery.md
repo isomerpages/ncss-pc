@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Pledge Gallery
+title: 'Pledge Gallery'
 permalink: /enabling-employment-pledge/pledge-gallery
-breadcrumb: Pledge Gallery
-collection_name: left-nav-three
+breadcrumb: 'Pledge Gallery'
+
 ---
+
 
 <table>
 
