@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Empowering for Life Fund
+title: 'Empowering for Life Fund'
 permalink: /empowering-for-life-fund/
-breadcrumb: Empowering for Life Fund
+breadcrumb: 'Empowering for Life Fund'
+
 ---
+
 
 ### EMPOWERING FOR LIFE FUND
 
