@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: PartnerWithUs
 permalink: /PartnerWithUs/
 breadcrumb: PartnerWithUs
+
 ---
+
 
 ### PARTNER WITH US
 

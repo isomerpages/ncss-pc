@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Donate
 permalink: /Donate/
 breadcrumb: Donate
+
 ---
+
 
 ### MAKE A DIFFERENCE
 

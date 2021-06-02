@@ -1,51 +1,47 @@
-title: President's Challenge 
-title-abbreviated: President's Challenge
-description: President's Challenge. Empowering Lives, Uplifting Communities.
-url: https://www.presidentschallenge.gov.sg
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'President''s Challenge'
+title-abbreviated: 'President''s Challenge'
+description: 'President''s Challenge. Empowering Lives, Uplifting Communities.'
+url: 'https://www.presidentschallenge.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
-
-# Feedback Form URL
-feedback_form_url: "https://form.gov.sg/#!/5e7c0d4734d8b200113b99be"
-
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-
-baseurl: ""
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 collections:
-  left-nav-one:
-    output: true
-  left-nav-two:
-    output: true
-  left-nav-three:
-    output: true
-  left-nav-four:
-    output: true
+    who-we-are:
+        output: true
+    take-action:
+        output: true
+    enabling-employment-pledge:
+        output: true
+    links:
+        output: true
 resources_name: resource-room
+favicon: /images/favicon.ico
+google_analytics: UA-2833102-27
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
+colors:
+    primary-color: '#6031b6'
+    secondary-color: '#2650AB'
+    media-colors:
+        - title: media-color-one
+          color: '#33566C'
+        - title: media-color-two
+          color: '#6C4794'
+        - title: media-color-three
+          color: '#00626B'
+        - title: media-color-four
+          color: '#00626B'
+        - title: media-color-five
+          color: '#00626B'

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Milestones
 permalink: /who-we-are/milestones
 breadcrumb: Milestones
-collection_name: left-nav-one
+
 ---
+
 
 <table widh="100%">
   <tr><td colspan="2"><b>Year 2000</b></td></tr>

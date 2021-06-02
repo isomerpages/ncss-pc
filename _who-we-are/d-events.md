@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Events
 permalink: /who-we-are/events/
 breadcrumb: Events
-collection_name: left-nav-one
+
 ---
+
 
 ### EVENTS
 

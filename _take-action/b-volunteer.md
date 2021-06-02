@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Volunteer
 permalink: /take-action/volunteer/
 breadcrumb: Volunteer
-collection_name: left-nav-two
+
 ---
+
 
 ### VOLUNTEER DRIVE
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Donate
 permalink: /take-action/donate/
 breadcrumb: Donate
-collection_name: left-nav-two
+
 ---
+
 
 ### MAKE A DIFFERENCE
 

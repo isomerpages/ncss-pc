@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: PC Social Enterprise Awards
+title: 'PC Social Enterprise Awards'
 permalink: /who-we-are/social-enterprise/
-breadcrumb: PC Social Enterprise Awards
-collection_name: left-nav-one
+breadcrumb: 'PC Social Enterprise Awards'
+
 ---
+
 
 ### PRESIDENT’S CHALLENGE SOCIAL ENTERPRISE AWARD
 
