@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Take the Enabling Employment Pledge
+title: 'Take the Enabling Employment Pledge'
 permalink: /enabling-employment-pledge/take-pledge
-breadcrumb: Take the Enabling Employment Pledge
-collection_name: left-nav-three
+breadcrumb: 'Take the Enabling Employment Pledge'
+
 ---
+
 
 
 ### ENABLING EMPLOYMENT PLEDGE
