@@ -1,59 +1,23 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-# - title: About
-#  sub-links:
-#  - title: What We Do
-#    url: /WhatWeDo/
-#  - title: Milestones
-#    url: /left-nav-one/sub-page-B/
-#  - title: Social Enterprise
-#    url: /left-nav-two/sub-page-C/
-#  - title: Events
-#    url: /left-nav-two/sub-page-D/
-#  - title: Contact Us
-#    url: /contact-us/ 
-- title: Who We Are
-  sub-links:
-  - title: What We Do
-    url: /who-we-are/what-we-do/
-  - title: Milestones
-    url: /who-we-are/milestones/
-  - title: Social Enterprise
-    url: /who-we-are/social-enterprise/
-  - title: Events
-    url: /who-we-are/Events/
-  - title: Contact Us
-    url: /who-we-are/contact-us/
-- title: Who We Support
-  url: /WhoWeSupport/
-- title: Take Action
-  sub-links:
-  - title: Donate
-    url: /take-action/donate/
-  - title: Volunteer
-    url: /take-action/volunteer/
-  - title: Partner With Us
-    url: /take-action/partner-with-us/
-- title: Empowering for Life Fund
-  url: /empowering-for-life-fund/
-- title: Enabling Employment Pledge
-  sub-links:
-  - title: Take the Enabling Employment Pledge 
-    url: /enabling-employment-pledge/take-pledge/
-  - title: Pledge Gallery
-    url: /enabling-employment-pledge/pledge-gallery/
-- title: Links
-  sub-links:
-  - title: Useful Links
-    url: /quick-links/useful-links/
-  - title: Forms
-    url: /quick-links/forms/
-  - title: Governance
-    url: /quick-links/governance/
-  - title: Media
-    url: /resource-room/
- 
+logo: /images/pc_2020_may_11_v1.png
+links:
+    - title: 'Who We Are'
+      collection: who-we-are
+    - title: 'Who We Support'
+      url: /WhoWeSupport/
+    - title: 'Take Action'
+      collection: take-action
+    - title: 'Empowering for Life Fund'
+      url: /empowering-for-life-fund/
+    - title: 'Enabling Employment Pledge'
+      collection: enabling-employment-pledge
+    - title: Links
+      false_collection: true
+      sublinks:
+      - title: Useful Links
+        url: /quick-links/useful-links/
+      - title: Forms
+        url: /quick-links/forms/
+      - title: Governance
+        url: /quick-links/governance/
+      - title: Media
+        url: /resource-room/

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Volunteer
 permalink: /Volunteer/
 breadcrumb: Volunteer
+
 ---
+
 ### VOLUNTEER DRIVE
 
 ![Volunteer Banner](/images/Volunteer-banner_1.jpg "Volunteer Banner")
