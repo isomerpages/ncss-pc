@@ -1,11 +1,8 @@
 ---
-title: 'Pledge Gallery'
+title: Pledge Gallery
 permalink: /enabling-employment-pledge/pledge-gallery
-breadcrumb: 'Pledge Gallery'
-
+breadcrumb: Pledge Gallery
 ---
-
-
 <table>
 
 <tr>
@@ -250,7 +247,7 @@ breadcrumb: 'Pledge Gallery'
 <tr>	
 	<td><img src="/images/eep_56_Parkroyal3.png" width="200px" alt="PARKROYAL on Kitchener Road" /> </td>	
 	<td><img src="/images/Route.png" width="200px" alt="Route" /> </td>	
-	<td><img src="/images/SBSTransitLtd.jpg" width="200px" alt="SBS Transit" /> </td>
+	<td><img src="/images/SBS_new.jpg" width="200px" alt="SBS Transit" /> </td>
 	<td><img src="/images/Seoul_Garden_Group_Pte_Ltd.jpg" width="200px" alt="Seoul Garden Group" /> </td>	
 </tr>
 
@@ -486,4 +483,3 @@ breadcrumb: 'Pledge Gallery'
 </tr>
 
 </table>
-
