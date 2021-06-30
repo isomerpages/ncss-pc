@@ -248,235 +248,235 @@ breadcrumb: Pledge Gallery
 	<td><img src="/images/eep_56_Parkroyal3.png" width="200px" alt="PARKROYAL on Kitchener Road" /> </td>	
 	<td><img src="/images/Route.png" width="200px" alt="Route" /> </td>	
 	<td><img src="/images/SBS_new.jpg" width="200px" alt="SBS Transit" /> </td>
-	<td><img src="/images/Seoul_Garden_Group_Pte_Ltd.jpg" width="200px" alt="Seoul Garden Group" /> </td>	
+	<td><img src="/images/Sephora Asia Pte Ltd.png" width="200px" alt="Sephora Asia Pte Ltd" /> </td>	
 </tr>
 
 <tr>	
 	<td>PARKROYAL on Kitchener Road</td>
 	<td>Route One Consulting Pte Ltd</td>	
 	<td>SBS Transit Ltd</td>
-	<td>Seoul Garden Group Pte Ltd</td>		
+	<td>Sephora Asia Pte Ltd</td>		
 </tr>	
 
 <tr>
+		<td><img src="/images/Seoul_Garden_Group_Pte_Ltd.jpg" width="200px" alt="Seoul Garden Group" /> </td>	
 	<td><img src="/images/eep_58_Shangri2.jpg" width="200px" alt="Shangri-La Rasa Sentosa Resort and Spa, Singapore" /> </td>
 	<td><img src="/images/SheratonTowersSingapore.JPG"   width="200px" alt="Sheraton Towers Singapore" /> </td>
 	<td><img src="/images/eep_59_Marriott.jpg" width="200px" alt="Singapore Marriott Tang Plaza Hotel" /> </td>
-	<td><img src="/images/eep_60_six.jpg" width="200px" alt="Six Senses Singapore" /> </td>	
 </tr>	
 	
 <tr>	
+	<td>Seoul Garden Group</td>		
 	<td>Shangri-La Rasa Sentosa Resort and Spa, Singapore</td>
 	<td>Sheraton Towers Singapore</td>
 	<td>Singapore Marriott Tang Plaza Hotel</td>
-	<td>Six Senses Singapore</td>	
 </tr>	
 
 <tr> 
+		<td><img src="/images/eep_60_six.jpg" width="200px" alt="Six Senses Singapore" /> </td>	
 	<td><img src="/images/SOSofitelSingapore.jpg" width="200px" alt="SO/ Sofitel Singapore" /> </td>
 	<td><img src="/images/eep_62_Sodexo.jpg" width="200px" alt="SODEXO SINGAPORE PTE LTD" /> </td>
 	<td><img src="/images/eep_63_sofitel.jpg" width="200px" alt="Sofitel Singapore City Centre" /> </td>
-	<td><img src="/images/SofitelSingaporeSentosa.jpg" width="200px" alt="Sofitel Singapore Sentosa Resort & Spa"  /> </td>
 </tr>
 
 <tr>
+	<td>Six Senses Singapore</td>	
 	<td>SO/ Sofitel Singapore</td>
 	<td>SODEXO SINGAPORE PTE LTD</td>
 	<td>Sofitel Singapore City Centre</td>
-	<td>Sofitel Singapore Sentosa Resort & Spa</td>
 </tr>
 	
 <tr>	
+		<td><img src="/images/SofitelSingaporeSentosa.jpg" width="200px" alt="Sofitel Singapore Sentosa Resort & Spa"  /> </td>
 	<td><img src="/images/eep_64_studio.jpg" width="200px" alt="STUDIO M HOTEL" /> </td>
 	<td><img src="/images/eep_65_capitol.png" width="200px" alt="The Capitol Kempinski Hotel Singapore" /> </td>
 	<td><img src="/images/eep_66_fullerton.png" width="200px" alt="The Fullerton Bay Hotel Singapore" /> </td>
-	<td><img src="/images/eep_67_fullerton.png" width="200px" alt="The Fullerton Hotel Singapore" /> </td>	
 </tr>	
 
-<tr>	
+<tr>
+	<td>Sofitel Singapore Sentosa Resort & Spa</td>
 	<td>STUDIO M HOTEL</td>
 	<td>The Capitol Kempinski Hotel Singapore</td>
 	<td>The Fullerton Bay Hotel Singapore</td>
-	<td>The Fullerton Hotel Singapore</td>	
 </tr>	
 	
 <tr>	
+	<td><img src="/images/eep_67_fullerton.png" width="200px" alt="The Fullerton Hotel Singapore" /> </td>	
 	<td><img src="/images/ThePanPacificHotelSingapore.jpg" width="200px" alt="The Pan Pacific Hotel Singapore"  /> </td>
 	<td><img src="/images/TheRegentSingapore.jpg" width="200px" alt="The Regent Singapore" /> </td>	
 	<td><img src="/images/eep_68_ritz.jpg" width="200px" alt="THE RITZ-CARLTON, MILLENIA SINGAPORE" /> </td>
-	<td><img src="/images/TheScarletHotelPteLtd.jpg" width="200px" alt="The Scarlet Hotel Pte Ltd" /> </td>	
 </tr>	
 
 <tr>	
+	<td>The Fullerton Hotel Singapore</td>	
 	<td>The Pan Pacific Hotel Singapore</td>
 	<td>The Regent Singapore</td>
 	<td>THE RITZ-CARLTON, MILLENIA SINGAPORE</td>
-	<td>The Scarlet Hotel Pte Ltd</td>
 </tr>	
 	
 <tr>	
+	<td><img src="/images/TheScarletHotelPteLtd.jpg" width="200px" alt="The Scarlet Hotel Pte Ltd" /> </td>	
 	<td><img src="/images/eep_61_social.png" width="200px" alt="Social Space Primary Logo" /> </td>
 	<td><img src="/images/eep_69_warehouse.jpg" width="200px" alt="The Warehouse Hotel" /> </td>
 	<td><img src="/images/eep_70_ymca.png" width="200px" alt="YMCA of Singapore" /> </td>
-	<td><img src="/images/YorkHotelPteLtd.jpg" width="200px" alt="York Hotel Pte Ltd" /> </td>
 </tr>	
 
 <tr>	
+	<td>The Scarlet Hotel Pte Ltd</td>
 	<td>The Social Space</td>
 	<td>The Warehouse Hotel</td>
 	<td>YMCA of Singapore</td>
-	<td>York Hotel Pte Ltd</td>
-
 </tr>
  
-
 <tr>	
+	<td><img src="/images/YorkHotelPteLtd.jpg" width="200px" alt="York Hotel Pte Ltd" /> </td>
 	<td><img src="/images/YOTELSINGAPOREORCHARDROAD.png" width="200px" alt="YOTEL SINGAPORE ORCHARD ROAD"  /> </td>
 	<td><img src="/images/Facebook_Singapore_Pte_Ltd.jpg" width="200px" alt="Facebook Singapore Pte Ltd"  /> </td>
 	<td><img src="/images/Allegis_Group_Singapore_Pte_Ltd.jpg" width="180px" alt="Allegis Group Singapore Pte Ltd"  /> </td>
-	<td><img src="/images/AMOY_Hotel.png" width="170px" alt="AMOY Hotel"  /> </td>
 </tr>	
 
 <tr>	
+	<td>York Hotel Pte Ltd</td>
 	<td>YOTEL SINGAPORE ORCHARD ROAD</td>
 	<td>Facebook Singapore Pte Ltd</td>
 	<td>Allegis Group Singapore Pte Ltd</td>
-	<td>AMOY Hotel</td>
 </tr>
 
 <tr>	
+	<td><img src="/images/AMOY_Hotel.png" width="170px" alt="AMOY Hotel"  /> </td>
 	<td><img src="/images/Bioclean_Services_Managment_Pte_Ltd.jpg" width="200px" alt="Bioclean Services Managment Pte Ltd"  /> </td>
 	<td><img src="/images/CaptionCubePteLtd.jpg" width="200px" alt="Caption Cube Pte Ltd"  /> </td>
 	<td><img src="/images/Creative_Bulb_Pte_Ltd.jpg" width="200px" alt="Creative Bulb Pte Ltd"  /> </td>
-	<td><img src="/images/CuriousSquirrelsPteLtd.png" width="190px" alt="Curious Squirrels Pte Ltd"  /> </td>
 </tr>	
 
 <tr>	
+	<td>AMOY Hotel</td>
 	<td>Bioclean Services Managment Pte Ltd</td>
 	<td>Caption Cube Pte Ltd</td>
 	<td>Creative Bulb Pte Ltd</td>
-	<td>Curious Squirrels Pte Ltd</td>
 </tr>
 
 <tr>	
+	<td><img src="/images/CuriousSquirrelsPteLtd.png" width="190px" alt="Curious Squirrels Pte Ltd"  /> </td>
 	<td><img src="/images/Cushman_C_W.jpg" width="190px" alt="Cushman & Wakefield"  /> </td>
 	<td><img src="/images/DP-Logo-Colour.png" width="200px" alt="Drum Prodigy Singapore Pte Ltd"  /> </td>
 	<td><img src="/images/FindjobsPteLtd.png" width="200px" alt="Findjobs Pte Ltd"  /> </td>
-	<td><img src="/images/FirmenichAsiaPteLtd.jpg" width="200px" alt="Firmenich Asia Pte Ltd"  /> </td>
 </tr>	
 
 <tr>	
+	<td>Curious Squirrels Pte Ltd</td>
 	<td>Cushman & Wakefield</td>
 	<td>Drum Prodigy Singapore Pte Ltd</td>
 	<td>Findjobs Pte Ltd</td>
-	<td>Firmenich Asia Pte Ltd</td>
 </tr>
 
 <tr>	
+		<td><img src="/images/FirmenichAsiaPteLtd.jpg" width="200px" alt="Firmenich Asia Pte Ltd"  /> </td>
 	<td><img src="/images/ForewordCoffeePteLtd.png" width="200px" alt="Foreword Coffee Pte Ltd"  /> </td>
 	<td><img src="/images/InclusPteLtd.jpg" width="190px" alt="Inclus Pte Ltd"  /> </td>
 	<td><img src="/images/MarinaBaySandsPteLtd.jpg" width="200px" alt="Marina Bay Sands Pte Ltd"  /> </td>
-	<td><img src="/images/MicronSemiconductorAsiaOperationsPteLtd.png" width="200px" alt="Micron Semiconductor Asia Operations Pte Ltd"  /> </td>
 </tr>	
 
 <tr>	
+	<td>Firmenich Asia Pte Ltd</td>
 	<td>Foreword Coffee Pte Ltd</td>
 	<td>Inclus Pte Ltd</td>
 	<td>Marina Bay Sands Pte Ltd</td>
-	<td>Micron Semiconductor Asia Operations Pte Ltd</td>
 </tr>
 
 <tr>	
+	<td><img src="/images/MicronSemiconductorAsiaOperationsPteLtd.png" width="200px" alt="Micron Semiconductor Asia Operations Pte Ltd"  /> </td>
 	<td><img src="/images/NovelDevelopmentsPteLtd_M_Social.jpg" width="200px" alt="Novel Developments Pte Ltd M Social"  /> </td>
 	<td><img src="/images/OasiaHotelDowntown.png" width="200px" alt="Oasia Hotel Downtown"  /> </td>
 	<td><img src="/images/OasiaHotelNovena.png" width="200px" alt="Oasia Hotel Novena"  /> </td>
-	<td><img src="/images/OrchardRendezvousHotel.png" width="300px" alt="Orchard Rendezvous Hotel"  /> </td>
 </tr>	
 
 <tr>	
+	<td>Micron Semiconductor Asia Operations Pte Ltd</td>	
 	<td>Novel Developments Pte Ltd M Social</td>
 	<td>Oasia Hotel Downtown</td>
 	<td>Oasia Hotel Novena</td>
-	<td>Orchard Rendezvous Hotel</td>
 </tr>
 
 <tr>	
+	<td><img src="/images/OrchardRendezvousHotel.png" width="300px" alt="Orchard Rendezvous Hotel"  /> </td>
 	<td><img src="/images/PopeJaiPteLtd.png" width="200px" alt="Pope Jai Pte Ltd"  /> </td>
 	<td><img src="/images/PresbyterianCommunityServices.png" width="200px" alt="Presbyterian Community Services"  /> </td>
 	<td><img src="/images/QanematePteLtd.jpg" width="200px" alt="Qanemate Pte Ltd"  /> </td>
-	<td><img src="/images/QuincyHotel.png" width="250px" alt="Quincy Hotel"  /> </td>
 </tr>	
 
 <tr>	
+	<td>Orchard Rendezvous Hotel</td>	
 	<td>Pope Jai Pte Ltd</td>
 	<td>Presbyterian Community Services</td>
 	<td>Qanemate Pte Ltd</td>
-	<td>Quincy Hotel</td>
 </tr>
 
 <tr>	
-	<td><img src="/images/RendezvousHotelSingapore.png" width="300px" alt="Rendezvous Hotel Singapore"  /> </td>
+<td><img src="/images/QuincyHotel.png" width="250px" alt="Quincy Hotel"  /> </td>
+<td><img src="/images/RendezvousHotelSingapore.png" width="300px" alt="Rendezvous Hotel Singapore"  /> </td>
 	<td><img src="/images/SchoolofConcepts.png" width="200px" alt="School of Concepts"  /> </td>
 	<td><img src="/images/Silver_Spring_Pathfinder_Pte_Ltd.JPG" width="200px" alt="Silver Spring Pathfinder Pte Ltd"  /> </td>
-	<td><img src="/images/The_Assignments.png" width="250px" alt="The Assignments"  /> </td>
 </tr>	
 
 <tr>	
+	<td>Quincy Hotel</td>	
 	<td>Rendezvous Hotel Singapore</td>
 	<td>School of Concepts</td>
 	<td>Silver Spring Pathfinder Pte Ltd</td>
-	<td>The Assignments</td>
 </tr>
 
 <tr>	
+	<td><img src="/images/The_Assignments.png" width="250px" alt="The Assignments"  /> </td>	
 	<td><img src="/images/The_Barracks_Hotel_Sentosa.png" width="300px" alt="The Barracks Hotel Sentosa"  /> </td>
 	<td><img src="/images/The_Clan_Hotel.jpg" width="180px" alt="The Clan Hotel"  /> </td>
 	<td><img src="/images/The_Elizabeth_Hotel.png" width="200px" alt="The Elizabeth Hotel"  /> </td>
-	<td><img src="/images/The_Outpost_Hotel_Sentosa.png" width="250px" alt="The Outpost Hotel Sentosa"  /> </td>
 </tr>	
 
 <tr>	
+	<td>The Assignments</td>	
 	<td>The Barracks Hotel Sentosa</td>
 	<td>The Clan Hotel</td>
 	<td>The Elizabeth Hotel</td>
-	<td>The Outpost Hotel Sentosa</td>
 </tr>
 
 <tr>	
+	<td><img src="/images/The_Outpost_Hotel_Sentosa.png" width="250px" alt="The Outpost Hotel Sentosa"  /> </td>	
 	<td><img src="/images/The_Singapore_Resort_and_Spa.png" width="300px" alt="The Singapore Resort and Spa"  /> </td>
 	<td><img src="/images/The_St_Regis_Singapore.png" width="180px" alt="The St Regis Singapore"  /> </td>
 	<td><img src="/images/The_Talent_Shark_Pte_Ltd.png" width="200px" alt="The Talent Shark Pte Ltd"  /> </td>
-	<td><img src="/images/Travelodge_Harbourfront_Singapore.png" width="250px" alt="Travelodge Harbourfront Singapore"  /> </td>
 </tr>	
 
 <tr>	
+	<td>The Outpost Hotel Sentosa</td>	
 	<td>The Singapore Resort and Spa</td>
 	<td>The St Regis Singapore</td>
 	<td>The Talent Shark Pte Ltd</td>
-	<td>Travelodge Harbourfront Singapore</td>
 </tr>
 
-<tr>	
+<tr>		
+	<td><img src="/images/Travelodge_Harbourfront_Singapore.png" width="250px" alt="Travelodge Harbourfront Singapore"  /> </td>
 	<td><img src="/images/Thong_Siek_Food_Industry_Pte_Ltd.png" width="200px" alt="Thong Siek Food Industry Pte Ltd"  /> </td>
 <td><img src="/images/UE_Park_Avenue_International_Pte_Ltd.jpg" width="200px" alt="UE Park Avenue International Pte Ltd"  /> </td>
 	<td><img src="/images/Village_Hotel_Albert_Court.png" width="200px" alt="Village Hotel Albert Court"  /> </td>
-	<td><img src="/images/Village_Hotel_Bugis.png" width="200px" alt="Village Hotel Bugis"  /> </td>
 </tr>	
 
 <tr>	
+	<td>Travelodge Harbourfront Singapore</td>
 	<td>Thong Siek Food Industry Pte Ltd</td>
 	<td>UE Park Avenue International Pte Ltd</td>
 	<td>Village Hotel Albert Court</td>
-	<td>Village Hotel Bugis</td>
 </tr>
 
-<tr>
+<tr>	
+	<td><img src="/images/Village_Hotel_Bugis.png" width="200px" alt="Village Hotel Bugis"  /> </td>
 	<td><img src="/images/Village_Hotel_Changi.png" width="250px" alt="Village Hotel Changi"  /> </td>
 	<td><img src="/images/Village_Hotel_Katong.png" width="300px" alt="Village Hotel Katong"  /> </td>
 	<td><img src="/images/Village_Hotel_Sentosa.png" width="180px" alt="Village Hotel Sentosa"  /> </td>
 </tr>
 
 <tr>	
+	<td>Village Hotel Bugis</td>
 	<td>Village Hotel Changi</td>
 	<td>Village Hotel Katong</td>
 	<td>Village Hotel Sentosa</td>
