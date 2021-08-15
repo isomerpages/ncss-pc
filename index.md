@@ -23,6 +23,15 @@ sections:
           description: Pledge your inclusive support today.
           url: /enabling-employment-pledge/take-pledge
   - infopic:
+      title: "President's Challenge 2022 - Apply Now! "
+      description: President's Challenge 2022 supports digital inclusion of vulnerable
+        groups. Apply for the President's Challenge Fund & Empowering for Life
+        Fund now!
+      button: Apply now
+      url: https://www.presidentschallenge.gov.sg/quick-links/forms/
+      image: /images/PC2022_Application.jpg
+      alt: Image alt text
+  - infopic:
       title: Empower Lives By Donating
       description: During these challenging times of COVID-19, your support towards
         the President’s Challenge will enable the benefitting organisations to
@@ -55,14 +64,5 @@ sections:
       subtitle: Media
       button: More Media
       url: /resource-room/
-  - infopic:
-      title: "President's Challenge 2022 - Apply Now! "
-      description: President's Challenge 2022 supports digital inclusion of vulnerable
-        groups. Apply for the President's Challenge Fund & Empowering for Life
-        Fund now!
-      button: Apply now
-      url: https://www.presidentschallenge.gov.sg/quick-links/forms/
-      image: /images/PC2022_Application.jpg
-      alt: Image alt text
 notification: "\n\n"
 ---
