@@ -93,8 +93,8 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <tr><td>
 <ol>
 <li><a href="http://www.anrc.org.sg/" target='_blank'>Adventist Nursing and Rehabilitation Centre</a></li>
-<li><a href="https://alz.org.sg/" target='_blank'>Alzheimer's Disease Association</a></li> 
 <li><a href="https://www.assisihospice.org.sg/" target='_blank'>Assisi Hospice</a></li>
+	<li><a href="https://alz.org.sg/" target='_blank'>Dementia Singapore Ltd</a></li> 
 <li><a href="https://www.doverpark.org.sg/" target='_blank'>Dover Park Hospice</a></li>
 <li><a href="https://www.epilepsycare.org/" target='_blank'>Epilepsy Care Group (Singapore)</a></li>
 <li><a href="https://www.hca.org.sg/" target='_blank'>HCA Hospice Care</a></li>
