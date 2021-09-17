@@ -4,9 +4,7 @@ title: President's Challenge
 permalink: /
 sections:
   - hero:
-      title: PRESIDENT'S CHALLENGE
-      subtitle: Empowering Lives, Uplifting Communities
-      background: /images/Homepage_Resized2.jpg
+      background: /images/WebsiteBanner1920x720.jpg
       key_highlights:
         - title: Donate
           description: 100% of your donations go towards the benefitting organisations
