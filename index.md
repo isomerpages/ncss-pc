@@ -4,7 +4,7 @@ title: President's Challenge
 permalink: /
 sections:
   - hero:
-      background: /images/WebsiteBanner1920x720.jpg
+      background: /images/3WebsiteBanner1920x720.jpg
       key_highlights:
         - title: Donate
           description: 100% of your donations go towards the benefitting organisations
@@ -20,6 +20,7 @@ sections:
         - title: Enabling Employment Pledge
           description: Pledge your inclusive support today.
           url: /enabling-employment-pledge/take-pledge
+      url: https://www.giving.sg/president-s-challenge
   - infopic:
       title: "President's Challenge 2022 - Apply Now! "
       description: President's Challenge 2022 supports lower-income families. Apply
