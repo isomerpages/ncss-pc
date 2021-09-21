@@ -22,14 +22,6 @@ sections:
           url: /enabling-employment-pledge/take-pledge
       url: https://www.giving.sg/president-s-challenge
   - infopic:
-      title: "President's Challenge 2022 - Apply Now! "
-      description: President's Challenge 2022 supports lower-income families. Apply
-        for the President's Challenge Fund & Empowering for Life Fund now!
-      button: Apply now
-      url: https://www.presidentschallenge.gov.sg/quick-links/forms/
-      image: /images/PC2022_Application.jpg
-      alt: Image alt text
-  - infopic:
       title: Empower Lives By Donating
       description: During these challenging times of COVID-19, your support towards
         the President’s Challenge will enable the benefitting organisations to
