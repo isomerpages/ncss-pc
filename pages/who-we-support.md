@@ -3,7 +3,6 @@ title: Who We Support
 permalink: /WhoWeSupport/
 breadcrumb: Who We Support
 ---
-
 ### WHO WE SUPPORT
 
 ![Beneficiary Banner](/images/our-beneficiary.jpg "Beneficiary Banner")
