@@ -1,18 +1,16 @@
 logo: /images/pc_2020_may_11_v1.png
 links:
-    - title: 'Who We Are'
-      collection: who-we-are
-    - title: 'Who We Support'
-      url: /WhoWeSupport/
-    - title: 'Take Action'
-      collection: take-action
-    - title: 'Empowering for Life Fund'
-      url: /empowering-for-life-fund/
-    - title: 'Enabling Employment Pledge'
-      collection: enabling-employment-pledge
-    - title: Links
-      false_collection: true
-      sublinks:
+  - title: Who We Are
+    collection: who-we-are
+  - title: Who We Support
+    url: /WhoWeSupport/
+  - title: Take Action
+    collection: take-action
+  - title: Empowering for Life Fund
+    url: /empowering-for-life-fund/
+  - title: Links
+    false_collection: true
+    sublinks:
       - title: Useful Links
         url: /quick-links/useful-links/
       - title: Forms

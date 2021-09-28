@@ -1,6 +1,0 @@
-collections:
-  enabling-employment-pledge:
-    output: true
-    order:
-      - take-the-enabling-employment-pledge.md
-      - pledge-gallery.md
