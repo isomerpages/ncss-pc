@@ -19,7 +19,7 @@ sections:
           url: /take-action/partner-with-us/
         - title: Enabling Employment Pledge
           description: Pledge your inclusive support today.
-          url: /enabling-employment-pledge/take-pledge
+          url: https://www.imable.sg/pledge-for-disability-inclusion
       url: https://www.giving.sg/president-s-challenge
   - infopic:
       title: Empower Lives By Donating
