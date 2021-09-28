@@ -1,8 +1,9 @@
 ---
 title: Volunteer
-permalink: /Volunteer/
+permalink: /take-action/volunteer/
 breadcrumb: Volunteer
 ---
+
 ### VOLUNTEER DRIVE
 
 ![Volunteer Banner](/images/PC_Banner_Volunteer_v2.jpg "Volunteer Drive")

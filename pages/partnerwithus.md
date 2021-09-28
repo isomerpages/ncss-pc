@@ -1,9 +1,9 @@
 ---
 title: PartnerWithUs
-permalink: /PartnerWithUs/
+permalink: /take-action/partner-with-us/
 breadcrumb: PartnerWithUs
-
 ---
+
 
 
 ### PARTNER WITH US
