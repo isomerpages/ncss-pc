@@ -7,11 +7,11 @@ breadcrumb: Donate
 
 ![Donate Banner](/images/Donate_page.jpg "Donate Banner")
 
-The President’s Challenge is uplifting lives through its theme of Building a Digitally Inclusive Society. This means providing lower-income families and persons with disabilities with digital tools, skills, and connectivity for them to build better lives and promising futures. 
+Each year, the President’s Challenge aims to empower communities in need across Singapore by supporting various benefitting agencies across Children, Youth and Family, Disability, Eldercare, Healthcare, Rehabilitation sectors and more. 
 
-Be part of the President’s Challenge and empowers service users to pursue their dreams!
+Every little gesture gives shape to a greater cause. Be part of the President’s Challenge and empowers service users to pursue their dreams!
 
-##### [Click here to donate and empower lives](https://www.giving.sg/president-s-challenge)
+##### [CLICK HERE TO DONATE AND EMPOWER LIVES](https://www.giving.sg/president-s-challenge)
  
 
 
