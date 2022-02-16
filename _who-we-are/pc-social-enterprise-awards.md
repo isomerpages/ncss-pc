@@ -28,7 +28,7 @@ Social Enterprise Start-up of the Year: <b> Insect Feed Technologies</b>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7C1a7NOoDRs" height="141" width="250"></iframe>
 </td></tr>
 	
-<tr><td width="200px" id="tag3"> <img style="width:200px" src="/images/SE-Champion-of-the-Year.jpg"> </td> 
+<tr><td width="200px" id="tag3"> <img style="width:200px" src="/images/SE-Champion-of-the-Year-Singtel.jpg"> </td> 
 <td><b>PC Social Enterprise Award 2021 </b>
 Social Enterprise Champion of the Year: <b> Singtel</b>
 <br><br>Singtel has made a strong impact in the start-up community. They have invested S$5 million in the Singtel Group Future Maker programme to support 26 local and 46 regional social impact start-ups that make a difference for the vulnerable in our community. <br><br>They have enhanced this support by including a pandemic support track, additional grant funding, and access to mentorship and networking opportunities for start-ups with digital solutions that could further address social and healthcare issues created by the pandemic. <br><br>
