@@ -14,24 +14,28 @@ Every year, our community outreach and fundraising campaign selects a large numb
 
 
 <table width="100%" cellspacing="10" cellpadding="10">
-<tr><td>Children, Youth & Family </td></tr>
+	<tr><td>Cross-Sector Services </td></tr>
+<tr><td>
+<ol>
+<li><a href="http://www.comchest.gov.sg/" target='_blank'>Community Chest</a></li>
+<li><a href="https://www.kampungsenang.org/" target='_blank'>Kampung Senang Charity and Education Foundation</a></li>
+<li><a href="https://www.lawsocprobono.org/" target='_blank'>Law Society Pro Bono Services</a></li>
+	<li><a href="https://www.metta.org.sg//" target='_blank'>Metta Welfare Association</a></li>
+	<li><a href="https://www.socialhealthgrowth.org/" target='_blank'>Social Health Growth</a></li>
+	<li><a href="https://xinyuan.org.sg/" target='_blank'>Xin Yuan Community Care</a></li>
+	
+<tr><td>Children, Youth & Family Services</td></tr>
 <tr><td>
 <ol>
 <li><a href="http://www.ainsociety.org.sg/" target='_blank'>Ain Society</a></li>
 <li><a href="https://www.amp.org.sg/" target='_blank'>Association of Muslim Professionals</a></li>
-<li><a href="https://www.bmcsg.org/" target='_blank'>Beautiful Mind Charity</a></li>
-<li><a href="http://www.beautifulpeople.org.sg/" target='_blank'>Beautiful People Sg Ltd</a></li>
-<li><a href="https://www.boystown.org.sg/" target='_blank'>Boys' Town</a></li>
-<li><a href="https://canossaville.org.sg/" target='_blank'>Canossaville Children and Community Services</a></li> 
-	<li><a href="http://fathers.com.sg/" target='_blank'>Centre for Fathering</a></li> 
 <li><a href="https://www.campusimpact.org.sg/" target='_blank'>CampusImpact</a></li>
-<li><a href="http://www.street11.org.sg/" target='_blank'>Child At Street 11</a></li>
-<li><a href="https://www.epworth.sg/" target='_blank'>Epworth Community Services</a></li>
 <li><a href="https://www.faithacts.org.sg/" target='_blank'>FaithActs</a></li>
 <li><a href="https://www.filos.sg/" target='_blank'>Filos Community Services Limited</a></li>
 <li><a href="https://www.foodfromtheheart.sg/" target='_blank'>Food from the Heart</a></li>
-<li><a href="https://www.irf.org.sg/" target='_blank'>ISCOS ReGen Fund</a></li>
-<li><a href="https://lccs.org.sg/" target='_blank'>Lutheran Community Care Services Ltd</a></li>
+<li><a href="https://www.giving.sg/web/gem-new-start-centre-limited" target='_blank'>GEM New Start Centre Limited</a></li>
+<li><a href="https://heartware.org/" target='_blank'>Heartware Network</a></li>
+<li><a href="https://www.lovenils.org/" target='_blank'>LOVE, NILS LIMITED</a></li>
 <li><a href="https://www.morningstar.org.sg/" target='_blank'>Morning Star Community Services</a></li>  
 <li><a href="https://mwh.muhammadiyah.org.sg/" target='_blank'>Muhammadiyah Welfare Home</a></li>
 <li><a href="https://www.jamiyah.org.sg/" target='_blank'>Muslim Missionary Society Singapore</a></li> 
