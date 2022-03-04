@@ -12,8 +12,7 @@ Every year, our community outreach and fundraising campaign selects a large numb
 
 ### Benefitting Organisations
 
-
-<table width="100%" cellspacing="10" cellpadding="10">
+<table width="100%" cellpadding="10px" cellspacing="10px">
 	<tr><td>Cross-Sector Services </td></tr>
 <tr><td>
 <ol>
@@ -168,3 +167,4 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <li><a href="https://www.mendaki.org.sg/" target='_blank'>Yayasan MENDAKI </a></li>
  </ol>
 </td></tr>
+	</table>
