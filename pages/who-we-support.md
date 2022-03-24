@@ -22,7 +22,8 @@ Every year, our community outreach and fundraising campaign selects a large numb
 	<li><a href="https://www.metta.org.sg//" target='_blank'>Metta Welfare Association</a></li>
 	<li><a href="https://www.socialhealthgrowth.org/" target='_blank'>Social Health Growth</a></li>
 	<li><a href="https://xinyuan.org.sg/" target='_blank'>Xin Yuan Community Care</a></li>
-	
+</ol>
+</td></tr>
 <tr><td>Children, Youth & Family Services</td></tr>
 <tr><td>
 <ol>
@@ -167,3 +168,4 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <li><a href="https://www.mendaki.org.sg/" target='_blank'>Yayasan MENDAKI </a></li>
  </ol>
 </td></tr>
+</table>
