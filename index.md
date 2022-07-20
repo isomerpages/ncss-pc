@@ -22,6 +22,13 @@ sections:
           url: https://www.imable.sg/pledge-for-disability-inclusion
       url: https://www.giving.sg/president-s-challenge
   - infopic:
+      title: "President's Challenge 2023 - Apply Now! "
+      description: President’s Challenge 2023 supports ‘Caring for Caregivers’. Apply
+        for the President’s Challenge Fund & Empowering for Life Fund now.
+      button: learn more
+      url: /take-action/donate/
+      image: /images/EDM-GRANT-THUMBNAIL.jpg
+  - infopic:
       title: Empower Lives By Donating
       description: During these challenging times of COVID-19, your support towards
         the President’s Challenge will enable the benefitting organisations to
