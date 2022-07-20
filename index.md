@@ -26,7 +26,7 @@ sections:
       description: President’s Challenge 2023 supports ‘Caring for Caregivers’. Apply
         for the President’s Challenge Fund & Empowering for Life Fund now.
       button: learn more
-      url: /take-action/donate/
+      url: /quick-links/forms/
       image: /images/EDM-GRANT-THUMBNAIL.jpg
   - infopic:
       title: Empower Lives By Donating
