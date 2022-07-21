@@ -47,6 +47,7 @@ Every year, our community outreach and fundraising campaign selects a large numb
 	<li><a href="http://www.sagecc.org.sg/" target='_blank'>SAGE Counselling Centre</a></li>
 <li><a href="https://www.shine.org.sg/" target='_blank'>SHINE Children and Youth Services</a></li>  
 <li><a href="https://www.siwec.org/" target='_blank'>Sikh Welfare Council</a></li>  
+<li><a href="https://www.scwo.org.sg/" target='_blank'>Singapore Council of Women's Organisations</a></li>  
 <li><a href="https://www.cjc.org.sg/" target='_blank'>The Community Justice Centre</a></li>
 	<li><a href="https://www.eurasians.sg/" target='_blank'>The Eurasian Association</a></li>
 <li><a href="https://foodbank.sg/" target='_blank'>The Food Bank Singapore</a></li>
