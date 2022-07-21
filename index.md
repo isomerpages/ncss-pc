@@ -28,6 +28,7 @@ sections:
       button: learn more
       url: /quick-links/forms/
       image: /images/EDM-GRANT-THUMBNAIL.jpg
+      alt: alt text
   - infopic:
       title: Empower Lives By Donating
       description: During these challenging times of COVID-19, your support towards
