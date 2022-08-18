@@ -104,7 +104,7 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <tr><td>
 <ol>
 <li><a href="http://www.breakthroughmissions.org.sg/" target='_blank'>Breakthrough Missions</a></li>
-<li><a href="https://www.sbws.org.sg/4l_gh.html" target='_blank'>Green Haven</a></li>
+<li><a href="https://sbws.org.sg/en/services-affiliates/social-welfare-and-community-services/green-haven" target='_blank'>Green Haven</a></li>
 <li><a href="https://www.hcsa.org.sg/" target='_blank'>HCSA Community Services</a></li> 
 <li><a href="https://heb.org.sg/our-subsidiaries/heb-ashram/" target='_blank'>HEB-Ashram Halfway House</a></li>
 <li><a href="http://www.icarehub.org.sg/" target='_blank'>iC@re Hub Ltd</a></li>
