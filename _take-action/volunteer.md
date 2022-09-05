@@ -17,7 +17,8 @@ Available volunteering opportunities will be updated here. For enquiries please 
 
 <table cellspacing="10px" cellpadding="10px" width="100%">
 <tbody><tr><td width="200px" id="tag1"> 
-<img style="width:200px" alt="Kowabunga! Global" src="/images/SE-of-the-Year-Kowabunga.jpg"></td>
+<a href="https://www.socialhealthgrowth.org/" target='_blank'>Social Health Growth</a>
+</td>
 <td>
 <b>PC Social Enterprise Award 2021 </b>
 	Social Enterprise of the Year: <b> Kowabunga! Global </b><br><br>
