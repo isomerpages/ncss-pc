@@ -30,4 +30,3 @@ Always, and in all ways, for the kids. Kowabunga! Global, made it their mission 
 	Social Enterprise of the Year: <b> Kowabunga! Global </b><br><br>
 Always, and in all ways, for the kids. Kowabunga! Global, made it their mission to nurture kids to be the best versions they can be by providing an eco-centric learning environment. <br> <br>On top of the subsidies given by the government, they also provide additional financial assistance to the students and staff that are from low-income households, making sure that no one gets left behind. <br><br>
 </td></tr>
-	
