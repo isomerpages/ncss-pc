@@ -1,15 +1,13 @@
 ---
-title: 'Terms of Use'
+title: Terms of Use
 permalink: /terms-of-use/
-breadcrumb: 'Terms of Use'
-
+breadcrumb: Terms of Use
 ---
-
 ### **TERMS OF USE**
 
 ##### **Introduction and Incorporation of Terms of Use**
 
-Thank you for visiting http://www.pc.org.sg (“Website”). This Website is comprised of various web pages owned and operated by the National Council of Social Service (“NCSS”) as represented by President’s Challenge Secretariat (“President’s Challenge”, or “we” or “us” as appropriate). These terms and conditions (the "Terms of Use”) govern your access to this Website. President’s Challenge reserves the right to change, amend, modify or vary these Terms of Use from time to time in our sole discretion, and any such change, amendment, modification, addition or deletion shall be effective upon its posting on the Website. PLEASE READ CAREFULLY THROUGH THE ENTIRE TERMS OF USE. YOU ARE REQUIRED TO ABIDE BY THESE TERMS OF USE. By continuing to access and use this Website, you hereby declare and agree to enter into an agreement with President’s Challenge and to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website. PLEASE CHECK THESE TERMS OF USE PERIODICALLY FOR CHANGES. YOUR CONTINUED ACCESS AND USE OF THIS WEBSITE FOLLOWING THE POSTING OF CHANGES TO THESE TERMS OF USE WILL MEAN YOU ACCEPT THOSE CHANGES.
+Thank you for visiting [https://www.presidentschallenge.gov.sg](https://www.presidentschallenge.gov.sg) (“Website”). This Website is comprised of various web pages owned and operated by the National Council of Social Service (“NCSS”) as represented by President’s Challenge Secretariat (“President’s Challenge”, or “we” or “us” as appropriate). These terms and conditions (the "Terms of Use”) govern your access to this Website. President’s Challenge reserves the right to change, amend, modify or vary these Terms of Use from time to time in our sole discretion, and any such change, amendment, modification, addition or deletion shall be effective upon its posting on the Website. PLEASE READ CAREFULLY THROUGH THE ENTIRE TERMS OF USE. YOU ARE REQUIRED TO ABIDE BY THESE TERMS OF USE. By continuing to access and use this Website, you hereby declare and agree to enter into an agreement with President’s Challenge and to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website. PLEASE CHECK THESE TERMS OF USE PERIODICALLY FOR CHANGES. YOUR CONTINUED ACCESS AND USE OF THIS WEBSITE FOLLOWING THE POSTING OF CHANGES TO THESE TERMS OF USE WILL MEAN YOU ACCEPT THOSE CHANGES.
 
 ##### **Intellectual Property Rights**
 
@@ -45,7 +43,7 @@ President’s Challenge reserves the right, in its sole discretion, to terminate
 
 ##### **Privacy Statement**
 
-Please [click here](/privacy/) to view this Website’s Privacy Statement. Please review the Privacy Statement to understand how President’s Challenge collects, uses and discloses information collected and received from you.
+Please review the [Privacy Statement](/privacy) to understand how President’s Challenge collects, uses and discloses information collected and received from you.
 
 ##### **Governing law**
 
