@@ -40,7 +40,7 @@ This digital service may contain links to non-Government digital services whose 
 
 ##### Contact Information
 
-Please contact pc_enquiry@ncss.gov.sg if you:
+Please contact [pc_enquiry@ncss.gov.sg](mailto:pc_enquiry@ncss.gov.sg) if you:
 
 (a) have any enquires or feedback on our data protection, policies and procedures; or
 
