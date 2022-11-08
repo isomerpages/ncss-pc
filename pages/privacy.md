@@ -5,7 +5,7 @@ breadcrumb: Privacy
 ---
 ### PRIVACY STATEMENT
 
-
+##### General
 This is a Government of Singapore website. 
 
 We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred digital service.   While this cookie can tell us when you enter our digital service and which pages you visit, it cannot read data off your hard disk.
@@ -51,4 +51,4 @@ Please contact pc_enquiry@ncss.gov.sg if you:
 
 ”Non-Government entity” refers to a person other than a Government Agency.
 
-“Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).”  
+“Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).”
