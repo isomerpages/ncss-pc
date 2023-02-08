@@ -54,5 +54,10 @@ sections:
       subtitle: Media
       button: More Media
       url: /resource-room/
+  - infopic:
+      title: Digital Services Awards 2022
+      description: "Best Usability – Accessibility (Honourable mention) "
+      image: /images/Best Usability Accessibility 2022-01-2.png
+      alt: Digital Services Awards 2022
 notification: "\n\n"
 ---
