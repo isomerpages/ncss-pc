@@ -49,15 +49,15 @@ sections:
       image: /images/PC_EEP_Website.png
       alt: alt text
       button: Learn More On Enabling Employment Pledge
-  - resources:
-      title: Be in the know
-      subtitle: Media
-      button: More Media
-      url: /resource-room/
   - infopic:
       title: Digital Services Awards 2022
       description: "Best Usability – Accessibility (Honourable mention) "
       image: /images/Best Usability Accessibility 2022-01-2.png
       alt: Digital Services Awards 2022
+  - resources:
+      title: Be in the know
+      subtitle: Media
+      button: More Media
+      url: /resource-room/
 notification: "\n\n"
 ---
