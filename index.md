@@ -52,7 +52,6 @@ sections:
   - infopic:
       title: Digital Services Awards 2022
       description: "Best Usability – Accessibility (Honourable mention) "
-      image: /images/Best Usability Accessibility.png
       alt: Digital Services Awards 2022
   - resources:
       title: Be in the know
