@@ -4,7 +4,6 @@ title: President's Challenge
 permalink: /
 sections:
   - hero:
-      background: /images/PC2022-Website.jpg
       key_highlights:
         - title: Donate
           description: 100% of your donations go towards the benefitting organisations
