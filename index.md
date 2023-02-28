@@ -4,7 +4,6 @@ title: President's Challenge
 permalink: /
 sections:
   - hero:
-      background: /images/PC2022-Website.jpg
       key_highlights:
         - title: Donate
           description: 100% of your donations go towards the benefitting organisations
@@ -21,6 +20,7 @@ sections:
           description: Pledge your inclusive support today.
           url: https://www.imable.sg/pledge-for-disability-inclusion
       url: https://www.giving.sg/president-s-challenge
+      background: /images/banner.jpg
   - infopic:
       title: Empower Lives By Donating
       description: During these challenging times of COVID-19, your support towards
