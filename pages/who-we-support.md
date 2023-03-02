@@ -89,13 +89,8 @@ Xin Yuan Community Care	</a></li>
 <tr><td>Eldercare Services</td></tr>
 <tr><td>
 <ol>
-<li><a href="https://www.awwa.org.sg/" target='_blank'>AWWA Ltd</a></li>  
-<li><a href="https://www.cwa.org.sg/" target='_blank'>Caregiving Welfare Association</a></li>
-<li><a href="https://www.montfortcare.org.sg/" target='_blank'>Montfort Care</a></li> 
-<li><a href="http://www.odysseydancetheatreltd.com/" target='_blank'>Odyssey Dance Theatre Ltd</a></li>
-<li><a href="http://www.sbl.org.sg/chn/donation.aspx" target='_blank'>Singapore Buddhist Lodge Welfare Foundation</a></li>
-<li><a href="https://sreenarayanamission.org/" target='_blank'>Sree Narayana Mission (Singapore)</a></li>
-	<li><a href="https://www.sundac.org/" target='_blank'>SUN-DAC</a></li>
+<li><a href="	https://www.stjohneldershome.org.sg/home" target='_blank'>St John’s Home for Elderly Persons
+</a></li>  
 </ol>
 </td></tr>
 
@@ -103,7 +98,7 @@ Xin Yuan Community Care	</a></li>
 <tr><td>Mental Health Services</td></tr>
 <tr><td>
 <ol>
-<li><a href="https://emcc.org.sg/" target='_blank'>Eagles Mediation & Counselling Centre Ltd</a></li>
+<li><a href="https://www.limitless.sg" target='_blank'>Limitless (Ltd.)</a></li>
 	<li><a href="https://www.reach.org.sg/about-us/" target='_blank'>REACH Community Services Society</a></li>
 </ol>
 </td></tr>
