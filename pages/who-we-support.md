@@ -16,12 +16,15 @@ Every year, our community outreach and fundraising campaign selects a large numb
 	<tr><td>Cross-Sector Services </td></tr>
 <tr><td>
 <ol>
-<li><a href="http://www.comchest.gov.sg/" target='_blank'>Community Chest</a></li>
-<li><a href="https://www.kampungsenang.org/" target='_blank'>Kampung Senang Charity and Education Foundation</a></li>
-<li><a href="https://www.lawsocprobono.org/" target='_blank'>Law Society Pro Bono Services</a></li>
-	<li><a href="https://www.metta.org.sg//" target='_blank'>Metta Welfare Association</a></li>
-	<li><a href="https://www.socialhealthgrowth.org/" target='_blank'>Social Health Growth</a></li>
-	<li><a href="https://xinyuan.org.sg/" target='_blank'>Xin Yuan Community Care</a></li>
+<li><a href="http://www.comchest.gov.sg" target='_blank'>Community Chest</a></li>
+<li><a href="https://fycs.org" target='_blank'>Fei Yue Community Services</a></li>
+<li><a href="https://www.filos.sg" target='_blank'>Filos Community Services</a></li>
+<li><a href="https://girlguides.org.sg" target='_blank'>Girl Guides Singapore</a></li>
+	<li><a href="https://www.mindsciencecentre.sg" target='_blank'>Mind Science Centre</a></li>
+	<li><a href="https://www.4s.org.sg" target='_blank'>Sathya Sai Social Service</a></li>
+	<li><a href="https://www.redcross.sg" target='_blank'>Singapore Red Cross Society</a></li>
+	<li><a href="https://shenghong.org.sg" target='_blank'>Society of Sheng Hong Welfare Services</a></li>
+	<li><a href="https://redpencil.org/singapore" target='_blank'>The Red Pencil (Singapore)</a></li>
 </ol>
 </td></tr>
 <tr><td>Children, Youth & Family Services</td></tr>
