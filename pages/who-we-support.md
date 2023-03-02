@@ -123,14 +123,18 @@ Xin Yuan Community Care	</a></li>
 <tr><td> Healthcare</td></tr>
 <tr><td>
 <ol>
-	
-<li><a href="https://naf.org.sg/" target='_blank'>National Arthritis Foundation (NAF)</a></li>
-<li><a href="https://www.silverribbonsingapore.com/" target='_blank'>Silver Ribbon</a></li> 
-<li><a href="https://singaporehospice.org.sg/" target='_blank'>Singapore Hospice Council (SHC)</a></li> 
-<li><a href="https://www.sma.org.sg/" target='_blank'>SMA Charity Fund (SMA CF)</a></li> 
-<li><a href="https://www.samh.org.sg/" target='_blank'>St Andrew's Mission Hospital (SAMH)</a></li> 
-<li><a href="https://stjohn.org.sg/" target='_blank'>St John Singapore (SJS)</a></li> 
-<li><a href="https://www.slec.org.sg/" target='_blank'>St Luke's ElderCare Ltd. (SLEC)</a></li>
+<li><a href="http://www.ainsociety.org.sg" target='_blank'>Ain Society</a></li>
+<li><a href="https://www.blossomseeds.sg" target='_blank'>Blossom Seeds Limited (BS)</a></li> 
+<li><a href="https://www.cwa.org.sg" target='_blank'>Caregiving Welfare Association</a></li> 
+<li><a href="https://www.doverpark.org.sg" target='_blank'>Dover Park Hospice (DPH)</a></li> 
+	<li><a href="https://www.epilepsycare.org" target='_blank'>Epilepsy Care Group (Singapore) (ECG)</a></li> 
+<li><a href="https://www.hca.org.sg" target='_blank'>HCA Hospice Limited (HCA)</a></li> 
+<li><a href="https://www.hnf.org.sg" target='_blank'>Home Nursing Foundation (HNF)</a></li> 
+<li><a href="http://www.nuhs.edu.sg/Make-a-Gift/About-NUHS-Fund/Pages/default.aspx" target='_blank'>NUHS Fund Limited (NUHS FL)</a></li> 
+<li><a href="https://sws.sg" target='_blank'>Salem Welfare Services Limited (SWSL)</a></li> 
+<li><a href="https://www.sata.com.sg" target='_blank'>SATA CommHealth (SATA)</a></li> 
+<li><a href="https://www.singhealth.com.sg/giving/why-give/Pages/Furthering-Donor-Impact.aspx" target='_blank'>SingHealth Fund (SHF)	</a></li>
+<li><a href="http://www.ttsh.com.sg/About-TTSH/TTSH-Community-Fund/Pages/default.aspx" target='_blank'>TTSH Community Fund (TTSH CF)</a></li>
 </ol>
 </td></tr>
 
