@@ -64,16 +64,24 @@ Xin Yuan Community Care	</a></li>
 <tr><td>Disability Services</td></tr>
 <tr><td>
 <ol> 
-<li><a href="https://www.apsn.org.sg/" target='_blank'>APSN Ltd</a></li> 
-<li><a href="https://canossaville.org.sg/" target='_blank'>Canossaville Children and Community Services</a></li> 
-<li><a href="http://cpas.org.sg/" target='_blank'>Cerebral Palsy Alliance Singapore (CPAS)</a></li>
-<li><a href="https://coh.org.sg/" target='_blank'>Christian Outreach to the Handicapped (COH)</a></li> 
+<li><a href="https://able-sg.org" target='_blank'>Abilities Beyond Limitations and Expectations Limited (ABLE)</a></li> 
+<li><a href="https://www.artdis.org.sg" target='_blank'>ARTDIS (Singapore) Ltd</a></li> 
+	<li><a href="https://www.awwa.org.sg" target='_blank'>AWWA Ltd</a></li> 
+<li><a href="https://caringfleet.com" target='_blank'>Caring Fleet Services Ltd</a></li> 
+	<li><a href="http://cpas.org.sg" target='_blank'>Cerebral Palsy Alliance Singapore (CPAS)</a></li>
+	
+<li><a href="https://downsyndrome-singapore.org" target='_blank'>Down Syndrome Association (Singapore)</a></li> 
 <li><a href="https://www.das.org.sg/" target='_blank'>Dyslexia Association of Singapore</a></li>
-<li><a href="https://extraordinarypeople.sg/" target='_blank'>Extraordinary People Limited</a></li>
-<li><a href="https://www.rainbowcentre.org.sg/" target='_blank'>Rainbow Centre, Singapore</a></li> 
-<li><a href="https://www.spd.org.sg/" target='_blank'>SPD</a></li>  
-<li><a href="https://sadeaf.org.sg/" target='_blank'>The Singapore Association for the Deaf (SADeaf)</a></li>       
-<li><a href="https://artdis.org.sg/" target='_blank'>Very Special Arts Singapore Limited (VSA)</a></li>    
+<li><a href="https://hwa.org.sg" target='_blank'>Handicaps Welfare Association</a></li>
+	<li><a href="https://www.metta.org.sg" target='_blank'>Metta Welfare Association</a></li>
+		<li><a href="https://www.minds.org.sg" target='_blank'>Metta Welfare Association</a></li>
+	<li><a href="https://www.mdas.org.sg" target='_blank'>Muscular Dystrophy Association (Singapore)</a></li> 
+	<li><a href="https://www.playeum.com" target='_blank'>Playeum Ltd</a></li> 
+	<li><a href="https://www.rainbowcentre.org.sg" target='_blank'>Rainbow Centre, Singapore</a></li> 
+<li><a href="https://savh.org.sg" target='_blank'>Singapore Association of the Visually Handicapped (SAVH)</a></li> 
+	<li><a href="https://www.samh.org.sg" target='_blank'>St Andrew's Mission Hospital (SAMH)
+</a></li> 
+<li><a href="https://sadeaf.org.sg" target='_blank'>The Singapore Association for the Deaf (SADeaf)</a></li> 
  </ol>
 </td></tr>
 
