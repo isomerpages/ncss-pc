@@ -147,9 +147,19 @@ Xin Yuan Community Care	</a></li>
  <li><a href="http://parabowlsingapore.org/" target='_blank'>Lawn Bowls Association for the Disabled (Singapore)</a></li>
  <li><a href="https://sdsc.org.sg/" target='_blank'>Singapore Disability Sports Council</a></li>
  <li><a href="http://www.snpc.org.sg/" target='_blank'>Singapore National Paralympic Council Ltd</a></li>
+	 <li><a href="https://www.specialolympics.org.sg" target='_blank'>Special Olympics Singapore</a></li>
+	 <li><a href="https://equestrianfederationsg.com" target='_blank'>Equestrian Federation of Singapore</a></li>
+
 </ol>
 </td></tr>
-
+<tr><td> Empowering for Life Fund
+</td></tr>
+<tr><td>
+ <ol>
+<li><a href="https://downsyndrome-singapore.org" target='_blank'>Down Syndrome Association (Singapore) (3 year funding)</a></li>
+<li><a href="https://www.montfortcare.org.sg" target='_blank'>Montfort Care (3 year funding)</a></li>
+ </ol>
+</td></tr>
 
 <tr><td> PC-IMH Programme
 </td></tr>
@@ -162,17 +172,4 @@ Xin Yuan Community Care	</a></li>
 </ol>
  </td></tr> 
 
-
-
-<tr><td> Empowering for Life Fund
-</td></tr>
-<tr><td>
- <ol>
-<li><a href="https://www.fycs.org/" target='_blank'>Fei Yue Community Services</a></li>
-<li><a href="https://www.hcsa.org.sg/" target='_blank'>HCSA Community Services </a></li>
-<li><a href="https://lccs.org.sg/" target='_blank'>Lutheran Community Care Services </a></li>
-<li><a href="https://www.pertapis.org.sg/welfare-homes" target='_blank'>PERTAPIS Halfway House </a></li>  
-<li><a href="https://www.mendaki.org.sg/" target='_blank'>Yayasan MENDAKI </a></li>
- </ol>
-</td></tr>
 </table>
