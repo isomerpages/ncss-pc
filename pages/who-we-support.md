@@ -30,38 +30,36 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <tr><td>Children, Youth & Family Services</td></tr>
 <tr><td>
 <ol>
-<li><a href="http://www.ainsociety.org.sg/" target='_blank'>Ain Society</a></li>
-<li><a href="https://www.amp.org.sg/" target='_blank'>Association of Muslim Professionals</a></li>
-<li><a href="https://www.campusimpact.org.sg/" target='_blank'>CampusImpact</a></li>
-<li><a href="https://www.faithacts.org.sg/" target='_blank'>FaithActs</a></li>
-<li><a href="https://www.filos.sg/" target='_blank'>Filos Community Services Limited</a></li>
-<li><a href="https://www.foodfromtheheart.sg/" target='_blank'>Food from the Heart</a></li>
-<li><a href="https://www.giving.sg/web/gem-new-start-centre-limited" target='_blank'>GEM New Start Centre Limited</a></li>
-<li><a href="https://heartware.org/" target='_blank'>Heartware Network</a></li>
-<li><a href="https://www.lovenils.org/" target='_blank'>LOVE, NILS LIMITED</a></li>
-<li><a href="https://mws.sg/" target='_blank'>Methodist Welfare Services</a></li>
-<li><a href="https://www.morningstar.org.sg/" target='_blank'>Morning Star Community Services</a></li>  
-<li><a href="https://mtlmanager.wixsite.com/mtl5" target='_blank'>Musical Theatre Ltd</a></li>
-<li><a href="https://www.newhopecs.org.sg/" target='_blank'>New Hope Community Services</a></li>
-<li><a href="https://www.newlifestories.org.sg/" target='_blank'>New Life Stories</a></li>
-	<li><a href="https://www.pertapis.org.sg/welfare-homes" target='_blank'>Pertapis Children Home</a></li>
-<li><a href="https://pfs.org.sg/" target='_blank'>Prison Fellowship Singapore</a></li>
-	<li><a href="http://www.rcs.org.sg/" target='_blank'>RiverLife Community Services Ltd</a></li>
-	<li><a href="http://www.sagecc.org.sg/" target='_blank'>SAGE Counselling Centre</a></li>
-<li><a href="https://www.shine.org.sg/" target='_blank'>SHINE Children and Youth Services</a></li>  
-<li><a href="https://www.siwec.org/" target='_blank'>Sikh Welfare Council</a></li>  
-<li><a href="https://www.scwo.org.sg/" target='_blank'>Singapore Council of Women's Organisations</a></li>  
-<li><a href="https://www.cjc.org.sg/" target='_blank'>The Community Justice Centre</a></li>
-	<li><a href="https://www.eurasians.sg/" target='_blank'>The Eurasian Association</a></li>
-<li><a href="https://foodbank.sg/" target='_blank'>The Food Bank Singapore</a></li>
-<li><a href="https://www.trybe.org/" target='_blank'>Trybe Limited</a></li>
-<li><a href="https://uws.org.sg/" target='_blank'>United Women Singapore</a></li>
-<li><a href="https://www.mendaki.org.sg/" target='_blank'>Yayasan MENDAKI</a></li>
-	<li><a href="https://www.ymca.org.sg/" target='_blank'>YMCA of Singapore</a></li>
-
+<li><a href="https://www.bethelcs.org.sg" target='_blank'>Bethel Community Services</a></li>
+<li><a href="https://www.boystown.org.sg" target='_blank'>
+Boys' Town</a></li>
+<li><a href="https://www.campusimpact.org.sg" target='_blank'>CampusImpact</a></li>
+<li><a href="https://canossaville.org.sg" target='_blank'>Canossaville Children and Community Services</a></li>
+<li><a href="https://www.cal.org.sg" target='_blank'>Caregivers Alliance Limited	</a></li>
+<li><a href="https://www.cslmch.org.sg" target='_blank'>Chen Su Lan Methodist Children's Home</a></li>
+<li><a href="https://street11.org.sg" target='_blank'>Child at Street 11 Ltd</a></li>
+<li><a href="https://www.cjc.org.sg" target='_blank'>Community Justice Centre</a></li>
+<li><a href="https://www.faithacts.org.sg" target='_blank'>FaithActs	</a></li>
+<li><a href="https://www.family.org.sg" target='_blank'>Focus on the Family Singapore Limited
+</a></li>
+<li><a href="https://www.kampungsenang.org" target='_blank'>Kampung Senang Charity and Education Foundation</a></li>  
+<li><a href="https://www.lawsocprobono.org" target='_blank'>Law Society Pro Bono Services</a></li>
+		<li><a href="https://www.morningstar.org.sg" target='_blank'>Morning Star Community Services Limited</a></li>
+<li><a href="https://www.newlife.org.sg" target='_blank'>New Life Community Services</a></li>
+<li><a href="https://www.onehopecentre.org" target='_blank'>One Hope Centre</a></li>
+	<li><a href="http://4pm.org.sg" target='_blank'>Persatuan Persuratan Pemuda Pemudi Melayu</a></li>
+	<li><a href="https://pfs.org.sg" target='_blank'>Prison Fellowship Singapore Ltd</a></li>
+<li><a href="https://www.reach.org.sg/about-us" target='_blank'>REACH Community Services Society</a></li>  
+	<li><a href="http://www.rcs.org.sg" target='_blank'>RiverLife Community Services Limited</a></li>
+<li><a href="https://tasekjurong.org" target='_blank'>Tasek Jurong Ltd</a></li>
+	<li><a href="https://uws.org.sg/" target='_blank'>United Women Singapore</a></li>
+<li><a href="https://www.wecare.org.sg" target='_blank'>WE CARE Community Services Ltd</a></li>
+<li><a href="https://xinyuan.org.sg" target='_blank'>
+Xin Yuan Community Care	</a></li>
+	<li><a href="https://www.yong-en.org.sg" target='_blank'>Yong-en Care Centre</a></li>
+	<li><a href="https://ywca.org.sg" target='_blank'>Young Women's Christian Association of Singapore</a></li>
 </ol>
  </td></tr>
- 
  
 <tr><td>Disability Services</td></tr>
 <tr><td>
