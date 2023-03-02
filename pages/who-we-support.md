@@ -99,7 +99,6 @@ Xin Yuan Community Care	</a></li>
 <tr><td>
 <ol>
 <li><a href="https://www.limitless.sg" target='_blank'>Limitless (Ltd.)</a></li>
-	<li><a href="https://www.reach.org.sg/about-us/" target='_blank'>REACH Community Services Society</a></li>
 </ol>
 </td></tr>
 
