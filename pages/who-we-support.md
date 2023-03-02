@@ -111,11 +111,10 @@ Xin Yuan Community Care	</a></li>
 <li><a href="https://www.hcsa.org.sg/" target='_blank'>HCSA Community Services</a></li> 
 <li><a href="https://heb.org.sg/our-subsidiaries/heb-ashram/" target='_blank'>HEB-Ashram Halfway House</a></li>
 <li><a href="http://www.icarehub.org.sg/" target='_blank'>iC@re Hub Ltd</a></li>
-<li><a href="http://pertapis.org.sg/pertapis-halfway-house/" target='_blank'>PERTAPIS Halfway House</a></li>
-<li><a href="https://www.sana.org.sg/" target='_blank'>Singapore Anti-Narcotics Association (SANA)</a></li> 
-<li><a href="https://www.teenchallenge.org.sg/" target='_blank'>Teen Challenge (Singapore)</a></li>
-<li><a href="http://thehelpinghand.org.sg/" target='_blank'>The Helping Hand</a></li>
-<li><a href="https://www.salvationarmy.org/singapore" target='_blank'>The Salvation Army</a></li> 
+<li><a href="https://ppis.sg/riseabove" target='_blank'>Rise Above Halfway House</a></li>
+	<li><a href="https://www.salvationarmy.org/singapore" target='_blank'>The Salvation Army</a></li> 
+<li><a href="https://www.teenchallenge.org.sg" target='_blank'>Teen Challenge Halfway House </a></li>
+<li><a href="http://thehelpinghand.org.sg" target='_blank'>The Helping Hand Halfway House</a></li>
 <li><a href="https://www.yellowribbon.gov.sg/yellow-ribbon-fund" target='_blank'>Yellow Ribbon Fund</a></li>
 </ol>
 </td></tr>
