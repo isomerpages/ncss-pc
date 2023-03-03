@@ -74,7 +74,8 @@ Xin Yuan Community Care	</a></li>
 <li><a href="https://www.das.org.sg/" target='_blank'>Dyslexia Association of Singapore</a></li>
 <li><a href="https://hwa.org.sg" target='_blank'>Handicaps Welfare Association</a></li>
 	<li><a href="https://www.metta.org.sg" target='_blank'>Metta Welfare Association</a></li>
-		<li><a href="https://www.minds.org.sg" target='_blank'>Metta Welfare Association</a></li>
+		<li><a href="https://www.minds.org.sg" target='_blank'>Movement for the Intellectually Disabled of Singapore (MINDS) 
+</a></li>
 	<li><a href="https://www.mdas.org.sg" target='_blank'>Muscular Dystrophy Association (Singapore)</a></li> 
 	<li><a href="https://www.playeum.com" target='_blank'>Playeum Ltd</a></li> 
 	<li><a href="https://www.rainbowcentre.org.sg" target='_blank'>Rainbow Centre, Singapore</a></li> 
