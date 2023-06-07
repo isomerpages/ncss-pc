@@ -54,5 +54,7 @@ sections:
       subtitle: Media
       button: More Media
       url: /resource-room/
-notification: "\n\n"
+notification: ""
+description: President's Challenge. Empowering Lives, Uplifting Communities.
+image: /images/isomer-logo.svg
 ---
