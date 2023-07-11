@@ -51,7 +51,6 @@ sections:
       button: Learn More On Enabling Employment Pledge
   - infopic:
       title: President's Challenge Grant Call 2024
-      subtitle: Infopic Subtitle
       description: Apply for the President's Challenge Fund & Empowering for Life Fund now.
       button: Apply Now!
       url: https://www.presidentschallenge.gov.sg/files/PC2024_Application_Form.pdf
