@@ -54,8 +54,9 @@ sections:
       subtitle: Infopic Subtitle
       description: Apply for the President's Challenge Fund & Empowering for Life Fund now.
       button: Apply Now!
-      url: https://www.presidentschallenge.gov.sg/
-      alt: Image alt text
+      url: https://www.presidentschallenge.gov.sg/files/PC2024_Application_Form.pdf
+      alt: PC Grant Call 2024
+      image: /images/Homepage/pc2024.JPG
   - resources:
       title: Be in the know
       subtitle: Media
