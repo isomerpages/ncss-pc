@@ -52,10 +52,10 @@ sections:
   - infopic:
       title: President's Challenge Grant Call 2024
       subtitle: Infopic Subtitle
-      description: "President's Challenge 2024 spports 'Caring for Caregivers'. Apply
-        for the President's Challenge Fund & Empowering for Life Fund now. "
+      description: President's Challenge 2024 spports 'Caring for Caregivers'. Apply
+        for the President's Challenge Fund & Empowering for Life Fund now.
       button: Apply Now!
-      url: "Apply for the President's Challenge Fund & Empowering for Life Fund now. "
+      url: Apply for the President's Challenge Fund & Empowering for Life Fund now.
       alt: Image alt text
   - resources:
       title: Be in the know
