@@ -20,7 +20,7 @@ sections:
           description: Pledge your inclusive support today.
           url: https://www.imable.sg/pledge-for-disability-inclusion
       url: https://www.giving.sg/president-s-challenge
-      background: /images/Homepage/pc2023_homepage.jpg
+      background: /images/Homepage/homepage_banner 2023.jpg
   - infopic:
       title: President's Challenge Grant Call 2024
       description: Apply for the President's Challenge Fund & Empowering for Life Fund now!
