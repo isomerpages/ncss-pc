@@ -13,7 +13,7 @@ breadcrumb: PartnerWithUs
 Every year, supporters of President’s Challenge, people from all walks of life pull together their resources to organise big- to small-scale fundraising events to raise funds for President’s Challenge’s benefiting organisations. This is how the community is making a collective effort towards building a cohesive and caring society.
 
 <!-- |**President’s Star Charity 2018**|**“Start Small Dream Big” project 2018**|**People's Association Community Service Project**|**Raffles Girls’ School’s fundraising booth**|
-![Partner Story 1](/images/President-s-Star-Charity.jpg "Partner Story 1")|![Partner Story 2](/images/PCF-Eunos_2.jpg "Partner Story 2")|![Partner Story 3](/images/PA.jpg "Partner Story 3")|![Partner Story 4](/images/Partner-Story4.jpg "Partner Story 4")|
+![Partner Story 1](/images/president-s-star-charity.jpg "partner story 1")|![partner story 2](/images/pcf-eunos_2.jpg "partner story 2")|![partner story 3](/images/pa.jpg "partner story 3")|![partner story 4](/images/partner-story4.jpg "Partner Story 4")|
 |President’s Star Charity by Mediacorp brings together star-power to raise funds for President’s Challenge ...|A small effort brings so much joy. All you need is some time to spare.|Don't hide your talent. Share it for a meaningful cause. Give freely, live fully.|Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.|
 -->
 
@@ -34,16 +34,16 @@ Every year, supporters of President’s Challenge, people from all walks of life
   </tr>
   <tr>
      <td>
-       <img src="../images/President-s-Star-Charity.jpg" alt="Partner Story 1" />
+       <img src="../images/president-s-star-charity.jpg" alt="Partner Story 1" />
      </td>
      <td>
-       <img src="../images/PCF-Eunos_2.jpg" alt="Partner Story 2" />
+       <img src="../images/pcf-eunos_2.jpg" alt="Partner Story 2" />
      </td>
      <td>
-       <img src="../images/PA.jpg" alt="Partner Story 3" />
+       <img src="../images/pa.jpg" alt="Partner Story 3" />
      </td>
      <td>
-        <img src="../images/Partner-Story4.jpg" alt="Partner Story 4" />
+        <img src="../images/partner-story4.jpg" alt="Partner Story 4" />
      </td>
   </tr>
   <tr>

@@ -3,5 +3,5 @@ title: Speech by President Halimah Yacob at the President's Challenge 2019 Launc
 date: 2019-01-30
 layout: file
 description: ""
-file_url: /files/NEW_President_Speech_PC2019_Launch.pdf
+file_url: /files/new_president_speech_pc2019_launch.pdf
 ---
