@@ -1,6 +1,6 @@
 ---
 title: Donate
-permalink: /Donate/
+permalink: /donate/
 breadcrumb: Donate
 ---
 ### GIVE WINGS TO DREAMS

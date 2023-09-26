@@ -1,6 +1,6 @@
 ---
 title: Milestones
-permalink: /who-we-are/milestones
+permalink: /who-we-are/milestones/
 breadcrumb: Milestones
 ---
 <table>
