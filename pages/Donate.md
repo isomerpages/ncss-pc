@@ -13,7 +13,7 @@ Your support and partnership in uplifting the Singapore communities in need rema
 100% of the donations raised through President's Challenge will be channelled to the benefitting organisations across various sectors including children with special needs, persons with disabilities, healthcare and families and elderly in need. 
 
 Once again, we thank you for your unwavering support.
-
+##### [Donate Now!](https://donate.stripe.com/00gcQzevAcvq47e4gy)
 Donate to support the benefitting agencies supported by President’s Challenge, including those supported under the Empowering for Life Fund. 100% of your donations will go towards the agencies we support. Make a difference today! 
 
 Please email us [ pc_enquiry@ncss.gov.sg]( pc_enquiry@ncss.gov.sg) or send us your [feedback](https://form.gov.sg/5e7c0d4734d8b200113b99be) if you encounter any problem(s) in your submission.
