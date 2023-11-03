@@ -1,7 +1,8 @@
 ---
 title: Who We Support
-permalink: /WhoWeSupport/
+permalink: /whowesupport/
 breadcrumb: Who We Support
+variant: markdown
 ---
 ### WHO WE SUPPORT
 

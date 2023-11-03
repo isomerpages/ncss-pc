@@ -4,5 +4,5 @@ title: Speech by President Halimah Yacob at the President's Challenge 2018
 date: 2018-11-28
 layout: file
 description: ""
-file_url: /files/NEW_President_Speech_PCAN18.pdf
+file_url: /files/new_president_speech_pcan18.pdf
 ---

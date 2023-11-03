@@ -1,6 +1,6 @@
 ---
 title: 'What We Do'
-permalink: /WhatWeDo/
+permalink: /whatwedo/
 breadcrumb: 'What We Do'
 
 ---

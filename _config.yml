@@ -31,8 +31,8 @@ colors:
       color: "#00626B"
     - title: media-color-five
       color: "#00626B"
-staging: https://ncss-pc-staging.netlify.app/
-prod: https://ncss-pc-prod.netlify.app/
+staging: https://staging.d2fhngqhdruzsz.amplifyapp.com/
+prod: https://master.d2fhngqhdruzsz.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

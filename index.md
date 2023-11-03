@@ -20,14 +20,14 @@ sections:
           description: Pledge your inclusive support today.
           url: https://www.imable.sg/pledge-for-disability-inclusion
       url: https://www.giving.sg/president-s-challenge
-      background: /images/Homepage/pc websitev6.jpg
+      background: /images/homepage/pc websitev6.jpg
   - infopic:
       title: President's Challenge Grant Call 2024
       description: Apply for the President's Challenge Fund & Empowering for Life Fund now!
       button: Apply Now!
-      url: https://www.presidentschallenge.gov.sg/files/Grant%20Call/pc2024_application.pdf
+      url: https://www.presidentschallenge.gov.sg/files/grant%20call/pc2024_application.pdf
       alt: PC Grant Call 2024
-      image: /images/Homepage/presidents challenge grant call 2024.jpg
+      image: /images/homepage/presidents challenge grant call 2024.jpg
   - infopic:
       title: Empower Lives By Donating
       description: During these challenging times of COVID-19, your support towards
@@ -35,7 +35,7 @@ sections:
         sustain their operations and service delivery in empowering the lives of
         the vulnerable in our community.
       url: /take-action/donate/
-      image: /images/PC_Donate_Website.png
+      image: /images/pc_donate_website.png
       alt: alt text
       button: Donate Now To Make A Difference
   - infopic:
@@ -44,7 +44,7 @@ sections:
         will enable our benefitting organisations to sustain their operations
         and service delivery in serving the vulnerable groups.
       url: /take-action/volunteer/
-      image: /images/PC_Volunteer_Website.png
+      image: /images/pc_volunteer_website.png
       alt: alt text
       button: Learn More On Volunteer Drive
   - infopic:
@@ -53,7 +53,7 @@ sections:
         Employment Pledge will empower persons with disabilities to develop
         their potential and gain independence.
       url: https://www.imable.sg/pledge-for-disability-inclusion
-      image: /images/PC_EEP_Website.png
+      image: /images/pc_eep_website.png
       alt: alt text
       button: Learn More On Enabling Employment Pledge
   - resources:
