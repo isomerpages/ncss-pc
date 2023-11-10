@@ -21,6 +21,4 @@ Every dollar donated to President’s Challenge goes directly to the benefitting
 <div class="bp-youtube"><br>
 <iframe title="President’s Challenge Corporate Video" width="560" height="315" src="https://www.youtube.com/embed/9ACQUkFTcpk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
  </div>
-
- 
 <small>Photo Credits: CapitaLand, Singapore Polytechnic, YMCA Singapore, Singapore Centre for Social Enterprise (raiSE)</small>
