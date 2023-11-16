@@ -39,7 +39,7 @@ Boys' Town</a></li>
 <li><a href="https://www.cal.org.sg" target="_blank">Caregivers Alliance Limited	</a></li>
 <li><a href="https://www.cslmch.org.sg" target="_blank">Chen Su Lan Methodist Children's Home</a></li>
 <li><a href="https://street11.org.sg" target="_blank">Child at Street 11 Ltd</a></li>
-<li><a href="https://www.cjc.org.sg" target="_blank">Community Justice Centre</a></li>
+<li><a href="https://cjc.org.sg" target="_blank">Community Justice Centre</a></li>
 <li><a href="https://www.faithacts.org.sg" target="_blank">FaithActs	</a></li>
 <li><a href="https://www.family.org.sg" target="_blank">Focus on the Family Singapore Limited
 </a></li>
@@ -55,8 +55,7 @@ Boys' Town</a></li>
 <li><a href="https://tasekjurong.org" target="_blank">Tasek Jurong Ltd</a></li>
 	<li><a href="https://uws.org.sg/" target="_blank">United Women Singapore</a></li>
 <li><a href="https://www.wecare.org.sg" target="_blank">WE CARE Community Services Ltd</a></li>
-<li><a href="https://xinyuan.org.sg" target="_blank">
-Xin Yuan Community Care	</a></li>
+<li><a href="https://xinyuan.org.sg" target="_blank">Xin Yuan Community Care	</a></li>
 	<li><a href="https://www.yong-en.org.sg" target="_blank">Yong-en Care Centre</a></li>
 	<li><a href="https://ywca.org.sg" target="_blank">Young Women's Christian Association of Singapore</a></li>
 </ol>
