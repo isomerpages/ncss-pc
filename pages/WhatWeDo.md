@@ -1,11 +1,9 @@
 ---
-title: 'What We Do'
+title: What We Do
 permalink: /whatwedo/
-breadcrumb: 'What We Do'
-
+breadcrumb: What We Do
+variant: markdown
 ---
-
-
 ### WHAT WE DO
 ![WhatWeDo_Banner](/images/capita-land.jpg "WhatWeDo Banner")
 President's Challenge is a movement supported by the kindness and generosity of people from all walks of life, regardless of culture, religion or family background, to help those less fortunate.
@@ -13,7 +11,7 @@ President's Challenge is a movement supported by the kindness and generosity of 
 It is the President's call to the nation to do their part to build a more caring and inclusive society.
 
 <table>
-<tr>
+<tbody><tr>
 <td>FUNDRAISING</td>
 <td>CARING</td>
 <td> CELEBRATING </td>
@@ -33,8 +31,8 @@ It is the President's call to the nation to do their part to build a more caring
 <td>The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business ... </td>
 </tr>
 
-</table>
+</tbody></table>
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://youtu.be/A6a90FjsYSA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe title="President’s Challenge Corporate Video" width="560" height="315" src="https://youtu.be/A6a90FjsYSA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </div>

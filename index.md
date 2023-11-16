@@ -19,7 +19,7 @@ sections:
         - title: Enabling Employment Pledge
           description: Pledge your inclusive support today.
           url: https://www.imable.sg/pledge-for-disability-inclusion
-      url: https://www.giving.sg/president-s-challenge
+      url: /take-action/donate/
       background: /images/homepage/pc websitev6.jpg
   - infopic:
       title: President's Challenge Grant Call 2024
