@@ -9,7 +9,6 @@ links:
   - title: Empowering for Life Fund
     url: /empowering-for-life-fund/
   - title: Links
-    false_collection: true
     sublinks:
       - title: Useful Links
         url: /quick-links/useful-links/
