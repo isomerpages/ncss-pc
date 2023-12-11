@@ -2,6 +2,19 @@ logo: /images/pc_2020_may_11_v1.png
 links:
   - title: Who We Are
     collection: who-we-are
+  - title: New menu group
+    url: /permalink
+    sublinks:
+      - title: What We Do
+        url: /who-we-are/what-we-do
+      - title: Milestones
+        url: /who-we-are/milestones
+      - title: PC Social Enterprise Awards
+        url: /who-we-are/social-enterprise
+      - title: Events
+        url: /who-we-are/events
+      - title: Contact Us
+        url: /contact-us
   - title: Who We Support
     url: /whowesupport
   - title: Take Action
