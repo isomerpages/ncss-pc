@@ -2,11 +2,9 @@
 title: Forms
 permalink: /quick-links/forms/
 breadcrumb: Forms
+variant: markdown
 ---
 ### FORMS
-
-#### Application Forms
-[President's Challenge 2024 Application Form](/files/grant%20call/pc2024_application.pdf){:target="_blank"} <br>
 
 #### Fund Reports
 [President's Challenge 2021 Fund Utilisation Report](/files/PC2021-Fund-Report.docx){:target="_blank"} <br>
