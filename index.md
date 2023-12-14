@@ -22,13 +22,6 @@ sections:
       url: /take-action/donate/
       background: /images/homepage/pc websitev6.jpg
   - infopic:
-      title: President's Challenge Grant Call 2024
-      description: Apply for the President's Challenge Fund & Empowering for Life Fund now!
-      button: Apply Now!
-      url: https://www.presidentschallenge.gov.sg/files/grant%20call/pc2024_application.pdf
-      alt: PC Grant Call 2024
-      image: /images/homepage/presidents challenge grant call 2024.jpg
-  - infopic:
       title: Empower Lives By Donating
       description: During these challenging times of COVID-19, your support towards
         the President’s Challenge will enable the benefitting organisations to
