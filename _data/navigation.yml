@@ -1,7 +1,7 @@
 logo: /images/pc_2020_may_11_v1.png
 links:
-  - title: New menu group
-    url: /permalink
+  - title: Who We Are
+    url: /who-we-are/what-we-do
     sublinks:
       - title: What We Do
         url: /who-we-are/what-we-do
@@ -29,3 +29,4 @@ links:
         url: /quick-links/governance/
       - title: Media
         url: /resource-room/
+    url: /quick-links/useful-links/
