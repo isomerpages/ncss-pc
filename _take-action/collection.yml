@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - donate.md
-      - volunteer.md
+      - Volunteer.md
       - partner-with-us.md
