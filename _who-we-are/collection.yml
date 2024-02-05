@@ -2,7 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
-      - what-we-do.md
+      - What We Do.md
       - milestones.md
       - pc-social-enterprise-awards.md
       - events.md
