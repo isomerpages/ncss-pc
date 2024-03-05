@@ -116,8 +116,7 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="https://www.lawsocprobono.org" rel="noopener noreferrer nofollow" target="_blank">Law Society Pro Bono Services</a>
-</p>
+<p>Law Society Pro Bono Services</p>
 </li>
 <li>
 <p><a href="https://www.morningstar.org.sg" rel="noopener noreferrer nofollow" target="_blank">Morning Star Community Services Limited</a>
