@@ -12,7 +12,7 @@ sector and relevant organisations in Singapore.</p>
 </p>
 </li>
 <li>
-<p> <a href="http://www.istana.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Istana Singapore</a> -
+<p><a href="http://www.istana.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Istana Singapore</a> -
 The Singapore President and the Istana</p>
 </li>
 <li>
