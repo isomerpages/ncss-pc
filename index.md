@@ -38,7 +38,7 @@ sections:
         and service delivery in serving the vulnerable groups.
       url: /take-action/volunteer/
       image: /images/pc_volunteer_website.png
-      alt: alt text
+      alt: Empower Lives By Volunteering
       button: Learn More On Volunteer Drive
   - infopic:
       title: Empower Lives Through Inclusive Employment
