@@ -29,7 +29,7 @@ sections:
         the vulnerable in our community.
       url: /take-action/donate/
       image: /images/pc_donate_website.png
-      alt: alt text
+      alt: Empower Lives By Donating
       button: Donate Now To Make A Difference
   - infopic:
       title: Empower Lives By Volunteering
