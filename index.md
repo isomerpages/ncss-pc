@@ -45,9 +45,9 @@ sections:
       description: Your support for inclusive employment through the Enabling
         Employment Pledge will empower persons with disabilities to develop
         their potential and gain independence.
-      url: https://www.imable.sg/pledge-for-disability-inclusion
+      url: https://www.sgenable.sg/your-first-stop/hiring-employment/employers/pledge
       image: /images/pc_eep_website.png
-      alt: alt text
+      alt: Enabling Employment Pledge
       button: Learn More On Enabling Employment Pledge
   - resources:
       title: Be in the know
