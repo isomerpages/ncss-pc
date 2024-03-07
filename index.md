@@ -29,7 +29,7 @@ sections:
         the vulnerable in our community.
       url: /take-action/donate/
       image: /images/pc_donate_website.png
-      alt: alt text
+      alt: Empower Lives By Donating
       button: Donate Now To Make A Difference
   - infopic:
       title: Empower Lives By Volunteering
@@ -38,22 +38,21 @@ sections:
         and service delivery in serving the vulnerable groups.
       url: /take-action/volunteer/
       image: /images/pc_volunteer_website.png
-      alt: alt text
+      alt: Empower Lives By Volunteering
       button: Learn More On Volunteer Drive
   - infopic:
       title: Empower Lives Through Inclusive Employment
       description: Your support for inclusive employment through the Enabling
         Employment Pledge will empower persons with disabilities to develop
         their potential and gain independence.
-      url: https://www.imable.sg/pledge-for-disability-inclusion
+      url: https://www.sgenable.sg/your-first-stop/hiring-employment/employers/pledge
       image: /images/pc_eep_website.png
-      alt: alt text
+      alt: Enabling Employment Pledge
       button: Learn More On Enabling Employment Pledge
   - resources:
       title: Be in the know
       subtitle: Media
       button: More Media
-      url: /resource-room/
 notification: ""
 description: President's Challenge. Empowering Lives, Uplifting Communities.
 image: /images/isomer-logo.svg
