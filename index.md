@@ -20,13 +20,12 @@ sections:
           description: Pledge your inclusive support today.
           url: https://www.imable.sg/pledge-for-disability-inclusion
       url: /take-action/donate/
-      background: /images/homepage/pc websitev6.jpg
+      background: /images/homepage/PC24.jpg
   - infopic:
       title: Empower Lives By Donating
-      description: During these challenging times of COVID-19, your support towards
-        the President’s Challenge will enable the benefitting organisations to
-        sustain their operations and service delivery in empowering the lives of
-        the vulnerable in our community.
+      description: Your support towards the President’s Challenge will enable
+        benefitting organisations to sustain their operations and serve the
+        community.
       url: /take-action/donate/
       image: /images/pc_donate_website.png
       alt: Empower Lives By Donating
