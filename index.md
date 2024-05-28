@@ -20,7 +20,7 @@ sections:
           description: Pledge your inclusive support today.
           url: https://www.imable.sg/pledge-for-disability-inclusion
       url: /take-action/donate/
-      background: /images/homepage/pc websitev6.jpg
+      background: /images/homepage/PC24.jpg
   - infopic:
       title: Empower Lives By Donating
       description: During these challenging times of COVID-19, your support towards
