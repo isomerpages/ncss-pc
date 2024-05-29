@@ -16,10 +16,12 @@ support covers various sectors from children &amp; family services, healthcare
 <h2>Benefitting Organisations</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>All Saints Home</p>
+<p><a href="https://allsaintshome.org.sg/" rel="noopener noreferrer nofollow" target="_blank">All Saints Hom</a>
+</p>
 </li>
 <li>
-<p>Ang Mo Kio - Thye Hua Kwan Hospital Ltd</p>
+<p><a href="https://www.amkh.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Ang Mo Kio - Thye Hua Kwan Hospital Ltd</a>
+</p>
 </li>
 <li>
 <p><a href="http://www.breakthroughmissions.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Breakthrough Missions Halfway House</a>
@@ -46,7 +48,8 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>Christian Outreach to the Handicapped</p>
+<p><a href="https:/coh.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Christian Outreach to the Handicapped</a>
+</p>
 </li>
 <li>
 <p><a href="http://www.clubheal.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Club HEAL</u></a>
@@ -61,13 +64,16 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>Eagles Mediation &amp; Counselling Centre Ltd</p>
+<p><a href="https://emcc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Eagles Mediation &amp; Counselling Centre Ltd</a>
+</p>
 </li>
 <li>
-<p>Extra.Ordinary People Limited</p>
+<p><a href="https://www.extraordinarypeople.sg/" rel="noopener noreferrer nofollow" target="_blank">Extra.Ordinary People Limited</a>
+</p>
 </li>
 <li>
-<p>GEM New Start Centre Limited</p>
+<p><a href="http://gemnsc.com/" rel="noopener noreferrer nofollow" target="_blank">GEM New Start Centre Limited</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.hcsa.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>HCSA Community Services</u></a>
@@ -82,7 +88,8 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>Jia Ying Community Services Society</p>
+<p><a href="https://jiaying.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jia Ying Community Services Society</a>
+</p>
 </li>
 <li>
 <p><a href="https://lakeside.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Lakeside Family Services</a>
@@ -125,14 +132,16 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>New Life Stories Ltd</p>
+<p><a href="https://www.newlifestories.org.sg/" rel="noopener noreferrer nofollow" target="_blank">New Life Stories Ltd</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.ojoy.org/" rel="noopener noreferrer nofollow" target="_blank">O'Joy Limited</a>
 </p>
 </li>
 <li>
-<p>Persatuan Persuratan Pemuda Pemudi Melayu (4PM)</p>
+<p><a href="https://4pm.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Persatuan Persuratan Pemuda Pemudi Melayu (4PM)</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.psaltcare.com/" rel="noopener noreferrer nofollow" target="_blank">PSALT CARE Ltd</a>
@@ -203,10 +212,12 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>SUNDAC</p>
+<p><a href="https://www.sundac.org/" rel="noopener noreferrer nofollow" target="_blank">SUNDAC</a>
+</p>
 </li>
 <li>
-<p>Tasek Academy and Social Services Limited</p>
+<p><a href="https://www.tasek.org/" rel="noopener noreferrer nofollow" target="_blank">Tasek Academy and Social Services Limited</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.teenchallenge.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Teen Challenge Halfway House</u></a>
@@ -225,7 +236,8 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>The New Charis Mission</p>
+<p><a href="https://www.thenewcharismission.org.sg/" rel="noopener noreferrer nofollow" target="_blank">The New Charis Mission</a>
+</p>
 </li>
 <li>
 <p><a href="https://redpencil.org/singapore" rel="noopener noreferrer nofollow" target="_blank">The Red Pencil (Singapore)</a>
@@ -236,7 +248,8 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>The Turning Point Halfway House</p>
+<p><a href="https://theturningpoint.org.sg/" rel="noopener noreferrer nofollow" target="_blank">The Turning Point Halfway House</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.thknh.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Thye Hua Kwan Nursing Home Limited</a>
@@ -247,14 +260,16 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>Trybe Limited</p>
+<p><a href="https://trybe.org/" rel="noopener noreferrer nofollow" target="_blank">Trybe Limited</a>
+</p>
 </li>
 <li>
 <p><a href="https://uws.org.sg/" rel="noopener noreferrer nofollow" target="_blank">United Women Singapore</a>
 </p>
 </li>
 <li>
-<p>Yeo Boon Khim Mind Science Centre</p>
+<p><a href="https://coe.nuhs.edu.sg/Mind-Science-Centre/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">Yeo Boon Khim Mind Science Centre</a>
+</p>
 </li>
 <li>
 <p><a href="https://ywca.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Young Women's Christian Association of Singapore</a>
