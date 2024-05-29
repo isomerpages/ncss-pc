@@ -30,7 +30,8 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>Care Community Services Society</p>
+<p><a href="https://www.ccsscares.sg/" rel="noopener noreferrer nofollow" target="_blank">Care Community Services Society</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.cal.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Caregivers Alliance Limited</a>
@@ -84,33 +85,40 @@ support covers various sectors from children &amp; family services, healthcare
 <p>Jia Ying Community Services Society</p>
 </li>
 <li>
-<p>Lakeside Family Services</p>
+<p><a href="https://lakeside.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Lakeside Family Services</a>
+</p>
 </li>
 <li>
 <p><a href="http://parabowlsingapore.org/" rel="noopener noreferrer nofollow" target="_blank">Lawn Bowls Association for the Disabled (Singapore)</a>
 </p>
 </li>
 <li>
-<p>Life Community Services Society</p>
+<p><a href="https://life-community.org/about/about-us/" rel="noopener noreferrer nofollow" target="_blank">Life Community Services Society</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.limitless.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Limitless (Ltd.)</u></a>
 </p>
 </li>
 <li>
-<p>Lions Befrienders Service Association (Singapore)</p>
+<p><a href="https://www.lionsbefrienders.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Lions Befrienders Service Association (Singapore)</a>
+</p>
 </li>
 <li>
-<p>Lions Home For The Elders</p>
+<p><a href="https://lionshome.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Lions Home For The Elders</a>
+</p>
 </li>
 <li>
-<p>Love, Nils Ltd</p>
+<p><a href="https://www.lovenils.org/" rel="noopener noreferrer nofollow" target="_blank">Love, Nils Ltd</a>
+</p>
 </li>
 <li>
-<p>Lutheran Community Care Services Ltd</p>
+<p><a href="https://lccs.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Lutheran Community Care Services Ltd</a>
+</p>
 </li>
 <li>
-<p>National Gallery Singapore</p>
+<p><a href="https://www.nationalgallery.sg/" rel="noopener noreferrer nofollow" target="_blank">National Gallery Singapore</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.newlife.org.sg/" rel="noopener noreferrer nofollow" target="_blank">New Life Community Services</a>
@@ -120,13 +128,15 @@ support covers various sectors from children &amp; family services, healthcare
 <p>New Life Stories Ltd</p>
 </li>
 <li>
-<p>O'Joy Limited</p>
+<p><a href="https://www.ojoy.org/" rel="noopener noreferrer nofollow" target="_blank">O'Joy Limited</a>
+</p>
 </li>
 <li>
 <p>Persatuan Persuratan Pemuda Pemudi Melayu (4PM)</p>
 </li>
 <li>
-<p>PSALT CARE Ltd</p>
+<p><a href="https://www.psaltcare.com/" rel="noopener noreferrer nofollow" target="_blank">PSALT CARE Ltd</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.rainbowcentre.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Rainbow Centre, Singapore</u></a>
@@ -137,17 +147,20 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>Shan You</p>
+<p><a href="https://www.shanyou.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Shan You</a>
+</p>
 </li>
 <li>
-<p>Singapore Anti-Narcotics Association</p>
+<p><a href="https://www.sana.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Anti-Narcotics Association</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.samhealth.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Association for Mental Health (SAMH)</a>
 </p>
 </li>
 <li>
-<p>Singapore Cancer Society</p>
+<p><a href="https://www.singaporecancersociety.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Cancer Society</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.childrensociety.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Children's Society (SCS)</a>
@@ -158,7 +171,8 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>Singapore Hospice Council</p>
+<p><a href="https://www.singaporehospice.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Hospice Council</a>
+</p>
 </li>
 <li>
 <p><a href="http://www.snpc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore National Paralympic Council</a>
@@ -169,19 +183,24 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>SMA Charity Fund</p>
+<p><a href="https://smacf.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SMA Charity Fund</a>
+</p>
 </li>
 <li>
-<p>Society for The Aged Sick</p>
+<p><a href="https://www.societyagedsick.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Society for The Aged Sick</a>
+</p>
 </li>
 <li>
-<p>SPD</p>
+<p><a href="https://www.spd.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SPD</a>
+</p>
 </li>
 <li>
-<p>St Andrew's Autism Centre</p>
+<p><a href="https://www.saac.org.sg/" rel="noopener noreferrer nofollow" target="_blank">St Andrew's Autism Centre</a>
+</p>
 </li>
 <li>
-<p>ST Luke's Eldercare Ltd.</p>
+<p><a href="https://www.slec.org.sg/" rel="noopener noreferrer nofollow" target="_blank">ST Luke's Eldercare Ltd.</a>
+</p>
 </li>
 <li>
 <p>SUNDAC</p>
@@ -202,7 +221,8 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p>The National Kidney Foundation</p>
+<p><a href="https://nkfs.org/" rel="noopener noreferrer nofollow" target="_blank">The National Kidney Foundation</a>
+</p>
 </li>
 <li>
 <p>The New Charis Mission</p>
@@ -219,7 +239,8 @@ support covers various sectors from children &amp; family services, healthcare
 <p>The Turning Point Halfway House</p>
 </li>
 <li>
-<p>Thye Hua Kwan Nursing Home Limited</p>
+<p><a href="https://www.thknh.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Thye Hua Kwan Nursing Home Limited</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.touch.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>TOUCH Community Services</u></a>
@@ -241,469 +262,4 @@ support covers various sectors from children &amp; family services, healthcare
 </li>
 </ol>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>Cross-Sector Services</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="http://www.comchest.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Community Chest</a>
-</p>
-</li>
-<li>
-<p><a href="https://fycs.org" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Community Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.filos.sg" rel="noopener noreferrer nofollow" target="_blank">Filos Community Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://girlguides.org.sg" rel="noopener noreferrer nofollow" target="_blank">Girl Guides Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.mindsciencecentre.sg" rel="noopener noreferrer nofollow" target="_blank">Mind Science Centre</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.4s.org.sg" rel="noopener noreferrer nofollow" target="_blank">Sathya Sai Social Service</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.redcross.sg" rel="noopener noreferrer nofollow" target="_blank">Singapore Red Cross Society</a>
-</p>
-</li>
-<li>
-<p><a href="https://shenghong.org.sg" rel="noopener noreferrer nofollow" target="_blank">Society of Sheng Hong Welfare Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://redpencil.org/singapore" rel="noopener noreferrer nofollow" target="_blank">The Red Pencil (Singapore)</a>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>Children, Youth &amp; Family Services</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://www.bethelcs.org.sg" rel="noopener noreferrer nofollow" target="_blank">Bethel Community Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.boystown.org.sg" rel="noopener noreferrer nofollow" target="_blank">Boys' Town</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.campusimpact.org.sg" rel="noopener noreferrer nofollow" target="_blank">CampusImpact</a>
-</p>
-</li>
-<li>
-<p><a href="https://canossaville.org.sg" rel="noopener noreferrer nofollow" target="_blank">Canossaville Children and Community Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.cal.org.sg" rel="noopener noreferrer nofollow" target="_blank">Caregivers Alliance Limited</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.cslmch.org.sg" rel="noopener noreferrer nofollow" target="_blank">Chen Su Lan Methodist Children's Home</a>
-</p>
-</li>
-<li>
-<p><a href="https://street11.org.sg" rel="noopener noreferrer nofollow" target="_blank">Child at Street 11 Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://cjc.org.sg" rel="noopener noreferrer nofollow" target="_blank">Community Justice Centre</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.faithacts.org.sg" rel="noopener noreferrer nofollow" target="_blank">FaithActs</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.family.org.sg" rel="noopener noreferrer nofollow" target="_blank">Focus on the Family Singapore Limited</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.kampungsenang.org" rel="noopener noreferrer nofollow" target="_blank">Kampung Senang Charity and Education Foundation</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.probono.sg/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.morningstar.org.sg" rel="noopener noreferrer nofollow" target="_blank">Morning Star Community Services Limited</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.newlife.org.sg" rel="noopener noreferrer nofollow" target="_blank">New Life Community Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.onehopecentre.org" rel="noopener noreferrer nofollow" target="_blank">One Hope Centre</a>
-</p>
-</li>
-<li>
-<p><a href="http://4pm.org.sg" rel="noopener noreferrer nofollow" target="_blank">Persatuan Persuratan Pemuda Pemudi Melayu</a>
-</p>
-</li>
-<li>
-<p><a href="https://pfs.org.sg" rel="noopener noreferrer nofollow" target="_blank">Prison Fellowship Singapore Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.reach.org.sg/about-us" rel="noopener noreferrer nofollow" target="_blank">REACH Community Services Society</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.rcs.org.sg" rel="noopener noreferrer nofollow" target="_blank">RiverLife Community Services Limited</a>
-</p>
-</li>
-<li>
-<p><a href="https://tasekjurong.org" rel="noopener noreferrer nofollow" target="_blank">Tasek Jurong Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://uws.org.sg/" rel="noopener noreferrer nofollow" target="_blank">United Women Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.wecare.org.sg" rel="noopener noreferrer nofollow" target="_blank">WE CARE Community Services Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://xinyuan.org.sg" rel="noopener noreferrer nofollow" target="_blank">Xin Yuan Community Care</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.yong-en.org.sg" rel="noopener noreferrer nofollow" target="_blank">Yong-en Care Centre</a>
-</p>
-</li>
-<li>
-<p><a href="https://ywca.org.sg" rel="noopener noreferrer nofollow" target="_blank">Young Women's Christian Association of Singapore</a>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>Disability Services</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://able-sg.org" rel="noopener noreferrer nofollow" target="_blank">Abilities Beyond Limitations and Expectations Limited (ABLE)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.artdis.org.sg" rel="noopener noreferrer nofollow" target="_blank">ARTDIS (Singapore) Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.awwa.org.sg" rel="noopener noreferrer nofollow" target="_blank">AWWA Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://caringfleet.com" rel="noopener noreferrer nofollow" target="_blank">Caring Fleet Services Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="http://cpas.org.sg" rel="noopener noreferrer nofollow" target="_blank">Cerebral Palsy Alliance Singapore (CPAS)</a>
-</p>
-</li>
-<li>
-<p><a href="https://downsyndrome-singapore.org" rel="noopener noreferrer nofollow" target="_blank">Down Syndrome Association (Singapore)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.das.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dyslexia Association of Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="https://hwa.org.sg" rel="noopener noreferrer nofollow" target="_blank">Handicaps Welfare Association</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.metta.org.sg" rel="noopener noreferrer nofollow" target="_blank">Metta Welfare Association</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.minds.org.sg" rel="noopener noreferrer nofollow" target="_blank">Movement for the Intellectually Disabled of Singapore (MINDS)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.mdas.org.sg" rel="noopener noreferrer nofollow" target="_blank">Muscular Dystrophy Association (Singapore)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.playeum.com" rel="noopener noreferrer nofollow" target="_blank">Playeum Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.rainbowcentre.org.sg" rel="noopener noreferrer nofollow" target="_blank">Rainbow Centre, Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="https://savh.org.sg" rel="noopener noreferrer nofollow" target="_blank">Singapore Association of the Visually Handicapped (SAVH)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.samh.org.sg" rel="noopener noreferrer nofollow" target="_blank">St Andrew's Mission Hospital (SAMH)</a>
-</p>
-</li>
-<li>
-<p><a href="https://sadeaf.org.sg" rel="noopener noreferrer nofollow" target="_blank">The Singapore Association for the Deaf (SADeaf)</a>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>Eldercare Services</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://www.stjohneldershome.org.sg/home" rel="noopener noreferrer nofollow" target="_blank">St John’s Home for Elderly Persons</a>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>Mental Health Services</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://www.limitless.sg" rel="noopener noreferrer nofollow" target="_blank">Limitless (Ltd.)</a>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>Rehabilitation - Halfway Houses / Ex-Offenders</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="http://www.breakthroughmissions.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Breakthrough Missions</a>
-</p>
-</li>
-<li>
-<p><a href="https://sbws.org.sg/en/services-affiliates/social-welfare-and-community-services/green-haven" rel="noopener noreferrer nofollow" target="_blank">Green Haven</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.hcsa.org.sg/" rel="noopener noreferrer nofollow" target="_blank">HCSA Community Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://heb.org.sg/our-subsidiaries/heb-ashram/" rel="noopener noreferrer nofollow" target="_blank">HEB-Ashram Halfway House</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.icarehub.org.sg/" rel="noopener noreferrer nofollow" target="_blank">iC@re Hub Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://ppis.sg/riseabove" rel="noopener noreferrer nofollow" target="_blank">Rise Above Halfway House</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.salvationarmy.org/singapore" rel="noopener noreferrer nofollow" target="_blank">The Salvation Army</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.teenchallenge.org.sg" rel="noopener noreferrer nofollow" target="_blank">Teen Challenge Halfway House</a>
-</p>
-</li>
-<li>
-<p><a href="http://thehelpinghand.org.sg" rel="noopener noreferrer nofollow" target="_blank">The Helping Hand Halfway House</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.yellowribbon.gov.sg/yellow-ribbon-fund" rel="noopener noreferrer nofollow" target="_blank">Yellow Ribbon Fund</a>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Healthcare</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="http://www.ainsociety.org.sg" rel="noopener noreferrer nofollow" target="_blank">Ain Society</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.blossomseeds.sg" rel="noopener noreferrer nofollow" target="_blank">Blossom Seeds Limited (BS)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.cwa.org.sg" rel="noopener noreferrer nofollow" target="_blank">Caregiving Welfare Association</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.doverpark.org.sg" rel="noopener noreferrer nofollow" target="_blank">Dover Park Hospice (DPH)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.epilepsycare.org" rel="noopener noreferrer nofollow" target="_blank">Epilepsy Care Group (Singapore) (ECG)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.hca.org.sg" rel="noopener noreferrer nofollow" target="_blank">HCA Hospice Limited (HCA)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.hnf.org.sg" rel="noopener noreferrer nofollow" target="_blank">Home Nursing Foundation (HNF)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.nuhs.edu.sg/Make-a-Gift/About-NUHS-Fund/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">NUHS Fund Limited (NUHS FL)</a>
-</p>
-</li>
-<li>
-<p><a href="https://sws.sg" rel="noopener noreferrer nofollow" target="_blank">Salem Welfare Services Limited (SWSL)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.sata.com.sg" rel="noopener noreferrer nofollow" target="_blank">SATA CommHealth (SATA)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.singhealth.com.sg/giving/why-give/Pages/Furthering-Donor-Impact.aspx" rel="noopener noreferrer nofollow" target="_blank">SingHealth Fund (SHF)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.ttsh.com.sg/About-TTSH/TTSH-Community-Fund/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">TTSH Community Fund (TTSH CF)</a>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>Disability Sports</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://www.bads.org.sg/index.html" rel="noopener noreferrer nofollow" target="_blank">Bowling Association for the Disabled (Singapore)</a>
-</p>
-</li>
-<li>
-<p><a href="https://dsa.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Deaf Sports Association (Singapore)</a>
-</p>
-</li>
-<li>
-<p><a href="http://parabowlsingapore.org/" rel="noopener noreferrer nofollow" target="_blank">Lawn Bowls Association for the Disabled (Singapore)</a>
-</p>
-</li>
-<li>
-<p><a href="https://sdsc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Disability Sports Council</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.snpc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore National Paralympic Council Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.specialolympics.org.sg" rel="noopener noreferrer nofollow" target="_blank">Special Olympics Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="https://equestrianfederationsg.com" rel="noopener noreferrer nofollow" target="_blank">Equestrian Federation of Singapore</a>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>Empowering for Life Fund</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://downsyndrome-singapore.org" rel="noopener noreferrer nofollow" target="_blank">Down Syndrome Association (Singapore) (3 year funding)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.montfortcare.org.sg" rel="noopener noreferrer nofollow" target="_blank">Montfort Care (3 year funding)</a>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>PC-IMH Programme</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="http://www.clubheal.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Club HEAL</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.samhealth.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Association for Mental Health</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.childrensociety.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Children's Society</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.touch.org.sg/" rel="noopener noreferrer nofollow" target="_blank">TOUCH Community Services</a>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
