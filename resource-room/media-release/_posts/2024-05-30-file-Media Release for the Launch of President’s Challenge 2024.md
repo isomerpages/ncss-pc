@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Media_Release_President_s_Challenge_2024.pdf
+file_url: /files/media/media_release_presidents_challenge_2024.pdf
 ---
