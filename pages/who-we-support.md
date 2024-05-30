@@ -16,7 +16,7 @@ support covers various sectors from children &amp; family services, healthcare
 <h2>Benefitting Organisations</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://allsaintshome.org.sg/" rel="noopener noreferrer nofollow" target="_blank">All Saints Hom</a>
+<p><a href="https://allsaintshome.org.sg/" rel="noopener noreferrer nofollow" target="_blank">All Saints Home</a>
 </p>
 </li>
 <li>
