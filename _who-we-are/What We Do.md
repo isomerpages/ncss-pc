@@ -20,10 +20,13 @@ by including volunteerism and social entrepreneurship.</p>
 Fund, a fund which aims to encourage seniors to volunteer their time and
 age actively. Donations help charities supported by the fund to curate
 new or expand existing volunteer programmes, recruit volunteers through
-volunteer management systems, and train and recognise volunteers. President’s
-Challenge hopes to raise $10 million out of the $40 million needed by 2019
-and the Silver Volunteer Fund aims to recruit an additional 50,000 senior
-volunteers by 2030.</p>
+volunteer management systems, and train and recognise volunteers. PreEvery
+dollar donated to President’s Challenge goes directly to the benefitting
+organisations, thanks to our Challenge sponsors Singapore Pools and Singapore
+Totalisator Board, which provide grants to cover the operating costs of
+President’s Challenge. sident’s Challenge hopes to raise $10 million out
+of the $40 million needed by 2019 and the Silver Volunteer Fund aims to
+recruit an additional 50,000 senior volunteers by 2030.</p>
 <p>In 2018, President Halimah Yacob announced the new <a href="/empowering-for-life-fund/" rel="noopener noreferrer nofollow" target="_blank">Empowering for Life Fund (ELF)</a>, a
 fund supporting vulnerable groups through skills upgrading, capacity-building
 and employment. ELF will focus on supporting customised, dedicated services
