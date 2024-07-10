@@ -2,7 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
-      - Example Title.md
       - What We Do.md
       - milestones.md
       - PC Social Enterprise Awards.md
