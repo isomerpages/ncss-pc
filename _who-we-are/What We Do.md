@@ -9,7 +9,7 @@ description: Initiated by former President S R Nathan in 2000, President’s
 ---
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="WhatWeDo Banner" alt="WhatWeDo_Banner" src="/images/capita-land.jpg">
+<img style="width: 100%" height="auto" width="100%" title="WhatWeDo Banner" alt="What We Do" src="/images/capita-land.jpg">
 </div>
 <p>Initiated by former President S R Nathan in 2000, President's Challenge
 represents the coming together of people from all walks of life to help

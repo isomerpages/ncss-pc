@@ -2,6 +2,7 @@
 title: Milestones
 permalink: /who-we-are/milestones/
 breadcrumb: Milestones
+variant: markdown
 ---
 <table>
   <tbody><tr><td colspan="2"><b>Year 2000</b></td></tr>
@@ -45,7 +46,7 @@ Going forward, President Halimah Yacob hopes for Singaporeans to look into more 
 
  <table>
  
-  <tbody><tr><td> <img src="/images/elf-banner.jpg"></td></tr>
+  <tbody><tr><td> <img title="President's Challenge 2018 Launch" alt="President's Challenge 2018 Launch" src="/images/elf-banner.jpg"></td></tr>
    <tr> <td>
   
 At the President's Challenge 2018 Launch, President Halimah Yacob announced the new <b>"Empowering for Life Fund" (ELF)</b>, a fund supporting vulnerable groups through skills upgrading, capacity-building and employment. Donations to ELF will receive dollar-to-dollar matching from the Government. This means that over the next five years, $20 million will be set aside for ELF programmes under the President's Challenge.<br><br>
@@ -56,7 +57,7 @@ ELF will focus on supporting customised, dedicated services to the most vulnerab
 
  <table>
   <tbody><tr><td> <b>Year 2020</b></td></tr>  
- <tr><td> <img src="/images/enablingemploymentpledgelaunch.jpg"></td></tr>
+ <tr><td> <img title="President’s Challenge Enabling Employment Pledge" alt="President’s Challenge Enabling Employment Pledge" src="/images/enablingemploymentpledgelaunch.jpg"></td></tr>
    <tr> <td>
   President Halimah Yacob launched the President’s Challenge Enabling Employment Pledge at the launch of PC2020 to rally employers to provide more employment opportunities to persons with disabilities. The President’s Challenge Enabling Employment Pledge calls on employers to adopt an inclusive mindset, create barrier-free workplace environments and implement supportive employment policies for employees with disabilities. <br><br>
 
