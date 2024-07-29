@@ -67,7 +67,7 @@ workers who have been displaced by the pandemic for less intensive operations.
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7C1a7NOoDRs"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7C1a7NOoDRs"></iframe>
 </div>
 </td>
 </tr>
@@ -94,7 +94,7 @@ and healthcare issues created by the pandemic.
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9yYJrSA5yZQ"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9yYJrSA5yZQ"></iframe>
 </div>
 </td>
 </tr>
