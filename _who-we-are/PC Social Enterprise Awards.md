@@ -23,7 +23,7 @@ ventures that also serve social causes.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" alt="Kowabunga! Global" src="/images/se-of-the-year-kowabunga.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Kowabunga! Global" src="/images/se-of-the-year-kowabunga.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
