@@ -133,32 +133,15 @@ as co-chairs of the President's Challenge Steering Committee.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Year 2018</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Halimah Yacob" src="/images/milestones-halimahyacob.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Over the past 17 years, the President’s Challenge focus has been on creating
-a culture of giving, not just in monetary sense but also in time and skills.
-These efforts are important and should continue but as the social service
-landscape in Singapore changes, President’s Challenge will also have to
-evolve with the changing needs.
-<br>
-<br>
-</p>
-<p>Going forward, President Halimah Yacob hopes for Singaporeans to look
-into more customised and upstream support, to be able to help the most
-vulnerable amongst us and change their circumstances. As the old saying
-goes, it is “better to teach one to fish than to merely give him a fish”.
-Whether it is through skills upgrading, capacity-building or empowerment,
-it is the President’s hope that together we can bring about more sustained
-changes to the lives of those we impact.
+<p>
 <br>
 <br>
 </p>
@@ -169,7 +152,25 @@ changes to the lives of those we impact.
 </table>
 <p></p>
 <hr>
-<p></p>
+<p><strong>2018</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Halimah Yacob" src="/images/milestones-halimahyacob.jpg">
+</div>
+<p>Over the past 17 years, the President’s Challenge focus has been on creating
+a culture of giving, not just in monetary sense but also in time and skills.
+These efforts are important and should continue but as the social service
+landscape in Singapore changes, President’s Challenge will also have to
+evolve with the changing needs.
+<br>
+</p>
+<p>Going forward, President Halimah Yacob hopes for Singaporeans to look
+into more customised and upstream support, to be able to help the most
+vulnerable amongst us and change their circumstances. As the old saying
+goes, it is “better to teach one to fish than to merely give him a fish”.
+Whether it is through skills upgrading, capacity-building or empowerment,
+it is the President’s hope that together we can bring about more sustained
+changes to the lives of those we impact.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="President's Challenge 2018 Launch" alt="President's Challenge 2018 Launch" src="/images/elf-banner.jpg">
 </div>
