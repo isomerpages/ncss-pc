@@ -4,12 +4,12 @@ permalink: /who-we-are/milestones/
 breadcrumb: Milestones
 variant: tiptap
 ---
-<p><strong>2000</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="SR Nathan" src="/images/milestones-nathan.jpg">
 </div>
-<p>The late S R Nathan initiated President’s Challenge in 2000 shortly after
+<p><strong>Year 2000</strong>
+<br>The late S R Nathan initiated President’s Challenge in 2000 shortly after
 assuming the Presidency. The social service sector was always something
 very close to his heart and he decided to help raise funds for this sector
 and place a spotlight on those in need. When Mr Nathan stepped down from
@@ -18,12 +18,12 @@ had raised more than $100 million and benefitted more than 500 programmes
 in social service organisations that reach out to needy children, families,
 seniors, disabled and other social service endeavours.</p>
 <hr>
-<p><strong>2012</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Tony Tan Keng Yam" src="/images/milestones-tonytan.jpg">
 </div>
-<p>President Tony Tan Keng Yam continued President’s Challenge in 2012. He
+<p><strong>Year 2012 </strong>
+<br>President Tony Tan Keng Yam continued President’s Challenge in 2012. He
 announced his plans to expand the scope of President’s Challenge beyond
 fundraising. Two initiatives were shared – the President’s Challenge Volunteer
 Drive and the President’s Challenge Social Enterprise Award. These new
@@ -32,12 +32,11 @@ but to also give their time and talent, using their business skills to
 help the less fortunate.</p>
 <hr>
 <p></p>
-<p><strong>Year 2015</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="15th Anniversary" src="/images/15anniversary.jpg">
 </div>
-<p>President’s Challenge celebrated its 15th anniversary on March 2015 at
+<p><strong>Year 2015</strong>
+<br>President’s Challenge celebrated its 15th anniversary on March 2015 at
 the <strong>President’s Challenge 15th Anniversary Commemorative Dinner</strong> held
 at the Istana. During the event, President Tony Tan recognised 32 organisations
 and individuals who made special contributions to the causes supported
@@ -71,12 +70,12 @@ Challenge. The Permanent Secretary of the Ministry of Social and Family
 Development (MSF) and Principal Private Secretary to the President continued
 as co-chairs of the President's Challenge Steering Committee.</p>
 <hr>
-<p><strong>2018</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Halimah Yacob" src="/images/milestones-halimahyacob.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="Halimah Yacob" src="/images/milestones-halimahyacob.jpg">
 </div>
-<p>Over the past 17 years, the President’s Challenge focus has been on creating
+<p><strong>Year 2018</strong>
+<br>Over the past 17 years, the President’s Challenge focus has been on creating
 a culture of giving, not just in monetary sense but also in time and skills.
 These efforts are important and should continue but as the social service
 landscape in Singapore changes, President’s Challenge will also have to
@@ -122,5 +121,27 @@ encourage more employers to take the first step and open their doors to
 persons with disabilities. Employers who sign the Pledge can look forward
 to greater support in their effort to train, hire and integrate employees
 with disabilities.</p>
+<hr>
+<p></p>
+<p><strong>Year 2024</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" title="President’s Challenge Enabling Employment Pledge" alt="President’s Challenge Enabling Employment Pledge" src="/images/enablingemploymentpledgelaunch.jpg">
+</div>
+<p>President Tharman Shanmugaratnam launched PC2024 during his visit to CampusImpact,
+a social service agency dedicated to supporting disadvantaged youths and
+their families. Aligned with the President’s Challenge mission to sustain
+purpose and impact, PC2024 aims to uplift families and individuals in need
+by forging partnerships across the community, public, and private sectors.
+PC2024 seeks to catalyse meaningful transformations, promote volunteerism,
+and advocate for diversity.</p>
+<p>Under President Tharman’s leadership, the President’s Challenge will evolve
+to refocus on achieving sustained social impact, particularly in enabling
+people of all abilities and backgrounds to realise their potential. The
+initiative plans to strengthen collaborations with public and philanthropic
+organisations and explore expanding its support to nurture talent and aspirations
+in the arts and sports, especially among communities in need.
+<br>
+</p>
 <h6><em>Photo Credits: MCI</em></h6>
 <p></p>
