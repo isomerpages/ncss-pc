@@ -126,7 +126,7 @@ with disabilities.</p>
 <p><strong>Year 2024</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="President’s Challenge Enabling Employment Pledge" alt="President’s Challenge Enabling Employment Pledge" src="/images/enablingemploymentpledgelaunch.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="President Tharman Shanmugaratnam" src="/images/PC_Launch.jpg">
 </div>
 <p>President Tharman Shanmugaratnam launched PC2024 during his visit to CampusImpact,
 a social service agency dedicated to supporting disadvantaged youths and
@@ -144,4 +144,5 @@ in the arts and sports, especially among communities in need.
 <br>
 </p>
 <h6><em>Photo Credits: MCI</em></h6>
+<p></p>
 <p></p>
