@@ -4,25 +4,11 @@ permalink: /who-we-are/milestones/
 breadcrumb: Milestones
 variant: tiptap
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Year 2000</strong>
+<p><strong>2000</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="SR Nathan" src="/images/milestones-nathan.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="SR Nathan" src="/images/milestones-nathan.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p>The late S R Nathan initiated President’s Challenge in 2000 shortly after
 assuming the Presidency. The social service sector was always something
 very close to his heart and he decided to help raise funds for this sector
@@ -31,24 +17,12 @@ office after 12 years as President of Singapore, the movement he started
 had raised more than $100 million and benefitted more than 500 programmes
 in social service organisations that reach out to needy children, families,
 seniors, disabled and other social service endeavours.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Year 2012</strong>
+<hr>
+<p><strong>2012</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Tony Tan Keng Yam" src="/images/milestones-tonytan.jpg">
+</div>
 <p>President Tony Tan Keng Yam continued President’s Challenge in 2012. He
 announced his plans to expand the scope of President’s Challenge beyond
 fundraising. Two initiatives were shared – the President’s Challenge Volunteer
@@ -56,35 +30,13 @@ Drive and the President’s Challenge Social Enterprise Award. These new
 initiatives encourage people from all walks of life to not only give money
 but to also give their time and talent, using their business skills to
 help the less fortunate.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tony Tan Keng Yam" src="/images/milestones-tonytan.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<hr>
+<p></p>
 <p><strong>Year 2015</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="15th Anniversary" src="/images/15anniversary.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>President’s Challenge celebrated its 15th anniversary on March 2015 at
 the <strong>President’s Challenge 15th Anniversary Commemorative Dinner</strong> held
 at the Istana. During the event, President Tony Tan recognised 32 organisations
@@ -95,7 +47,6 @@ Challenge would now seek to play a bigger role in nurturing stronger communities
 by expanding support for programmes beyond the social service sector and
 to encourage all ages to get involved in community work.
 <br>
-<br>
 </p>
 <p>On September 2015, Dr Tan initiated the <strong>President’s Challenge Silver Volunteer Fund</strong>,
 which supports beneficiary organisations by building up their capabilities
@@ -103,7 +54,6 @@ so they can boost senior volunteerism and encourage seniors to stay active
 in their communities. President’s Challenge will be raising part of the
 $40 million fund needed to recruit an additional 50,000 senior volunteers
 by 2030.
-<br>
 <br>
 </p>
 <p>In 2015, President’s Challenge with the support from the Early Childhood
@@ -113,7 +63,6 @@ back to society. Through community service projects, over 62,000 children
 have participated in the annual project and raised more than $450,000 since
 the project’s inception.
 <br>
-<br>
 </p>
 <p>In the same year, the <strong>National Council of Social Service (NCSS)</strong> took
 over the function of President's Challenge Secretariat and oversees the
@@ -121,36 +70,6 @@ secretariat duties, fundraising efforts and volunteerism drive under President's
 Challenge. The Permanent Secretary of the Ministry of Social and Family
 Development (MSF) and Principal Private Secretary to the President continued
 as co-chairs of the President's Challenge Steering Committee.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <hr>
 <p><strong>2018</strong>
 </p>
