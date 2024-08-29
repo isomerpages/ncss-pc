@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Apply for the President's Challenge Fund & Empowering for Life Fund now!
       button: Apply Now!
-      image: /images/homepage/2024_PresidentsChallenge_Grant_Call_01.jpg
+      image: /images/homepage/2024_PresidentsChallenge_Grant_Call.jpg
       alt: PC Grant Call 2025
       url: https://form.gov.sg/632d5fbf83de100012c53f66
   - infopic:
