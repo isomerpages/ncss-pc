@@ -22,6 +22,14 @@ sections:
       url: /take-action/donate/
       background: /images/homepage/PC24.jpg
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/homepage/2024_PresidentsChallenge_Grant_Call_01.jpg
+      alt: PC Grant Call 2025
+  - infopic:
       title: Empower Lives By Donating
       description: Your support towards the President’s Challenge will enable
         benefitting organisations to sustain their operations and serve the
