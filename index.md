@@ -22,13 +22,13 @@ sections:
       url: /take-action/donate/
       background: /images/homepage/PC24.jpg
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: President's Challenge Grant Call 2025
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Apply for the President's Challenge Fund & Empowering for Life Fund now!
+      button: Apply Now!
       image: /images/homepage/2024_PresidentsChallenge_Grant_Call_01.jpg
       alt: PC Grant Call 2025
+      url: https://form.gov.sg/632d5fbf83de100012c53f66
   - infopic:
       title: Empower Lives By Donating
       description: Your support towards the President’s Challenge will enable
