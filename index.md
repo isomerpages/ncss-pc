@@ -25,7 +25,7 @@ sections:
       title: President's Challenge Grant Call 2025
       id: infopic
       description: Apply for the President's Challenge Fund and the Empowering for
-        Life Fund from 14 July to 18 August 2024.
+        Life Fund from 19 September to 22 November 2024.
       button: Apply Now!
       image: /images/homepage/2024_PresidentsChallenge_Grant_Call2.jpg
       alt: PC Grant Call 2025
