@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Apply for the President's Challenge Fund and the Empowering for
         Life Fund from 19 September to 22 November 2024.
-      button: Apply Now!
+      button: Apply from 19 Sep to 22 Nov
       image: /images/homepage/2024_PresidentsChallenge_Grant_Call2.jpg
       alt: PC Grant Call 2025
       url: https://form.gov.sg/665ed8edce5e55a4fe266324
