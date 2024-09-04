@@ -22,6 +22,12 @@ sections:
       url: /take-action/donate/
       background: /images/homepage/PC24.jpg
   - infopic:
+      title: President's Challenge Grant Call 2025
+      id: infopic
+      description: Registrations open on 19 September 2024.
+      image: /images/homepage/2024_PresidentsChallenge_Grant_Call2.jpg
+      alt: PC Grant Call 2025
+  - infopic:
       title: Empower Lives By Donating
       description: Your support towards the President’s Challenge will enable
         benefitting organisations to sustain their operations and serve the
