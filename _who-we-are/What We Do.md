@@ -11,33 +11,27 @@ description: Initiated by former President S R Nathan in 2000, President’s
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="WhatWeDo Banner" alt="What We Do" src="/images/capita-land.jpg">
 </div>
-<p>Initiated by former President S R Nathan in 2000, President's Challenge
-represents the coming together of people from all walks of life to help
-the less fortunate. In 2012, under the leadership of President Tony Tan
-Keng Yam, President's Challenge was expanded to go beyond fundraising,
-by including volunteerism and social entrepreneurship.</p>
-<p>In 2015, Dr Tony Tan launched the President’s Challenge Silver Volunteer
-Fund, a fund which aims to encourage seniors to volunteer their time and
-age actively. Donations help charities supported by the fund to curate
-new or expand existing volunteer programmes, recruit volunteers through
-volunteer management systems, and train and recognise volunteers. PreEvery
-dollar donated to President’s Challenge goes directly to the benefitting
-organisations, thanks to our Challenge sponsors Singapore Pools and Singapore
-Totalisator Board, which provide grants to cover the operating costs of
-President’s Challenge. sident’s Challenge hopes to raise $10 million out
-of the $40 million needed by 2019 and the Silver Volunteer Fund aims to
-recruit an additional 50,000 senior volunteers by 2030.</p>
-<p>In 2018, President Halimah Yacob announced the new <a href="/empowering-for-life-fund/" rel="noopener noreferrer nofollow" target="_blank">Empowering for Life Fund (ELF)</a>, a
-fund supporting vulnerable groups through skills upgrading, capacity-building
-and employment. ELF will focus on supporting customised, dedicated services
-to the most vulnerable groups and facilitate their integration into society.
-The programmes that it funds will handhold the most disadvantaged people
-on their journeys to improve their circumstances. The aim is to help them
-bounce back quickly from setbacks and stay adaptable.</p>
-<p>Every dollar donated to President’s Challenge goes directly to the benefitting
-organisations, thanks to our Challenge sponsors Singapore Pools and Singapore
-Totalisator Board, which provide grants to cover the operating costs of
-President’s Challenge.
+<p>President’s Challenge (PC) was introduced in 2000, by then-President Mr
+S R Nathan. Since its inception, PC has provided benefits to many organisations
+and individuals over the years. Over the last two decades, we have also
+witnessed the significant growth of government and philanthropic initiatives
+to support groups in need.</p>
+<p>To ensure that the benefits of PC reach even more Singaporeans, PC is
+being repositioned and repurposed. The refreshed PC will reposition its
+role within the broader landscape of giving. It will aim to achieve sustained
+social impact, in particular in enabling people of all abilities and backgrounds
+to develop their potential.</p>
+<p>While supporting social impact initiatives will remain a key focus of
+PC, from 2025 onwards, PC will broaden its scope to nurture talent and
+aspirations in the arts and sports, including among disadvantaged groups,
+effectively supporting the aspirations of individuals from all walks of
+life.</p>
+<p>It will also expand and deepen partnerships with public and philanthropic
+organisations that may lead initiatives consistent with the PC’s goals
+and principles.</p>
+<p>The refresh will help ensure PC remains purpose-driven and impact-oriented,
+complementing existing initiatives in the public and private sector to
+foster a culture of unity and respect for all.
 <br>
 </p>
 <div class="iframe-wrapper">
