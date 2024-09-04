@@ -24,9 +24,9 @@ sections:
   - infopic:
       title: President's Challenge Grant Call 2025
       id: infopic
-      description: Apply for the President’s Challenge 2025 Grant from 19 Sept to 22
+      description: Apply for the President’s Challenge 2025 Grant from 19 Sep to 22
         Nov 2024.
-      button: REGISTRATIONS OPEN 19 SEPT
+      button: REGISTRATIONS OPEN 19 SEP
       image: /images/homepage/2024_PresidentsChallenge_Grant_Call2.jpg
       alt: PC Grant Call 2025
       url: https://form.gov.sg/665ed8edce5e55a4fe266324
