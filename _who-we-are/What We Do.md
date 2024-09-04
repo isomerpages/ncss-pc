@@ -31,12 +31,5 @@ organisations that may lead initiatives consistent with the PC’s goals
 and principles.</p>
 <p>The refresh will help ensure PC remains purpose-driven and impact-oriented,
 complementing existing initiatives in the public and private sector to
-foster a culture of unity and respect for all.
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9ACQUkFTcpk"></iframe>
-</div>
-<p><em>Photo Credits: CapitaLand, Singapore Polytechnic, YMCA Singapore, Singapore Centre for Social Enterprise (raiSE)</em>
-</p>
+foster a culture of unity and respect for all.</p>
 <p></p>
