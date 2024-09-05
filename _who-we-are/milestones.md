@@ -111,11 +111,11 @@ from setbacks and stay adaptable.</p>
 <img style="width: 100%" height="auto" width="100%" title="President’s Challenge Enabling Employment Pledge" alt="President’s Challenge Enabling Employment Pledge" src="/images/enablingemploymentpledgelaunch.jpg">
 </div>
 <p>President Halimah Yacob launched the President’s Challenge Enabling Employment
-Pledge at the launch of PC2020 to rally employers to provide more employment
-opportunities to persons with disabilities. The President’s Challenge Enabling
-Employment Pledge calls on employers to adopt an inclusive mindset, create
-barrier-free workplace environments and implement supportive employment
-policies for employees with disabilities.</p>
+Pledge at the launch of President’s Challenge 2020 to rally employers to
+provide more employment opportunities to persons with disabilities. The
+President’s Challenge Enabling Employment Pledge calls on employers to
+adopt an inclusive mindset, create barrier-free workplace environments
+and implement supportive employment policies for employees with disabilities.</p>
 <p>Through the Enabling Employment Pledge, President’s Challenge hopes to
 encourage more employers to take the first step and open their doors to
 persons with disabilities. Employers who sign the Pledge can look forward
@@ -128,13 +128,14 @@ with disabilities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="President Tharman Shanmugaratnam" src="/images/PC_Launch.jpg">
 </div>
-<p>President Tharman Shanmugaratnam launched PC2024 during his visit to CampusImpact,
-a social service agency dedicated to supporting disadvantaged youths and
-their families. Aligned with the President’s Challenge mission to sustain
-purpose and impact, PC2024 aims to uplift families and individuals in need
-by forging partnerships across the community, public, and private sectors.
-PC2024 seeks to catalyse meaningful transformations, promote volunteerism,
-and advocate for diversity.</p>
+<p>President Tharman Shanmugaratnam launched President’s Challenge 2024 during
+his visit to CampusImpact, a social service agency dedicated to supporting
+disadvantaged youths and their families. Aligned with the President’s Challenge
+mission to sustain purpose and impact, President’s Challenge 2024 aims
+to uplift families and individuals in need by forging partnerships across
+the community, public, and private sectors. President’s Challenge 2024
+seeks to catalyse meaningful transformations, promote volunteerism, and
+advocate for diversity.</p>
 <p>Under President Tharman’s leadership, the President’s Challenge will evolve
 to refocus on achieving sustained social impact, particularly in enabling
 people of all abilities and backgrounds to realise their potential. The
