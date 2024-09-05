@@ -8,7 +8,7 @@ variant: tiptap
 <hr>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>What percentage of my donation goes to the charities supported by President’s Challenge?</strong>
+<p><strong>What percentage of my donation goes to the organisations supported by President’s Challenge?</strong>
 <br>100% of donations to President's Challenge go towards the supported organisations
 chosen by the President’s Challenge.
 <br>
