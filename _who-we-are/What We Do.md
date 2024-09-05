@@ -11,8 +11,8 @@ description: Initiated by former President S R Nathan in 2000, President’s
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="WhatWeDo Banner" alt="What We Do" src="/images/capita-land.jpg">
 </div>
-<p>President’s Challenge (PC) was introduced in 2000, by then-President Mr
-S R Nathan. Since its inception, President’s Challenge has provided benefits
+<p>President’s Challenge was introduced in 2000, by then-President Mr S R
+Nathan. Since its inception, President’s Challenge has provided benefits
 to many organisations and individuals over the years. Over the last two
 decades, we have also witnessed the significant growth of government and
 philanthropic initiatives to support groups in need.</p>
