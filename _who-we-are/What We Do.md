@@ -18,9 +18,9 @@ decades, we have also witnessed the significant growth of government and
 philanthropic initiatives to support groups in need.</p>
 <p>To ensure that the benefits of President’s Challenge reach even more Singaporeans,
 President’s Challenge is being repositioned and repurposed. The refreshed
-PC will reposition its role within the broader landscape of giving. It
-will aim to achieve sustained social impact, in particular in enabling
-people of all abilities and backgrounds to develop their potential.</p>
+President’s Challenge will reposition its role within the broader landscape
+of giving. It will aim to achieve sustained social impact, in particular
+in enabling people of all abilities and backgrounds to develop their potential.</p>
 <p>While supporting social impact initiatives will remain a key focus of
 President’s Challenge, from 2025 onwards, President’s Challenge will broaden
 its scope to nurture talent and aspirations in the arts and sports, including
