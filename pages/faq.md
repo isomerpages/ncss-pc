@@ -4,4 +4,177 @@ breadcrumb: FAQ
 title: FAQ
 variant: tiptap
 ---
-<h3><strong>DONATIONS</strong></h3><hr><ol data-tight="true" class="tight"><li><p><strong>What percentage of my donation goes to the charities supported by President’s Challenge?</strong><br>100% of donations to President's Challenge go towards the supported charities chosen by the President’s Challenge.<br><br></p></li><li><p><strong>Who covers the operating costs of President's Challenge?</strong><br>The operating costs of President’s Challenge are covered by a grant from Singapore Totalisator Board as a community initiative so that every dollar donated to President's Challenge go to the charities we support.<br><br></p></li><li><p><strong>How can I be an anonymous donor?</strong><br>Let us know your request to remain anonymous and we will respect your request.<br><br></p></li><li><p><strong>How much tax deductions do I qualify for when I make a donation?</strong><br>All outright cash donations given by individuals or corporations to charities with tax-deductible status will be entitled to tax deductions. It was announced in Budget 2023 that the 250% tax deduction for qualifying donations will be extended for another two years till 31 December 2026. For more information on tax deductions, visit <a href="https://www.iras.gov.sg/irashome/default.aspx" rel="noopener noreferrer nofollow" target="_blank">www.iras.gov.sg.</a><br><br></p></li><li><p><strong>Will I receive a tax-deductible receipt for my donation?</strong><br>e-Tax Deductible Receipts will be issued upon request. Regardless of your donation amount, we will help to submit your tax deduction to IRAS as long as you provide your Singapore identification number or UEN when donating.<br><br></p></li><li><p><strong>How do I claim for my tax deductions without a tax-deductible receipt?</strong><br>If you have provided your identification number when you made a donation to President’s Challenge, we will help you make the submission to IRAS. Hence, you will not need the receipt when submitting your annual tax assessment. If you are an individual donor, IRAS now automatically acknowledges the tax-deductible status of your donations if the charity submits your identification number to IRAS on your behalf.<br><br></p></li><li><p><strong>Will my organisation receive a tax deduction or does each of us get individual tax deductions for our donation?</strong><br>If the donation was made on your organisation’s behalf, your company will qualify for tax deduction. Individual donors get the tax deduction if the individual donor’s donation was from a fundraising event or exercise. In such a case, your organisation will only receive a receipt of acknowledgement for the contribution.<br><br></p></li><li><p><strong>Does President’s Challenge sell, rent or trade donor information (eg. mailing and email addresses and phone numbers) to other agencies?</strong><br>The privacy of our donors is very important to us, and we do not share or sell this information.<br></p></li></ol><h3><strong>FUNDING</strong></h3><hr><ol data-tight="true" class="tight"><li><p><strong>I work for a charity in Singapore. How can my organisation apply to be a President’s Challenge benefiting organisation?</strong><br>To be considered for a nomination as a President’s Challenge benefiting organisation, your organisation must have attained an Institute of Public Character (IPC) status that remains valid in the financial year when the funds are disbursed. You may apply for IPC status at <a href="https://www.charities.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">www.charities.gov.sg. </a><br><br>Applications for funding generally open in September for the following year. You can download the application form from our website or contact your respective Sector Administrator for the application details.<br><br></p></li><li><p><strong>What is the President’s Challenge Empowering for Life Fund?</strong><br>At the President’s Challenge 2018 launch, President Halimah rallied for more customised support to empower the vulnerable in society, focusing in area of employment. To support such efforts, $20m is set aside over the next 5 years, through funds raised by President’s Challenge (PC) and a matching amount from Ministry of Finance (MOF), for a new President’s Challenge Empowering for Life Fund (PC ELF).<br><br>The PC-ELF will run from 2018 – 2022.<br><br></p></li><li><p><strong>What is the difference between PC and PC-ELF?</strong><br></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>No.</strong></p></td><td rowspan="1" colspan="1"><p><strong>Categories</strong></p></td><td rowspan="1" colspan="1"><p><strong>PC</strong></p></td><td rowspan="1" colspan="1"><p><strong>PC–ELF</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>1</p></td><td rowspan="1" colspan="1"><p>Funding requests</p></td><td rowspan="1" colspan="1"><p>The PC fund supports one-off initiatives in the following areas: <br>1. Programme <br>2. Capital</p></td><td rowspan="1" colspan="1"><p>The PC-ELF will support innovative initiatives that: <br>1. Empower people to be self-reliant; <br>2. Enable service users to sustain employment; and <br>3. Holistically address the needs of its target group(s) by collaborating with and leveraging on existing schemes and community resources.</p></td></tr><tr><td rowspan="1" colspan="1"><p>2</p></td><td rowspan="1" colspan="1"><p>Outcomes</p></td><td rowspan="1" colspan="1"><p>If the funding request benefits service users and are assessed to be needed in the social service landscape, agencies may apply for PC funding.</p></td><td rowspan="1" colspan="1"><p>PC-ELF programmes must achieve the following outcomes: <br>- People live independently in their communities and have the ability to sustain employment; and <br>- People participate in developing solutions and make decisions for their own well-being.</p></td></tr><tr><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>Funding period and Fund utilisation</p></td><td rowspan="1" colspan="1"><p>Supported for 1 year only.<br>Supported for 1 year only. Funds must be utilised within 3 years from receiving the first disbursement.</p></td><td rowspan="1" colspan="1"><p>Supported for up to 3 years.<br>Funds must be utilised within the approved funding period, from receiving the first disbursement.</p></td></tr><tr><td rowspan="1" colspan="1"><p>4</p></td><td rowspan="1" colspan="1"><p>Project/Programme Commencement</p></td><td rowspan="1" colspan="1"><p>Agencies are given the flexibility to utilise the funding upon receiving the first disbursement. Funds must be utilised with 3 years.</p></td><td rowspan="1" colspan="1"><p>Agencies must commence the programmes supported under PC-ELF on 1st July in the year of approval.</p></td></tr><tr><td rowspan="1" colspan="1"><p>5</p></td><td rowspan="1" colspan="1"><p>Reporting Requirements</p></td><td rowspan="1" colspan="1"><p>Supported PC benefitting agencies are required to submit a Fund Utilisation Report, to report the utilisation of funds. The first report must be submitted 01 year after receiving the first disbursement.</p></td><td rowspan="1" colspan="1"><p>Supported PC-ELF benefitting agencies are required to submit a PC-ELF Outcome Report and an Income &amp; Expense statement certified by the Agency’s President, Treasurer, Executive Head or their equivalents. Supported programmes are required to commence in July of the calendar year, with each reporting period (“Reporting Period”) being 1st July of current year to 30th June of the following year. Programme performance must be reported within 4 weeks of the end of the Reporting Period (i.e. in July)</p></td></tr></tbody></table><p></p><p>Agencies are also strongly encouraged to review the Requirements stated in Section A of the application forms of the two funds.<br><br></p></li><li><p><strong>When is the application window for PC-ELF?</strong><br>PC-ELF and PC share the same application window. The application window typically opens in August and agencies are given five to six weeks to apply.<br><br>The application forms for PC and PC-ELF are different. Hence, agencies are required to fill in the correct form for the fund they are applying for.<br><br></p></li><li><p><strong>Can I apply for both PC and PC-ELF?</strong></p><p>Yes, agencies are free to apply for both funds with separate applications, meeting the fund requirements. Agencies should ascertain which fund is more appropriate and relevant to their programme(s).<br><br></p></li><li><p><strong>Who can apply for PC-ELF?</strong></p><p>The PC-ELF applications are open to social service agencies with a valid IPC status.<br><br></p></li><li><p><strong>When will I be updated of the application outcome for PC and PC-ELF?</strong><br>Agencies will be informed of the application outcome by Feb/Mar 2021 via a letter from the President’s Office.<br><br>Agencies will be informed of the range of funds allocated to the programme.. The definitive amount is not given as the programmes’ funding is dependent on the funds raised during the year.<br><br></p></li><li><p><strong>Are we allowed to apply for only 1 or 2 years of PC-ELF funding?</strong><br>Agencies can apply for PC-ELF funding for up to 3 years. If only 1 or 2 years of funding is required, there is no need to fill up the requested amounts for the remaining years.</p><p></p></li><li><p><strong>What happens if we do not fully utilise the funding we are provided with?</strong><br>PC<strong> </strong>and PC-ELF funding must be utilised by the Agencies within the approved utilisation period.. If funds are not expended within the specified time frame, NCSS has the sole discretion to grant an extension for the period of fund usage or to claw back the unutilised funds.</p><p></p></li><li><p><strong>Are agencies allowed to fund-raise for their programmes that are supported by PC and PC-ELF?</strong><br>Yes, Agencies can fund-raise for any shortfall/components of the programme not covered by PC or PC-ELF funding.<br><br></p></li><li><p><strong>What are the reporting requirements of PC-ELF?</strong><br>An annual outcome reporting template will be provided to supported agencies for the reporting of the programmes outcomes. The report must be submitted by August at the end of each programme year. The agency is also required to submit the programme’s certified income and expenditure statement, as well as its annual audited financial statements at its earliest availability. The audited financial statement should classify the PC-ELF funds as a restricted fund. If the Programme is receiving different sources of funding for the purposes of operating the Programme, it should be itemised and disclosures on the funding should be included.<br></p></li></ol><h3><strong>FUNDRAISING</strong></h3><hr><ol data-tight="true" class="tight"><li><p><strong>Who manages the President's Challenge?</strong><br>The main bodies involved in the organisation and administration of President's Challenge are the President's Office, Ministry of Social and Family Development (MSF) and National Council of Social Service (NCSS). The President's Challenge Secretariat is managed by NCSS and oversees the secretariat duties, fundraising efforts and volunteerism drive under President's Challenge.<br><br></p></li><li><p><strong>I am keen to fund raise for President's Challenge. Can you share some ideas?</strong><br>Thank you for your interest to raise funds for President's Challenge. Here are some ideas for you to consider but if you want to know more, drop us a note here</p><ul data-tight="true" class="tight"><li><p>Auction</p></li><li><p>Bake sale or jumble sale</p></li><li><p>Entertainment e.g. concert, play, movie screening</p></li><li><p>Sports e.g. charity walk, marathon, yoga</p></li><li><p>Fun fair</p></li><li><p>Party e.g. charity lunch, dinner, tea party</p></li><li><p>Raffle</p></li></ul><p></p></li><li><p><strong>What should I do if I wish to conduct a public fundraising event to raise funds for President's Challenge?</strong><br>A House to House and Street Collections licence is required if you are organising a fundraising event or activity that appeals for donations from the public. To apply for the licence, please visit the Singapore Police Force website at <a href="https://www.police.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg.</a></p></li></ol><p></p>
+<h3><strong>DONATIONS</strong></h3>
+<hr>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>What percentage of my donation goes to the charities supported by President’s Challenge?</strong>
+<br>100% of donations to President's Challenge go towards the supported organisations
+chosen by the President’s Challenge.
+<br>
+<br>
+</p>
+</li>
+<li>
+<p><strong>Who covers the operating costs of President's Challenge?</strong>
+<br>The operating costs of President’s Challenge are covered by a grant from
+Singapore Totalisator Board as a community initiative so that every dollar
+donated to President's Challenge go to the charities we support.
+<br>
+<br>
+</p>
+</li>
+<li>
+<p><strong>How can I be an anonymous donor?</strong>
+<br>Let us know your request to remain anonymous and we will respect your
+request.
+<br>
+<br>
+</p>
+</li>
+<li>
+<p><strong>How much tax deductions do I qualify for when I make a donation?</strong>
+<br>All outright cash donations given by individuals or corporations to charities
+with tax-deductible status will be entitled to tax deductions. It was announced
+in Budget 2023 that the 250% tax deduction for qualifying donations will
+be extended for another two years till 31 December 2026. For more information
+on tax deductions, visit <a href="https://www.iras.gov.sg/irashome/default.aspx" rel="noopener noreferrer nofollow" target="_blank">www.iras.gov.sg.</a>
+<br>
+<br>
+</p>
+</li>
+<li>
+<p><strong>Will I receive a tax-deductible receipt for my donation?</strong>
+<br>e-Tax Deductible Receipts will be issued upon request. Regardless of your
+donation amount, we will help to submit your tax deduction to IRAS as long
+as you provide your Singapore identification number or UEN when donating.
+<br>
+<br>
+</p>
+</li>
+<li>
+<p><strong>How do I claim for my tax deductions without a tax-deductible receipt?</strong>
+<br>If you have provided your identification number when you made a donation
+to President’s Challenge, we will help you make the submission to IRAS.
+Hence, you will not need the receipt when submitting your annual tax assessment.
+If you are an individual donor, IRAS now automatically acknowledges the
+tax-deductible status of your donations if the charity submits your identification
+number to IRAS on your behalf.
+<br>
+<br>
+</p>
+</li>
+<li>
+<p><strong>Will my organisation receive a tax deduction or does each of us get individual tax deductions for our donation?</strong>
+<br>If the donation was made on your organisation’s behalf, your company will
+qualify for tax deduction. Individual donors get the tax deduction if the
+individual donor’s donation was from a fundraising event or exercise. In
+such a case, your organisation will only receive a receipt of acknowledgement
+for the contribution.
+<br>
+<br>
+</p>
+</li>
+<li>
+<p><strong>Does President’s Challenge sell, rent or trade donor information (eg. mailing and email addresses and phone numbers) to other agencies?</strong>
+<br>The privacy of our donors is very important to us, and we do not share
+or sell this information.
+<br>
+</p>
+</li>
+</ol>
+<h3><strong>FUNDING</strong></h3>
+<hr>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>I work for a charity in Singapore. How can my organisation apply to be a President’s Challenge benefitting organisation?</strong>
+<br>To be considered for a nomination as a President’s Challenge benefitting
+organisation, your organisation must have attained an Institute of Public
+Character (IPC) status that remains valid in the financial year when the
+funds are disbursed. You may apply for IPC status at <a href="https://www.charities.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">www.charities.gov.sg. </a>
+<br>
+<br>Applications for funding generally open in September for the following
+year. You can download the application form from our website or contact
+your respective Sector Administrator for the application details.
+<br>
+</p>
+<p></p>
+</li>
+<li>
+<p><strong>When will I be updated of the application outcome for President's Challenge?</strong>
+<br>Agencies will be informed of the application outcome by Feb/Mar via a
+letter from the President’s Office.
+<br>Agencies will be informed of the range of funds allocated to the programme.
+The definitive amount is not given as the programmes’ funding is dependent
+on the funds raised during the year.</p>
+<p></p>
+</li>
+<li>
+<p><strong>What happens if we do not fully utilise the funding we are provided with?</strong>
+<br>President's Challenge<strong> </strong>funding must be utilised by the
+Agencies within the approved utilisation period. If funds are not expended
+within the specified time frame, NCSS has the sole discretion to grant
+an extension for the period of fund usage or to claw back the unutilised
+funds.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Are agencies allowed to fundraise for their programmes that are supported by President's Challenge?</strong>
+<br>Yes, Agencies can fundraise for any shortfall/components of the programme
+not covered by President's Challenge.</p>
+</li>
+</ol>
+<h3><strong>FUNDRAISING</strong></h3>
+<hr>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Who manages the President's Challenge?</strong>
+<br>The main bodies involved in the organisation and administration of President's
+Challenge are the President's Office, Ministry of Social and Family Development
+(MSF) and National Council of Social Service (NCSS). The President's Challenge
+Secretariat is managed by NCSS and oversees the secretariat duties, fundraising
+efforts and volunteerism drive under President's Challenge.
+<br>
+<br>
+</p>
+</li>
+<li>
+<p><strong>I am keen to fundraise for President's Challenge. Can you share some ideas?</strong>
+<br>Thank you for your interest to raise funds for President's Challenge.
+Here are some ideas for you to consider but if you want to know more, drop
+us a note here</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Auction</p>
+</li>
+<li>
+<p>Bake sale or jumble sale</p>
+</li>
+<li>
+<p>Entertainment e.g. concert, play, movie screening</p>
+</li>
+<li>
+<p>Sports e.g. charity walk, marathon, yoga</p>
+</li>
+<li>
+<p>Fun fair</p>
+</li>
+<li>
+<p>Party e.g. charity lunch, dinner, tea party</p>
+</li>
+<li>
+<p>Raffle</p>
+</li>
+</ul>
+<p></p>
+</li>
+<li>
+<p><strong>What should I do if I wish to conduct a public fundraising event to raise funds for President's Challenge?</strong>
+<br>A House to House and Street Collections licence is required if you are
+organising a fundraising event or activity that appeals for donations from
+the public. To apply for the licence, please visit the Singapore Police
+Force website at <a href="https://www.police.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg.</a>
+</p>
+</li>
+</ol>
+<p></p>
