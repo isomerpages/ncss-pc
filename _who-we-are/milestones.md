@@ -141,9 +141,9 @@ to refocus on achieving sustained social impact, particularly in enabling
 people of all abilities and backgrounds to realise their potential. The
 initiative plans to strengthen collaborations with public and philanthropic
 organisations and explore expanding its support to nurture talent and aspirations
-in the arts and sports, especially among communities in need.
-<br>
+in the arts and sports, especially among communities in need.</p>
+<p></p>
+<p><em>Photo Credits: MCI</em>
 </p>
-<h6><em>Photo Credits: MCI</em></h6>
 <p></p>
 <p></p>
