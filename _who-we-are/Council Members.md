@@ -8,7 +8,7 @@ description: Council Members of President's Challenge
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Mr Aubeck Kam</summary>
+<summary>Mr Aubeck Kam (Vice-President)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p></p>
@@ -26,19 +26,19 @@ aspects of Singapore's public service.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ms Teoh Zsin Woon</summary>
+<summary>Ms Teoh Zsin Woon (Vice-President)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Prof Lily Kong</summary>
+<summary>Prof Lily Kong (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ms Tan Li San</summary>
+<summary>Ms Tan Li San (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -57,79 +57,79 @@ social service.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mr Julius Lim</summary>
+<summary>Mr Julius Lim (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mdm Zuraidah Abdullah</summary>
+<summary>Mdm Zuraidah Abdullah (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mr Lee Seng Meng</summary>
+<summary>Mr Lee Seng Meng (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mr Boo Junfeng</summary>
+<summary>Mr Boo Junfeng (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mr Boo Junfeng</summary>
+<summary>Mr Boo Junfeng (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mr Wang Chenwei</summary>
+<summary>Mr Wang Chenwei (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mr Lien Choong Luen</summary>
+<summary>Mr Lien Choong Luen (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ms Yip Pin Xiu</summary>
+<summary>Ms Yip Pin Xiu (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ms Janet Ang</summary>
+<summary>Ms Janet Ang (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mr Leow Kah Shin</summary>
+<summary>Mr Leow Kah Shin (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mr Dilhan Pillay Sandrasegara</summary>
+<summary>Mr Dilhan Pillay Sandrasegara (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mr Danny Yong</summary>
+<summary>Mr Danny Yong (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Prof Veera Sekaran</summary>
+<summary>Prof Veera Sekaran (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
