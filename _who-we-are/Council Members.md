@@ -16,6 +16,7 @@ description: Council Members of President's Challenge
 <img style="width: 100%" height="auto" width="100%" alt="Mr Aubeck Kam" src="/images/Council Members/aubeck.jpg">
 </div>
 <p><em>Permanent Secretary, MSF</em>
+<br>
 <br>Aubeck Kam is currently serving as Permanent Secretary in the Ministry
 of Social and Family Development and for Home Affairs Development, as well
 as Chairman of HTX. With a career spanning over three decades, Kam has
