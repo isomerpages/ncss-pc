@@ -5,6 +5,9 @@ variant: tiptap
 description: Council Members of President's Challenge
 ---
 <h2><strong>Mr Aubeck Kam</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/president-halimah-yacob-(milestone).jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,9 +16,7 @@ description: Council Members of President's Challenge
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wwd_3_daughter.png">
-</div>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Permanent Secretary, MSF
@@ -39,7 +40,7 @@ aspects of Singapore's public service.</p>
 <p></p>
 <p></p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mr Aubeck Kam</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -60,6 +61,18 @@ includes a law degree from King's College London and a Master in Public
 Management from the Lee Kuan Yew School of Public Policy. Kam's diverse
 experience reflects his adaptability and expertise in managing multiple
 aspects of Singapore's public service.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
