@@ -10,6 +10,8 @@ description: Council Members of President's Challenge
 <details class="isomer-details">
 <summary>Mr Aubeck Kam</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
 <p><em>Permanent Secretary, MSF</em>
 <br>Aubeck Kam is currently serving as Permanent Secretary in the Ministry
 of Social and Family Development and for Home Affairs Development, as well
@@ -33,6 +35,21 @@ aspects of Singapore's public service.</p>
 <summary>Prof Lily Kong</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Ms Tan Li San</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><em>Chief Executive Officer, NCSS</em>
+<br>Ms Tan Li San, the current CEO of NCSS (National Council of Social Service),
+brings a wealth of experience from her diverse career across multiple government
+agencies in Singapore. Her commitment to social services is evident through
+her past and present board memberships in various charitable organisations.
+With a strong educational background in engineering and management from
+prestigious US universities, Ms Tan's expertise and dedication were acknowledged
+with the Public Administration Medal (Silver) in 2020. Her leadership at
+NCSS combines her extensive public sector experience with a passion for
+social service.</p>
 </div>
 </details>
 </div>
