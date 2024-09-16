@@ -50,7 +50,13 @@ aspects of Singapore's public service.</p>
 <p>
 <br><em>Permanent Secretary, MSF</em>
 <br>
-<br>Aubeck Kam is currently serving as Permanent Secretary in the Ministry
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wwd_3_daughter.png">
+</div>
+<p></p>
+<p>Aubeck Kam is currently serving as Permanent Secretary in the Ministry
 of Social and Family Development and for Home Affairs Development, as well
 as Chairman of HTX. With a career spanning over three decades, Kam has
 held leadership positions across various government agencies, including
