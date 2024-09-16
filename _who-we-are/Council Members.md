@@ -8,7 +8,7 @@ description: Council Members of President's Challenge
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Mr Aubeck Kam (Vice-President)</summary>
+<summary>Mr Aubeck Kam (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p></p>
@@ -29,7 +29,7 @@ aspects of Singapore's public service.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ms Teoh Zsin Woon (Vice-President)</summary>
+<summary>Ms Teoh Zsin Woon (Member)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
