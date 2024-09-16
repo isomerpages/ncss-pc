@@ -40,6 +40,10 @@ aspects of Singapore's public service.</p>
 <details class="isomer-details">
 <summary>Ms Tan Li San</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Council Members/CEO_Tan_Li_San_new.jpg">
+</div>
 <p><em>Chief Executive Officer, NCSS</em>
 <br>Ms Tan Li San, the current CEO of NCSS (National Council of Social Service),
 brings a wealth of experience from her diverse career across multiple government
