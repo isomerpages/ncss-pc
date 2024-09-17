@@ -12,8 +12,9 @@ description: Council Members of President's Challenge
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Aubeck Kam" src="/images/Council Members/aubeck.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Aubeck Kam" src="/images/Council Members/Aubeck_Kam.jpg">
 </div>
 <p><em>Permanent Secretary, MSF</em>
 <br>
