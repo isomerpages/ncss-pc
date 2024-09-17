@@ -29,7 +29,7 @@ sections:
       image: /images/homepage/2024_PresidentsChallenge_Grant_Call2.jpg
       alt: PC Grant Call 2025
       button: Apply for Grant now!
-      url: https://form.gov.sg/665ed8edce5e55a4fe266324
+      url: https://go.gov.sg/pc2025grant
   - infopic:
       title: Empower Lives By Donating
       description: Your support towards the President’s Challenge will enable
