@@ -20,6 +20,7 @@ the President’s Challenge expand and thrive.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Mr Aubeck Kam" src="/images/Council Members/Aubeck_Kam.jpg">
 </div>
 <p><em>Permanent Secretary, Ministry of Social and Family Development</em>
+<br>
 <br>Mr Aubeck Kam is currently serving as Permanent Secretary in the Ministry
 of Social and Family Development and for Home Affairs Development, as well
 as Chairman of HTX. With a career spanning over three decades, Kam has
@@ -37,9 +38,10 @@ in managing multiple aspects of Singapore's public service.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Teoh Zsin Woon" src="/images/Council Members/Teoh_Zsin_Woon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait photo of Teoh Zsin Woon, Woman with short hair smiling" src="/images/Council Members/Teoh_Zsin_Woon.jpg">
 </div>
 <p><em>Permanent Secretary, Ministry of Culture, Community and Youth</em>
+<br>
 </p>
 <p>Ms Teoh Zsin Woon is the current Permanent Secretary in Singapore's Ministry
 of Culture, Community and Youth. She previously held similar roles in the
@@ -60,8 +62,8 @@ different sectors.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Prof Lily Kong" src="/images/Council Members/Lily_Kong.jpg">
 </div>
 <p><em>President, Singapore Management University</em>
-</p>
-<p>Professor Lily Kong is the current President of Singapore Management University,
+<br>
+<br>Professor Lily Kong is the current President of Singapore Management University,
 making history as the first Singaporean and first woman to hold this position
 in any Singaporean university. An internationally acclaimed researcher
 in geography and urban studies, she has received numerous prestigious awards
@@ -80,9 +82,13 @@ field.</p>
 <details class="isomer-details">
 <summary>Mr Boo Junfeng</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Boo Junfeng, Man in grey shirt smiling" src="/images/Council Members/Boo_Junfeng.jpg">
+</div>
 <p><em>Filmmaker and Chairperson, Singapore International Film Festival</em>
-</p>
-<p>Mr Boo Junfeng is an acclaimed Singaporean filmmaker whose works have
+<br>
+<br>Mr Boo Junfeng is an acclaimed Singaporean filmmaker whose works have
 been showcased at the Cannes Film Festival. He has received national recognition
 through the Young Artist Award and Singapore Youth Award. Boo has served
 as Creative Director for Singapore's National Day Parade and currently
@@ -93,7 +99,12 @@ to national film and memorial committees.</p>
 <details class="isomer-details">
 <summary>Mr Danny Yong</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Danny Yong, man in a suit, arms folded and smiling" src="/images/Council Members/Danny_Yong.jpg">
+</div>
 <p><em>Founder and Chairman, The Majurity Trust; Co-Chief Executive Officer and Co-Chief Investment Officer, Dymon Asia Capital</em>
+<br>
 </p>
 <p>Mr Danny Yong is committed to philanthropy, having established The Majurity
 Trust, Ray of Hope charity, and the Yong Hon Kong Foundation to support
@@ -107,6 +118,10 @@ trading.</p>
 <details class="isomer-details">
 <summary>Mr Dilhan Pillay Sandrasegara</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Dilhan Pillay, man in black business suit and red tie, smiling" src="/images/Council Members/Dilhan_Pillay.jpg">
+</div>
 <p><em>Executive Director and Chief Executive Officer, Temasek Holdings (Private) Limited &amp; Temasek International Pte Ltd</em>
 </p>
 <p></p>
@@ -124,7 +139,12 @@ the University of Cambridge.</p>
 <details class="isomer-details">
 <summary>Ms Janet Ang</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Janet Ang, woman in a sleeveless dress and short hair, smiling" src="/images/Council Members/Janet_Ang.jpg">
+</div>
 <p><em>Chairman, Singapore Business Federation</em>
+<br>
 </p>
 <p>Ms Janet Ang serves as the Chairman of Singapore Business Federation Foundation,
 the Public Transport Council, the National University of Singapore - Institute
@@ -136,7 +156,12 @@ Nominated Member of the Parliament of Singapore from Feb 2021 to Jul 2023.&nbsp;
 <details class="isomer-details">
 <summary>Mr Lee Seng Meng</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><em>Executive Director, SHINE Children and Youth Services </em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Lee Seng Meng, man smiling in a business suit wearing a tie and glasses" src="/images/Council Members/Seng_Meng.jpg">
+</div>
+<p><em>Executive Director, SHINE Children and Youth Services</em>
+<br>
 </p>
 <p>Mr Lee Seng Meng, Executive Director of SHINE Children and Youth Services,
 is a registered social worker specialising in youth work. He has received
@@ -152,6 +177,10 @@ advancing social work practices and serves as a grassroots leader.</p>
 <details class="isomer-details">
 <summary>Mr Leow Kah Shin</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Leow Kah Shin, man smiling in a white suit and red bowtie" src="/images/Council Members/Leow_Lah_Shin.jpg">
+</div>
 <p><em>Adviser, Quantedge Foundation; Managing Director, Quantedge Capital</em>
 </p>
 <p></p>
@@ -169,6 +198,10 @@ and a doctorate from the University of Cambridge</p>
 <details class="isomer-details">
 <summary>Mr Lien Choong Luen</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Lien Choon Luen, man in a business suit with a buzzcut crop, smiling" src="/images/Council Members/Lien_Choong_Luen.jpg">
+</div>
 <p><em>President, Singapore Athletics; Singapore General Manager, Gojek</em>
 </p>
 <p></p>
@@ -184,6 +217,10 @@ K2. Lien also serves on several boards.</p>
 <details class="isomer-details">
 <summary>Professor Suriani Suratman</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Suriani Suratman, woman in a yellow shirt with greying shoulder length hair, smiling" src="/images/Council Members/Suriani_Suratman.jpg">
+</div>
 <p><em>Senior Lecturer, Department of Malay Studies, National University of Singapore</em>
 </p>
 <p></p>
@@ -202,6 +239,10 @@ on several boards and was appointed a Justice of the Peace in 2020.</p>
 <details class="isomer-details">
 <summary>Professor Veera Sekaran</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait photo of veera sekaran, man smiling with teeth" src="/images/Council Members/Veera_Sekaran.jpg">
+</div>
 <p><em>Founder and Managing Director, Greenology; Professor in Practice, Office of President, NUS/NUS Cities/Engineering Design and Innovation Centre; Advisor, NUS Enterprise and Department of Biological Sciences, National University of Singapore</em>
 </p>
 <p></p>
@@ -225,6 +266,10 @@ environmental and wildlife projects.</p>
 <details class="isomer-details">
 <summary>Mr Wang Chenwei</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Wang Chenwei, man in business suit and glasses smiling" src="/images/Council Members/Wang_Chenwei.jpg">
+</div>
 <p><em>Composer-in-Residence of Singapore Chinese Orchestra</em>
 </p>
 <p></p>
@@ -289,8 +334,7 @@ this role from 2007 to 2009 while on secondment from the police force.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Tan Li San" src="/images/Council Members/Tan_Li_San.jpg">
 </div>
-<p>
-<br><em>Chief Executive Officer, National Council of Social Service</em>
+<p><em>Chief Executive Officer, National Council of Social Service</em>
 <br>
 <br>Ms Tan Li San, the current CEO of NCSS (National Council of Social Service),
 brings a wealth of experience from her diverse career across multiple government
