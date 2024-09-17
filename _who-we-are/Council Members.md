@@ -5,54 +5,52 @@ variant: tiptap
 description: Council Members of President's Challenge
 ---
 <p>Write up of council members .</p>
-<p></p>
+<h3><strong>Co-Chairs</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Mr Aubeck Kam (Member)</summary>
+<summary>Mr Aubeck Kam</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Aubeck Kam" src="/images/Council Members/Aubeck_Kam.jpg">
 </div>
-<p><em>Permanent Secretary, MSF</em>
-<br>
-<br>
-<br>
+<p><em>Permanent Secretary, Ministry of Social and Family Development</em>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Aubeck Kam is currently serving as Permanent Secretary in the Ministry
 of Social and Family Development and for Home Affairs Development, as well
 as Chairman of HTX. With a career spanning over three decades, Kam has
 held leadership positions across various government agencies, including
 the Singapore Police Force, Ministry of Manpower, Media Development Authority,
 and Ministry of Communications and Information.</p>
-<p>&nbsp;</p>
 <p>His educational background includes a law degree from King's College London
 and a Master in Public Management from the Lee Kuan Yew School of Public
 Policy. Kam's diverse experience reflects his adaptability and expertise
 in managing multiple aspects of Singapore's public service.</p>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ms Teoh Zsin Woon (Member)</summary>
+<summary>Ms Teoh Zsin Woon</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Teoh Zsin Woon" src="/images/Council Members/Teoh_Zsin_Woon.jpg">
+</div>
+<p><em>Permanent Secretary, Ministry of Culture, Community and Youth</em>
+</p>
+<p>Ms Teoh Zsin Woon is the current Permanent Secretary in Singapore's Ministry
+of Culture, Community and Youth. She previously held similar roles in the
+Public Service Division and Ministry of National Development, where she
+focused on public sector transformation, workforce development, and housing
+issues.</p>
+<p>With a diverse career spanning multiple government ministries and agencies,
+Teoh has accumulated extensive experience in various aspects of Singapore's
+public service, contributing to policy development and implementation across
+different sectors.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Prof Lily Kong (Member)</summary>
+<summary>Prof Lily Kong</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
