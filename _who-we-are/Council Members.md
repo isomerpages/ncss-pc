@@ -320,6 +320,7 @@ of the Year at the Singapore Disability Sports Awards three times - in
 uplifting Singapore's Malay/Muslim community through education. She brings
 extensive experience from a 34-year career in the Singapore Police Force,
 where she held several senior positions including Senior Assistant Commissioner.
+<br>
 <br>This is her second term as MENDAKI's CEO, having previously served in
 this role from 2007 to 2009 while on secondment from the police force.</p>
 </div>
@@ -362,11 +363,14 @@ Tharman Shanmugaratnam. He is also a Singaporean police officer holding
 the rank of Senior Assistant Commissioner (“SAC”). Besides these appointments,
 he is the Vice-Chairman of the Board of the Singapore Police Cooperative
 Society Ltd. SAC Lim was awarded the Singapore Police Force Overseas Scholarship
-in 2004.</p>
+in 2004.
+<br>
+</p>
 <p>He graduated from the University of Cambridge in 2007 with first-class
 honours in Natural Sciences (Pathology). He also attained a master’s degree
-in Philosophy (Criminology) from the University of Cambridge in 2008. In
-2017, SAC Lim was awarded the Lee Kuan Yew Scholarship and the Singapore
+in Philosophy (Criminology) from the University of Cambridge in 2008.</p>
+<p></p>
+<p>In 2017, SAC Lim was awarded the Lee Kuan Yew Scholarship and the Singapore
 Police Force Post-Graduate Scholarship. He pursued a Master in Public Administration
 at the Harvard Kennedy School as an Edward S. Mason Fellow.</p>
 </div>
