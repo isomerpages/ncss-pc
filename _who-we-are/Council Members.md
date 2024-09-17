@@ -53,7 +53,7 @@ different sectors.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Prof Lily Kong</summary>
+<summary>Professor Lily Kong</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -78,115 +78,76 @@ field.</p>
 <h3><strong>Members</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Mdm Zuraidah Abdullah</summary>
+<summary>Mr Boo Junfeng</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mdm Zuraidah Abdullah" src="/images/Council Members/Zuraidah_Abdullah.jpg">
 </div>
-<p><em>CEO, Yayasan MENDAKI</em>
-<br>
-<br>Mdm Zuraidah Abdullah is the CEO of Yayasan MENDAKI, a non-profit organisation
-uplifting Singapore's Malay/Muslim community through education. She brings
-extensive experience from a 34-year career in the Singapore Police Force,
-where she held several senior positions including Senior Assistant Commissioner.</p>
-<p>This is her second term as MENDAKI's CEO, having previously served in
-this role from 2007 to 2009 while on secondment from the police force.</p>
+</details>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mr Danny Yong</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mr Dilhan Pillay Sandrasegara</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Ms Janet Ang</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Mr Lee Seng Meng</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Lee Seng Meng" src="/images/Council Members/Seng_Meng.jpg">
-</div>
-<p><em>Executive Director, SHINE Children and Youth Services</em>
-</p>
-<p>Mr Seng Meng, Executive Director of SHINE Children and Youth Services,
-is a registered social worker specialising in youth work. He has received
-numerous accolades, including the Outstanding Social Worker Award from
-the President of Singapore in 2019, and has been a Social Service Fellow
-since 2016.</p>
-<p>Lee holds degrees in Social Work and Business Administration from top
-Singaporean universities. He actively contributes to national committees
-advancing social work practices and serves as a grassroots leader.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mr Boo Junfeng</summary>
+<summary>Mr Leow Kah Shin</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Boo Junfeng" src="/images/Council Members/Boo_Junfeng.jpg">
-</div>
-<p><em>Filmmaker and Chairperson, Singapore International Film Festival</em>
-<br>
-<br>Mr Boo Junfeng is an acclaimed Singaporean filmmaker whose works have
-been showcased at the Cannes Film Festival. He has received national recognition
-through the Young Artist Award and Singapore Youth Award. Boo has served
-as Creative Director for Singapore's National Day Parade and currently
-chairs the Singapore International Film Festival board, while also contributing
-to national film and memorial committees.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Dr Suriani Suratman</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Suriani Suratman" src="/images/Council Members/Suriani_Suratman.jpg">
-</div>
-<p><em>Senior Lecturer, Department of Malay Studies, National University of Singapore<br></em>
-</p>
-<p>Dr Suriani Suratman is a respected ceramic artist, with works featured
-in numerous exhibitions and the National Gallery collection. Her multifaceted
-career spans academia, public service, and the arts, contributing significantly
-to Singapore's cultural landscape.</p>
-<p>Dr Suriani is also a Senior Lecturer in Malay Studies at the National
-University of Singapore, specialising in Malay culture, society, and family
-dynamics. Her recent research explores female experiences in the Malay
-world and urban histories of colonial Singapore. Beyond academia, she serves
-on several boards and was appointed a Justice of the Peace in 2020.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Wang Chenwei</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Wang Chenwei" src="/images/Council Members/Wang_Chenwei.jpg">
-</div>
-<p>
-<br><em>Composer-in-Residence of Singapore Chinese Orchestra<br></em>
-<br>Mr Wang Chenwei is a distinguished Singaporean composer and educator,
-serving as Composer-in-Residence for the Singapore Chinese Orchestra and
-teaching at prominent institutions. He graduated with honours from the
-University of Music and Performing Arts Vienna and has composed for orchestras
-across Asia. His works have been performed internationally and featured
-in Singapore's school textbooks.</p>
-<p>Wang's contributions to music have been recognised with several prestigious
-awards, including the national Young Artist Award. He is also known for
-his expertise in Chinese orchestral music, co-authoring The TENG Guide
-to the Chinese Orchestra.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Mr Lien Choong Luen</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Lien Choong Luen" src="/images/Council Members/Lien_Choong_Luen.jpg">
 </div>
-<p><em>President, Singapore Athletics; Singapore General Manager, Gojek<br></em>
-<br>Mr Lien Choong Luen is President of Singapore Athletics. He is also Singapore
-General Manager for Gojek and leads international partnerships. His diverse
-career spans roles at McKinsey, the Singapore Army Special Forces, and
-UN peacekeeping. An accomplished adventurer, he has summited Everest and
-K2. Lien also serves on several boards. He holds degrees from UC Berkeley,
-Cambridge, and London Business School.&nbsp;</p>
+</details>
+<details class="isomer-details">
+<summary>Professor Suriani Suratman</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Professor Veera Sekaran</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mr Wang Chenwei</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -194,15 +155,16 @@ Cambridge, and London Business School.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Yip Pin Xiu" src="/images/Council Members/Yip_Pin_Xiu.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Yip Pin Xiu, a woman in wheelchair, smiling" src="/images/Council Members/Yip_Pin_Xiu.jpg">
 </div>
 <p><em>Seven-time Paralympic Gold Medalist</em>
-<br>
-<br>Ms Yip Pin Xiu is one of Singapore’s most decorated Paralympians who blazed
+</p>
+<p>Ms Yip Pin Xiu is one of Singapore’s most decorated Paralympians who blazed
 a trail for Para sport in Singapore when she took home the country’s first
 Paralympic gold medal at the 2008 Beijing Paralympic Games. She is now
 a five-time Paralympic champion and holds the world records for the 50m
 Backstroke S2 and the 100m Backstroke S2 events.</p>
+<p></p>
 <p>In recognition of her achievements, Yip was conferred the Pingat Jasa
 Gemilang (Meritorious Service Medal) in 2016. She has been named Sportswoman
 of the Year at the Singapore Disability Sports Awards three times - in
@@ -210,106 +172,20 @@ of the Year at the Singapore Disability Sports Awards three times - in
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ms Janet Ang</summary>
+<summary>Mdm Zuraidah Abdullah</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Janet Ang" src="/images/Council Members/Janet_Ang.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Portrait of Zuraidah Abdullah, a woman in headscarf, smiling" src="/images/Council Members/Zuraidah_Abdullah.jpg">
 </div>
-<p>
-<br><em>Chairman, SBF Foundation</em>
-<br>
-</p>
-<p>Ms Janet Ang serves as the Chairman of Singapore Business Federation Foundation,
-the Public Transport Council, the National University of Singapore - Institute
-of Systems Science (NUS-ISS) and the Singapore Polytechnic Board of Governors.
-Ang is also Singapore’s Non-Resident Ambassador to the Holy See and a former
-Nominated Member of the Parliament of Singapore from Feb 2021 to Jul 2023.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Leow Kah Shin</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Leow Kah Shin" src="/images/Council Members/Leow_Lah_Shin.jpg">
-</div>
-<p><em>Adviser, Quantedge Foundation; Managing Director, Quantedge Capital</em>
-<br>
-<br>Mr Leow Kah Shin an adviser to Quantedge Foundation, a philanthropic organisation
-that seeks to understand the root causes and underlying issues behind social
-and environmental challenges, and partner like-minded organisations to
-pilot innovative and scalable solutions in Singapore and beyond. He is
-also a managing director at Quantedge Capital, an award-winning multi-billion-dollar
-quantitative hedge fund proudly headquartered in Singapore.</p>
-<p>Leow has a bachelor's degree from UC Berkeley, as well as a master's degree
-and a doctorate from the University of Cambridge.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Dilhan Pillay Sandrasegara</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Dilhan Pillay Sandrasegara" src="/images/Council Members/Dilhan_Pillay.jpg">
-</div>
-<p><em>Executive Director and Chief Executive Officer,</em>
-</p>
-<p><em>Temasek Holdings (Private) Limited &amp; Temasek International Pte Ltd</em>
-</p>
-<p></p>
-<p>Mr Dilhan Pillay is the CEO of both Temasek Holdings and Temasek International,
-having joined the organisation in 2010. He has held various leadership
-roles within Temasek and now serves on numerous high-profile advisory boards
-and councils. These include positions with FCLTGLOBAL, the Peterson Institute
-for International Economics, the Monetary Authority of Singapore, and the
-World Bank Group Private Sector Investment Lab.</p>
-<p></p>
-<p>Pillay holds law degrees from the National University of Singapore and
-the University of Cambridge.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Danny Yong</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Danny Yong" src="/images/Council Members/Danny_Yong.jpg">
-</div>
-<p><em>Founder and Chairman, The Majurity Trust; Co-Chief Executive Officer and Co-Chief Investment Officer, Dymon Asia Capital</em>
-</p>
-<p></p>
-<p>Mr Danny Yong is committed to philanthropy, having established The Majurity
-Trust, Ray of Hope charity, and the Yong Hon Kong Foundation to support
-various charitable causes.&nbsp;&nbsp;He is also the Co-CEO and Co-CIO
-of Dymon Asia Capital, which he founded in 2008. His extensive career in
-finance includes leadership roles at Abax Global Capital, Citadel Investment
-Asia, and Goldman Sachs, specialising in Asian markets and derivatives
-trading.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Prof Veera Sekaran</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Veera Sekaran" src="/images/Council Members/Veera_Sekaran.jpg">
-</div>
-<p><em>Founder and Managing Director, Greenology; Professor in Practice, Office of President, NUS/NUS Cities/Engineering Design and Innovation Centre; Advisor, NUS Enterprise and Department of Biological Sciences, National University of Singapore</em>
-</p>
-<p></p>
-<p>Professor Veera Sekaran is the Founder and Managing Director of Geenology,
-a nature-based solutions company that provide engineering and plant-based
-solutions for indoor and outdoor sustainable urban greening.</p>
-<p>Professor Veera also holds multiple roles at the National University of
-Singapore, focusing on Nature-Based Solutions for urban and natural ecologies.
-He specialises in Regenerative smart urban greening and Regenerative Agritech
-systems, lecturing on topics such as Adaptive Engineering Design, IoT,
-and Smart AI systems. He has published papers in these areas.&nbsp;</p>
-<p>His work in establishing businesses and contributing to social causes
-has earned him recognition, including a finalist for the Straits Times
-Singaporean of the year in 2019 and receiving the NUS Outstanding Science
-Alumni Award. He serves on various boards and advisory roles related to
-environmental and wildlife projects.</p>
+<p><em>CEO, Yayasan MENDAKI</em>
+<br>Mdm Zuraidah Abdullah is the CEO of Yayasan MENDAKI, a non-profit organisation
+uplifting Singapore's Malay/Muslim community through education. She brings
+extensive experience from a 34-year career in the Singapore Police Force,
+where she held several senior positions including Senior Assistant Commissioner.</p>
+<p>&nbsp;</p>
+<p>This is her second term as MENDAKI's CEO, having previously served in
+this role from 2007 to 2009 while on secondment from the police force.</p>
 </div>
 </details>
 </div>
