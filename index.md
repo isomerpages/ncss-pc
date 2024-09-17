@@ -28,7 +28,7 @@ sections:
         22 November 2024.
       image: /images/homepage/2024_PresidentsChallenge_Grant_Call2.jpg
       alt: PC Grant Call 2025
-      button: Apply for Grantn now!
+      button: Apply for Grant now!
       url: https://form.gov.sg/665ed8edce5e55a4fe266324
   - infopic:
       title: Empower Lives By Donating
