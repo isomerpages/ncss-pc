@@ -315,12 +315,12 @@ of the Year at the Singapore Disability Sports Awards three times - in
 <img style="width: 100%" height="auto" width="100%" alt="Portrait of Zuraidah Abdullah, a woman in headscarf, smiling" src="/images/Council Members/Zuraidah_Abdullah.jpg">
 </div>
 <p><em>CEO, Yayasan MENDAKI</em>
+<br>
 <br>Mdm Zuraidah Abdullah is the CEO of Yayasan MENDAKI, a non-profit organisation
 uplifting Singapore's Malay/Muslim community through education. She brings
 extensive experience from a 34-year career in the Singapore Police Force,
-where she held several senior positions including Senior Assistant Commissioner.</p>
-<p>&nbsp;</p>
-<p>This is her second term as MENDAKI's CEO, having previously served in
+where she held several senior positions including Senior Assistant Commissioner.
+<br>This is her second term as MENDAKI's CEO, having previously served in
 this role from 2007 to 2009 while on secondment from the police force.</p>
 </div>
 </details>
