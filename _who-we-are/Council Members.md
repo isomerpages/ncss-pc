@@ -283,7 +283,7 @@ trading.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Prof Veera Sekaran</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -305,6 +305,54 @@ has earned him recognition, including a finalist for the Straits Times
 Singaporean of the year in 2019 and receiving the NUS Outstanding Science
 Alumni Award. He serves on various boards and advisory roles related to
 environmental and wildlife projects.</p>
+</div>
+</details>
+</div>
+<h3><strong>Exco</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Tan Li San</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Tan Li San" src="/images/Council Members/Tan_Li_San.jpg">
+</div>
+<p>
+<br><em>Chief Executive Officer, National Council of Social Service</em>
+<br>
+<br>Ms Tan Li San, the current CEO of NCSS (National Council of Social Service),
+brings a wealth of experience from her diverse career across multiple government
+agencies in Singapore. Her commitment to social services is evident through
+her past and present board memberships in various charitable organisations.</p>
+<p>With a strong educational background in engineering and management from
+prestigious US universities, Tan's expertise and dedication were acknowledged
+with the Public Administration Medal (Silver) in 2020. Her leadership at
+NCSS combines her extensive public sector experience with a passion for
+social service.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mr Julius Lim</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Julius Lim" src="/images/Council Members/Julius_Lim.jpg">
+</div>
+<p><em>Principal Private Secretary to the President</em>
+<br>
+<br>Mr Julius Lim is the Principal Private Secretary to the President of the
+Republic of Singapore. He was previously Special Assistant to Senior Minister
+Tharman Shanmugaratnam. He is also a Singaporean police officer holding
+the rank of Senior Assistant Commissioner (“SAC”). Besides these appointments,
+he is the Vice-Chairman of the Board of the Singapore Police Cooperative
+Society Ltd. SAC Lim was awarded the Singapore Police Force Overseas Scholarship
+in 2004.</p>
+<p>He graduated from the University of Cambridge in 2007 with first-class
+honours in Natural Sciences (Pathology). He also attained a master’s degree
+in Philosophy (Criminology) from the University of Cambridge in 2008. In
+2017, SAC Lim was awarded the Lee Kuan Yew Scholarship and the Singapore
+Police Force Post-Graduate Scholarship. He pursued a Master in Public Administration
+at the Harvard Kennedy School as an Edward S. Mason Fellow.</p>
 </div>
 </details>
 </div>
