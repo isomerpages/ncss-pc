@@ -70,272 +70,42 @@ field.</p>
 </div>
 </details>
 </div>
+<h3><strong>Members</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Mr Aubeck Kam</summary>
+<summary>Mdm Zuraidah Abdullah</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mdm Zuraidah Abdullah" src="/images/Council Members/Zuraidah_Abdullah.jpg">
+</div>
+<p><em>CEO, Yayasan MENDAKI</em>
+<br>Mdm Zuraidah Abdullah is the CEO of Yayasan MENDAKI, a non-profit organisation
+uplifting Singapore's Malay/Muslim community through education. She brings
+extensive experience from a 34-year career in the Singapore Police Force,
+where she held several senior positions including Senior Assistant Commissioner.</p>
+<p>This is her second term as MENDAKI's CEO, having previously served in
+this role from 2007 to 2009 while on secondment from the police force.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mr Lee Seng Meng</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Aubeck Kam" src="/images/Council Members/Aubeck_Kam.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Lee Seng Meng" src="/images/Council Members/Seng_Meng.jpg">
 </div>
-<p><em>Permanent Secretary, Ministry of Social and Family Development</em>
+<p><em>Executive Director, SHINE Children and Youth Services</em>
 </p>
-<p></p>
-<p>Mr Aubeck Kam is currently serving as Permanent Secretary in the Ministry
-of Social and Family Development and for Home Affairs Development, as well
-as Chairman of HTX. With a career spanning over three decades, Kam has
-held leadership positions across various government agencies, including
-the Singapore Police Force, Ministry of Manpower, Media Development Authority,
-and Ministry of Communications and Information.</p>
-<p>His educational background includes a law degree from King's College London
-and a Master in Public Management from the Lee Kuan Yew School of Public
-Policy. Kam's diverse experience reflects his adaptability and expertise
-in managing multiple aspects of Singapore's public service.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Ms Teoh Zsin Woon</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Teoh Zsin Woon" src="/images/Council Members/Teoh_Zsin_Woon.jpg">
-</div>
-<p><em>Permanent Secretary, Ministry of Culture, Community and Youth</em>
-</p>
-<p>Ms Teoh Zsin Woon is the current Permanent Secretary in Singapore's Ministry
-of Culture, Community and Youth. She previously held similar roles in the
-Public Service Division and Ministry of National Development, where she
-focused on public sector transformation, workforce development, and housing
-issues.</p>
-<p>With a diverse career spanning multiple government ministries and agencies,
-Teoh has accumulated extensive experience in various aspects of Singapore's
-public service, contributing to policy development and implementation across
-different sectors.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Prof Lily Kong</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Ms Tan Li San (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Council Members/CEO_Tan_Li_San_new.jpg">
-</div>
-<p><em>Chief Executive Officer, NCSS</em>
-<br>Ms Tan Li San, the current CEO of NCSS (National Council of Social Service),
-brings a wealth of experience from her diverse career across multiple government
-agencies in Singapore. Her commitment to social services is evident through
-her past and present board memberships in various charitable organisations.
-With a strong educational background in engineering and management from
-prestigious US universities, Ms Tan's expertise and dedication were acknowledged
-with the Public Administration Medal (Silver) in 2020. Her leadership at
-NCSS combines her extensive public sector experience with a passion for
-social service.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Julius Lim (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mdm Zuraidah Abdullah (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Lee Seng Meng (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Boo Junfeng (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Boo Junfeng (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Wang Chenwei (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Lien Choong Luen (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Ms Yip Pin Xiu (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Ms Janet Ang (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Leow Kah Shin (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Dilhan Pillay Sandrasegara (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Danny Yong (Member</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-<hr>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Mr Aubeck Kam</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Ms Teoh Zsin Woon</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Prof Lily Kong</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Ms Tan Li San (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Council Members/CEO_Tan_Li_San_new.jpg">
-</div>
-<p><em>Chief Executive Officer, NCSS</em>
-<br>Ms Tan Li San, the current CEO of NCSS (National Council of Social Service),
-brings a wealth of experience from her diverse career across multiple government
-agencies in Singapore. Her commitment to social services is evident through
-her past and present board memberships in various charitable organisations.
-With a strong educational background in engineering and management from
-prestigious US universities, Ms Tan's expertise and dedication were acknowledged
-with the Public Administration Medal (Silver) in 2020. Her leadership at
-NCSS combines her extensive public sector experience with a passion for
-social service.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Julius Lim (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mdm Zuraidah Abdullah (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Lee Seng Meng (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Boo Junfeng (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Boo Junfeng (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Wang Chenwei (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Lien Choong Luen (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Ms Yip Pin Xiu (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Ms Janet Ang (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Leow Kah Shin (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Dilhan Pillay Sandrasegara (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Mr Danny Yong (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Prof Veera Sekaran (Member)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Mr Seng Meng, Executive Director of SHINE Children and Youth Services,
+is a registered social worker specialising in youth work. He has received
+numerous accolades, including the Outstanding Social Worker Award from
+the President of Singapore in 2019, and has been a Social Service Fellow
+since 2016.</p>
+<p>Lee holds degrees in Social Work and Business Administration from top
+Singaporean universities. He actively contributes to national committees
+advancing social work practices and serves as a grassroots leader.</p>
 </div>
 </details>
 </div>
