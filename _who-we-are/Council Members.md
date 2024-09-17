@@ -4,7 +4,12 @@ permalink: /council-members/
 variant: tiptap
 description: Council Members of President's Challenge
 ---
-<p>Write up of council members .</p>
+<p>The Council for the President’s Challenge is dedicated to driving inclusivity
+and creating meaningful impact across diverse communities, ensuring that
+the initiative supports individuals from all walks of life. Comprising
+esteemed leaders from the arts, sports, public service, and philanthropic
+sectors, the Council provides strategic direction and guidance to help
+the President’s Challenge expand and thrive.</p>
 <h3><strong>Co-Chairs</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
