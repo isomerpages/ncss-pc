@@ -108,5 +108,23 @@ Singaporean universities. He actively contributes to national committees
 advancing social work practices and serves as a grassroots leader.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Mr Boo Junfeng</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Boo Junfeng" src="/images/Council Members/Boo_Junfeng.jpg">
+</div>
+<p><em>Filmmaker and Chairperson, Singapore International Film Festival</em>
+<br>
+<br>Mr Boo Junfeng is an acclaimed Singaporean filmmaker whose works have
+been showcased at the Cannes Film Festival. He has received national recognition
+through the Young Artist Award and Singapore Youth Award. Boo has served
+as Creative Director for Singapore's National Day Parade and currently
+chairs the Singapore International Film Festival board, while also contributing
+to national film and memorial committees.</p>
+</div>
+</details>
 </div>
 <p></p>
