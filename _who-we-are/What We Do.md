@@ -16,20 +16,23 @@ Nathan. Since its inception, President’s Challenge has provided benefits
 to many organisations and individuals over the years. Over the last two
 decades, we have also witnessed the significant growth of government and
 philanthropic initiatives to support groups in need.</p>
-<p>To ensure that the benefits of President’s Challenge reach even more Singaporeans,
-President’s Challenge is being repositioned and repurposed. The refreshed
-President’s Challenge will reposition its role within the broader landscape
-of giving. It will aim to achieve sustained social impact, in particular
-in enabling people of all abilities and backgrounds to develop their potential.</p>
-<p>While supporting social impact initiatives will remain a key focus of
-President’s Challenge, from 2025 onwards, President’s Challenge will broaden
-its scope to nurture talent and aspirations in the arts and sports, including
-among disadvantaged groups, effectively supporting the aspirations of individuals
-from all walks of life.</p>
+<p>These positive developments have created a broader landscape of giving
+and volunteerism. It is timely for President’s Challenge to be refreshed
+and repositioned in its purpose, and in how it seeks to achieve its goals
+from 2025.</p>
+<p>The refreshed President’s Challenge aims to build a culture of unity and
+respect for all, by supporting aspirations and recognising contributions
+by all. It will aim to achieve sustained social impact,&nbsp;by uplifting
+the aspirations, abilities and potential of those who start with greater
+odds.</p>
+<p>The President’s Challenge will also extend its focus to include the Arts
+and Sports as fields for nurturing potential, including among disadvantaged
+groups, and to enable budding talents to sustain their development.</p>
 <p>It will also expand and deepen partnerships with public and philanthropic
 organisations that may lead initiatives consistent with the President’s
 Challenge’s goals and principles.</p>
 <p>The refresh will help ensure President’s Challenge remains purpose-driven
-and impact-oriented, complementing existing initiatives in the public and
-private sector to foster a culture of unity and respect for all.</p>
+and impact-oriented, while working in concert with other funding platforms,
+public and philanthropic, to seek to grow a broader environment of social
+initiative.</p>
 <p></p>
