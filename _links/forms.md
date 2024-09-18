@@ -9,8 +9,7 @@ variant: tiptap
 <br><em>For enquiries on the Fund Utilisation Report, please contact <a href="mailto:pc_enquiry@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pc_enquiry@ncss.gov.sg</a>.</em>
 <br>
 </p>
-<p><strong>President's Challenge 2025 Grant Call Form</strong>
-<br><em>Submission of the following forms is mandatory when applying for the President's Challenge Grant Call 2025:</em>
+<p><strong><u>President's Challenge 2025 Grant Call Form</u></strong><u><br></u><em>Submission of the following forms is mandatory when applying for the President's Challenge Grant Call 2025:</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -21,7 +20,7 @@ variant: tiptap
 </li>
 <li>
 <p>Acceptance of Terms and Conditions Form</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p></p>
