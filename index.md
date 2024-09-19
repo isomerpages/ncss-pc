@@ -27,7 +27,7 @@ sections:
       description: Apply for the President’s Challenge 2025 Grant from 19 September to
         22 November 2024.
       image: /images/homepage/2024_PresidentsChallenge_Grant_Call2.jpg
-      alt: PC Grant Call 2025
+      alt: Hands forming a heart shape
       button: Apply for Grant now!
       url: https://go.gov.sg/pc2025grant
   - infopic:
