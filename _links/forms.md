@@ -13,10 +13,20 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Budget Form</p>
+<p><a href="Budget Form" rel="noopener nofollow" target="_blank">https://go.gov.sg/budgetformpcgrantcall</a>
+</p>
 </li>
 <li>
-<p>Acceptance of Terms and Conditions Form</p>
+<p><a href="/files/grant call/Acceptance_of_Terms_and_Conditions_PC_Application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Acceptance of Terms and Conditions Form</a>
+</p>
+</li>
+<li>
+<p><a href="/files/grant call/Letter_of_endorsement_template.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Endorsement Template</a>
+</p>
+</li>
+<li>
+<p><a href="/files/grant call/PC2025_Application_Form_19Septo22Nov.pdf" rel="noopener noreferrer nofollow" target="_blank">President's Challenge 2025 Grant Application Form</a>
+</p>
 <p></p>
 </li>
 </ul>
