@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="Budget Form" rel="noopener nofollow" target="_blank">https://go.gov.sg/budgetformpcgrantcall</a>
+<p><a href="Budget Form" rel="noopener nofollow" target="_blank">Budget Form</a>
 </p>
 </li>
 <li>
