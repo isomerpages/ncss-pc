@@ -21,11 +21,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/grant call/Letter_of_endorsement_template.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Endorsement Template</a>
+<p><a href="/files/grant call/LetterofEndorsement_Template.pdf" rel="noopener nofollow" target="_blank">Letter of Endorsement Template</a>
 </p>
 </li>
 <li>
-<p><a href="/files/grant call/PC2025_Application_Form_19Septo22Nov.pdf" rel="noopener noreferrer nofollow" target="_blank">President's Challenge 2025 Grant Application Form</a>
+<p><a href="/files/grant call/PC2025_ApplicationForm.pdf" rel="noopener noreferrer nofollow" target="_blank">President's Challenge 2025 Grant Application Form</a>
 </p>
 <p></p>
 </li>
