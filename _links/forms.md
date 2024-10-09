@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/grant call/LetterofEndorsement_Template.pdf" rel="noopener nofollow" target="_blank">Letter of Endorsement Template</a>
+<p><a href="/files/grant call/Letter_of_endorsement_template.pdf" rel="noopener nofollow" target="_blank">Letter of Endorsement Template</a>
 </p>
 </li>
 <li>
