@@ -128,22 +128,34 @@ with disabilities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="President Tharman Shanmugaratnam" src="/images/PC_Launch.jpg">
 </div>
-<p>President Tharman Shanmugaratnam launched President’s Challenge 2024 during
+<p><em><sup>Photo Credits: MDDI</sup></em>
+<br>President Tharman Shanmugaratnam launched President’s Challenge 2024 during
 his visit to CampusImpact, a social service agency dedicated to supporting
 disadvantaged youths and their families. Aligned with the President’s Challenge
 mission to sustain purpose and impact, President’s Challenge 2024 aims
 to uplift families and individuals in need by forging partnerships across
 the community, public, and private sectors. President’s Challenge 2024
 seeks to catalyse meaningful transformations, promote volunteerism, and
-advocate for diversity.</p>
-<p>Under President Tharman’s leadership, the President’s Challenge will evolve
+advocate for diversity.
+<br>
+<br>Under President Tharman’s leadership, the President’s Challenge will evolve
 to refocus on achieving sustained social impact, particularly in enabling
 people of all abilities and backgrounds to realise their potential. The
 initiative plans to strengthen collaborations with public and philanthropic
 organisations and explore expanding its support to nurture talent and aspirations
-in the arts and sports, especially among communities in need.</p>
-<p></p>
-<p><em>Photo Credits: MCI</em>
+in the arts and sports, especially among communities in need.
+<br>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Group photo of President with service users from SSDC" src="/images/SDSC_Visit__1_.jpg">
+</div>
+<p><em><sup>Photo Credits: MDDI</sup></em>
+<br>On 4 September 2024, President Tharman Shanmugaratnam launched the refreshed
+President’s Challenge at a visit to Singapore Sports Disability Council
+(SDSC), a President’s Challenge 2024 benefitting organisation that represents
+and advocates sports for persons with disabilities.</p>
+<p></p>
 <p></p>
 <p></p>
