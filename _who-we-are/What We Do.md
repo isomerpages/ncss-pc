@@ -11,28 +11,17 @@ description: Initiated by former President S R Nathan in 2000, President’s
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="WhatWeDo Banner" alt="What We Do" src="/images/capita-land.jpg">
 </div>
-<p>President’s Challenge was introduced in 2000, by then-President Mr S R
-Nathan. Since its inception, President’s Challenge has provided benefits
-to many organisations and individuals over the years. Over the last two
-decades, we have also witnessed the significant growth of government and
-philanthropic initiatives to support groups in need.</p>
-<p>These positive developments have created a broader landscape of giving
-and volunteerism. It is timely for President’s Challenge to be refreshed
-and repositioned in its purpose, and in how it seeks to achieve its goals
-from 2025.</p>
-<p>The refreshed President’s Challenge aims to build a culture of unity and
-respect for all, by supporting aspirations and recognising contributions
-by all. It will aim to achieve sustained social impact,&nbsp;by uplifting
-the aspirations, abilities and potential of those who start with greater
-odds.</p>
-<p>The President’s Challenge will also extend its focus to include the Arts
-and Sports as fields for nurturing potential, including among disadvantaged
-groups, and to enable budding talents to sustain their development.</p>
-<p>It will also expand and deepen partnerships with public and philanthropic
-organisations that may lead initiatives consistent with the President’s
-Challenge’s goals and principles.</p>
-<p>The refresh will help ensure President’s Challenge remains purpose-driven
-and impact-oriented, while working in concert with other funding platforms,
-public and philanthropic, to seek to grow a broader environment of social
-initiative.</p>
-<p></p>
+<p>The President’s Challenge was launched in 2000 by then-President Mr S
+R Nathan, to rally Singaporeans to build a more caring and cohesive society,
+and to help the less fortunate.</p>
+<p>It has since supported many organisations, including those providing support
+for disadvantaged children and families, the elderly in need of care, persons
+with disabilities, and ex-offenders.</p>
+<p>In September 2024, the President’s Challenge was refreshed with the aim,
+of going beyond meeting immediate needs to achieve sustained social impact&nbsp;and
+uplift the aspirations, abilities and potential of those who face greater
+odds. It also extended its focus, to include the arts and sports as fields
+for nurturing budding talents and sustaining their development.</p>
+<p>By working in concert with other funding platforms, public and philanthropic,
+the President’s Challenge seeks to also grow a broader environment of social
+initiative in Singapore, for years to come.</p>
