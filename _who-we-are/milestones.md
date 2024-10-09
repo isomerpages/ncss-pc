@@ -128,7 +128,8 @@ with disabilities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="President Tharman Shanmugaratnam" src="/images/PC_Launch.jpg">
 </div>
-<p>President Tharman Shanmugaratnam launched President’s Challenge 2024 during
+<p><em><sup>Photo Credits: MDDI</sup></em>
+<br>President Tharman Shanmugaratnam launched President’s Challenge 2024 during
 his visit to CampusImpact, a social service agency dedicated to supporting
 disadvantaged youths and their families. Aligned with the President’s Challenge
 mission to sustain purpose and impact, President’s Challenge 2024 aims
@@ -145,18 +146,16 @@ organisations and explore expanding its support to nurture talent and aspiration
 in the arts and sports, especially among communities in need.
 <br>
 </p>
-<p><em><sup>Photo Credits: MDDI</sup></em>
-</p>
-<hr>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A group photo of President with service users" src="/images/SDSC_Visit__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Group photo of President with service users from SSDC" src="/images/SDSC_Visit__1_.jpg">
 </div>
-<p>On 4 September 2024, President Tharman Shanmugaratnam launched the refreshed
+<p><em><sup>Photo Credits: MDDI</sup></em>
+<br>On 4 September 2024, President Tharman Shanmugaratnam launched the refreshed
 President’s Challenge at a visit to Singapore Sports Disability Council
 (SDSC), a President’s Challenge 2024 benefitting organisation that represents
 and advocates sports for persons with disabilities.</p>
-<p><em><sup>Photo Credits: MDDI</sup></em>
-</p>
+<p></p>
 <p></p>
 <p></p>
