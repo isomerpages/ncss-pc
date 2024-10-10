@@ -104,7 +104,6 @@ that it funds will handhold the most disadvantaged people on their journeys
 to improve their circumstances. The aim is to help them bounce back quickly
 from setbacks and stay adaptable.</p>
 <hr>
-<p></p>
 <p><strong>Year 2020</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -122,31 +121,8 @@ persons with disabilities. Employers who sign the Pledge can look forward
 to greater support in their effort to train, hire and integrate employees
 with disabilities.</p>
 <hr>
-<p></p>
 <p><strong>Year 2024</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="President Tharman Shanmugaratnam" src="/images/PC_Launch.jpg">
-</div>
-<p><em><sup>Photo Credits: MDDI</sup></em>
-<br>President Tharman Shanmugaratnam launched President’s Challenge 2024 during
-his visit to CampusImpact, a social service agency dedicated to supporting
-disadvantaged youths and their families. Aligned with the President’s Challenge
-mission to sustain purpose and impact, President’s Challenge 2024 aims
-to uplift families and individuals in need by forging partnerships across
-the community, public, and private sectors. President’s Challenge 2024
-seeks to catalyse meaningful transformations, promote volunteerism, and
-advocate for diversity.
-<br>
-<br>Under President Tharman’s leadership, the President’s Challenge will evolve
-to refocus on achieving sustained social impact, particularly in enabling
-people of all abilities and backgrounds to realise their potential. The
-initiative plans to strengthen collaborations with public and philanthropic
-organisations and explore expanding its support to nurture talent and aspirations
-in the arts and sports, especially among communities in need.
-<br>
-</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Group photo of President with service users from SSDC" src="/images/SDSC_Visit__1_.jpg">
