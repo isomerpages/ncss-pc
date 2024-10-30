@@ -9,7 +9,7 @@ variant: tiptap
 <br><em>For enquiries on the Fund Utilisation Report, please contact <a href="mailto:pc_enquiry@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pc_enquiry@ncss.gov.sg</a>.</em>
 <br>
 </p>
-<p><strong><u>President's Challenge Grant 2025 </u></strong>
+<p><strong><u>President's Challenge Grant 2025</u></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
