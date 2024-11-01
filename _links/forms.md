@@ -24,7 +24,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://go.gov.sg/pc2025grant" rel="noopener nofollow" target="_blank">President's Challenge Grant 2025</a></strong>
 </p>
-<p>Briefing to Social Organisations</p>
+<p>Briefing to Social Service Agencies</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/grant call/Applicant_Briefing_Deck_.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on President’s Challenge Grant 2025</a>
