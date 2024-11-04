@@ -23,8 +23,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://go.gov.sg/pc2025grant" rel="noopener nofollow" target="_blank">President's Challenge Grant 2025</a></strong>
+<br><em>More information about President’s Challenge Grant 2025</em>
 </p>
-<p>Briefing to Social Service Agencies</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/grant call/Applicant_Briefing_Deck_.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on President’s Challenge Grant 2025</a>
@@ -34,9 +34,13 @@ variant: tiptap
 <p><a href="/files/grant call/FAQs_PC.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs on President’s Challenge Grant 2025</a>
 </p>
 </li>
+<li>
+<p><a href="https://cms.isomer.gov.sg/files/grant%20call/PC2025_ApplicationForm.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>President's Challenge 2025 Grant Application Form</u></a>
+</p>
+</li>
 </ul>
-<p>Submission of the following forms is mandatory when applying for the President's
-Challenge Grant Call:</p>
+<p>Submission of the following forms is <u>mandatory</u> when applying for
+the President's Challenge Grant Call:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/budgetformpcgrantcall" rel="noopener nofollow" target="_blank"><u>Budget Form</u></a>
@@ -49,10 +53,7 @@ Challenge Grant Call:</p>
 <li>
 <p><a href="https://cms.isomer.gov.sg/files/grant%20call/Letter_of_endorsement_template.pdf" rel="noopener nofollow" target="_blank"><u>Letter of Endorsement Template</u></a>
 </p>
-</li>
-<li>
-<p><a href="https://cms.isomer.gov.sg/files/grant%20call/PC2025_ApplicationForm.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>President's Challenge 2025 Grant Application Form</u></a>
-</p>
+<p></p>
 </li>
 </ul>
 </td>
