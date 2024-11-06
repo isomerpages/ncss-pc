@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/grant%20call/PC2025_ApplicationForm.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>President's Challenge 2025 Grant Application Form</u></a>
+<p><a href="/files/grant call/President_s_Challenge_2025_Application_Form.pdf" rel="noopener nofollow" target="_blank">President's Challenge 2025 Application Form</a>
 </p>
 </li>
 </ul>
