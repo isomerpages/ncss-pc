@@ -47,11 +47,11 @@ the President's Challenge Grant Call:</p>
 </p>
 </li>
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/grant%20call/Acceptance_of_Terms_and_Conditions_PC_Application_form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Acceptance of Terms and Conditions Form</u></a>
+<p><a href="/files/grant call/Acceptance_of_Terms_and_Conditions_PC_Application_form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Acceptance of Terms and Conditions Form</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/grant%20call/Letter_of_endorsement_template.pdf" rel="noopener nofollow" target="_blank"><u>Letter of Endorsement Template</u></a>
+<p><a href="/files/grant call/Letter_of_endorsement_template.pdf" rel="noopener nofollow" target="_blank"><u>Letter of Endorsement Template</u></a>
 </p>
 <p></p>
 </li>
