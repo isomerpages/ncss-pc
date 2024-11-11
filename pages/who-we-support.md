@@ -46,7 +46,7 @@ to other youths, guiding them towards positive change.</p>
 Despite the challenges, Aziz found strength in advocacy, promoting kidney
 health and organ donation within the Muslim community. The NKF dialysis
 patient is now a dedicated NKF volunteer and Patient Kaki, offering friendship
-and support to fellow patience.</p>
+and support to fellow patients.</p>
 </div>
 </details>
 <details class="isomer-details">
