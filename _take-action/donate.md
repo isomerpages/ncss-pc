@@ -12,10 +12,9 @@ our community.</p>
 </p>
 <p>As part of Singapore’s journey towards becoming a Smart Nation, President’s
 Challenge will move towards digital payments. We will no longer be accepting
-cheque and cash payments for donations with effect from <strong>1 January 2024</strong>.</p>
-<p>Your support and partnership in uplifting the Singapore communities in
-need remain important to us, and please make use of our online payment
-options, a seamless process for you to donate conveniently.</p>
+cheque and cash payments for donations with effect from <strong>1 January 2024</strong>.
+Your support and partnership in uplifting the Singapore communities in
+need remain important to us.</p>
 <p>100% of the donations raised through President's Challenge will be channelled
 to the benefitting organisations across various sectors including children
 with special needs, persons with disabilities, healthcare and families
