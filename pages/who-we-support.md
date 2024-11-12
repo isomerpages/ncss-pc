@@ -16,9 +16,9 @@ support covers various sectors from children &amp; family services, healthcare
 <p>Ganesh’s transformation from a troubled youth to a mentor began when he
 participated in REACH Community Services' Prison Youth Outreach Programme.
 With the support of his REACH Befriender, Ganesh learnt to rebuild relationships
-and make better decisions for his future. Today, he serves as a Befrienderto
-other youths, guiding them towards positive change. By donating to the
-President’s Challenge, you can empower vulnerable youths and other communities
+and make better decisions for his future. Today, he serves as a Befriender
+to other youths, guiding them towards positive change. By <a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">donating</a> to
+the President’s Challenge, you can empower youths-at-risk and other communities
 in need to rise to their full potential.</p>
 <hr>
 <h4><strong>Benefitting Organisations</strong></h4>
