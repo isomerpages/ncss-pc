@@ -16,12 +16,14 @@ support covers various sectors from children &amp; family services, healthcare
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Service Users Spotlights</strong>
+<summary><strong>Beneficiaries Spotlights</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of a young girl in a wheel chair" src="/images/Yan_Jia_yi.jpg">
 </div>
+<p><strong>Yan Jia Yi, Beneficiary of Singapore Disability Sports Council</strong>
+</p>
 <p>Born with cerebral palsy, Yan Jia Yi’s life changed when she discovered
 Boccia at 13. Through the Singapore Disability Sports Council (SDSC), Jia
 Yi received comprehensive coaching and transportation assistance, enabling
@@ -32,6 +34,8 @@ mobility, overall fitness, and confidence.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of a young man" src="/images/Ganesh.jpg">
 </div>
+<p><strong>Ganesh, Beneficiary of REACH Community Services Society</strong>
+</p>
 <p>Ganesh’s transformation from a troubled youth to a mentor began when he
 participated in REACH Community Services' Prison Youth Outreach Programme.
 With the support of his REACH Befriender, Ganesh learnt to rebuild relationships
@@ -41,6 +45,8 @@ to other youths, guiding them towards positive change.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of an older man" src="/images/Ab_Aziz.jpg">
 </div>
+<p><strong>Ab Aziz Jamin, Beneficiary of The National Kidney Foundation</strong>
+</p>
 <p>Kidney failure took Ab Aziz Jamin on a journey of resilience and hope.
 Despite the challenges, Aziz found strength in advocacy, promoting kidney
 health and organ donation within the Muslim community. The NKF dialysis
