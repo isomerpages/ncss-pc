@@ -14,7 +14,6 @@ so that they can focus on their mission and cause. President's Challenge's
 support covers various sectors from children &amp; family services, healthcare
 &amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
 <p></p>
-<hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Service Users Spotlights</strong>
