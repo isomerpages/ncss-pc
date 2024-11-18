@@ -20,7 +20,7 @@ sections:
           description: Pledge your inclusive support today.
           url: https://www.sgenable.sg/your-first-stop/hiring-employment/employers/pledge
       url: /take-action/donate/
-      background: /images/homepage/PC24.jpg
+      background: /images/homepage/PC_homepg_webbanner.jpg
   - infopic:
       title: President's Challenge Grant Call 2025
       id: infopic
