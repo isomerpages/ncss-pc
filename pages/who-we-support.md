@@ -4,16 +4,25 @@ permalink: /whowesupport/
 breadcrumb: Who We Support
 variant: tiptap
 ---
-<h3></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Beneficiary Banner" alt="Beneficiary Banner" src="/images/our-beneficiary.jpg">
-</div>
 <p>Every year, our community outreach and fundraising campaign selects a
 large number of benefitting organisations to support and raise funds for
 so that they can focus on their mission and cause. President's Challenge's
 support covers various sectors from children &amp; family services, healthcare
 &amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
-<h2>Benefitting Organisations</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ganesh" src="/images/NCSS_Web_Banners_Ganesh_1920x720.jpg">
+</div>
+<h4>Ganesh, Beneficiary of Reach Community Services Society</h4>
+<p>Ganesh’s transformation from a troubled youth to a mentor began when he
+participated in REACH Community Services' Prison Youth Outreach Programme.
+With the support of his REACH Befriender, Ganesh learnt to rebuild relationships
+and make better decisions for his future. Today, he serves as a Befriender
+and Mentor to other youths, guiding them towards positive change. By
+<a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">donating</a>to the President’s Challenge, you can empower resilient youths
+and other communities in need to rise to their full potential.</p>
+<hr>
+<h4><strong>Benefitting Organisations</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://allsaintshome.org.sg/" rel="noopener noreferrer nofollow" target="_blank">All Saints Home</a>
@@ -40,7 +49,7 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="http://cpas.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Cerebral Palsy Alliance Singapore (CPAS)</u></a>
+<p><a href="http://cpas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cerebral Palsy Alliance Singapore (CPAS)</a>
 </p>
 </li>
 <li>
@@ -48,11 +57,11 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="https:/coh.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Christian Outreach to the Handicapped</a>
+<p><a href="https://coh.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Christian Outreach to the Handicapped</a>
 </p>
 </li>
 <li>
-<p><a href="http://www.clubheal.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Club HEAL</u></a>
+<p><a href="http://www.clubheal.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Club HEAL</a>
 </p>
 </li>
 <li>
@@ -60,7 +69,7 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="https://www.das.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Dyslexia Association of Singapore</u></a>
+<p><a href="https://www.das.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dyslexia Association of Singapore</a>
 </p>
 </li>
 <li>
@@ -76,15 +85,15 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="https://www.hcsa.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>HCSA Community Services</u></a>
+<p><a href="https://www.hcsa.org.sg/" rel="noopener noreferrer nofollow" target="_blank">HCSA Community Services</a>
 </p>
 </li>
 <li>
-<p><a href="https://heb.org.sg/our-subsidiaries/heb-ashram/" rel="noopener noreferrer nofollow" target="_blank"><u>HEB-Ashram Halfway House</u></a>
+<p><a href="https://heb.org.sg/our-subsidiaries/heb-ashram/" rel="noopener noreferrer nofollow" target="_blank">HEB-Ashram Halfway House</a>
 </p>
 </li>
 <li>
-<p><a href="http://www.icarehub.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>iC@re Hub Ltd</u></a>
+<p><a href="http://www.icarehub.org.sg/" rel="noopener noreferrer nofollow" target="_blank">iC@re Hub Ltd</a>
 </p>
 </li>
 <li>
@@ -104,7 +113,7 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="https://www.limitless.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Limitless (Ltd.)</u></a>
+<p><a href="https://www.limitless.sg/" rel="noopener noreferrer nofollow" target="_blank">Limitless (Ltd.)</a>
 </p>
 </li>
 <li>
@@ -148,7 +157,7 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="https://www.rainbowcentre.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Rainbow Centre, Singapore</u></a>
+<p><a href="https://www.rainbowcentre.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Rainbow Centre, Singapore</a>
 </p>
 </li>
 <li>
@@ -176,7 +185,7 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="https://sdsc.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Disability Sports Council</u></a>
+<p><a href="https://sdsc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Disability Sports Council</a>
 </p>
 </li>
 <li>
@@ -220,7 +229,7 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="https://www.teenchallenge.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Teen Challenge Halfway House</u></a>
+<p><a href="https://www.teenchallenge.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Teen Challenge Halfway House</a>
 </p>
 </li>
 <li>
@@ -228,7 +237,7 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="http://thehelpinghand.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>The Helping Hand Halfway House</u></a>
+<p><a href="http://thehelpinghand.org.sg/" rel="noopener noreferrer nofollow" target="_blank">The Helping Hand Halfway House</a>
 </p>
 </li>
 <li>
@@ -256,7 +265,7 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 <li>
-<p><a href="https://www.touch.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>TOUCH Community Services</u></a>
+<p><a href="https://www.touch.org.sg/" rel="noopener noreferrer nofollow" target="_blank">TOUCH Community Services</a>
 </p>
 </li>
 <li>
@@ -276,5 +285,4 @@ support covers various sectors from children &amp; family services, healthcare
 </p>
 </li>
 </ol>
-<p></p>
 <p></p>
