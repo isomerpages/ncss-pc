@@ -9,17 +9,18 @@ large number of benefitting organisations to support and raise funds for
 so that they can focus on their mission and cause. President's Challenge's
 support covers various sectors from children &amp; family services, healthcare
 &amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of a young indian man" src="/images/Ganesh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ganesh" src="/images/NCSS_Web_Banners_Ganesh_1920x720.jpg">
 </div>
 <h4>Ganesh, Beneficiary of Reach Community Services Society</h4>
 <p>Ganesh’s transformation from a troubled youth to a mentor began when he
 participated in REACH Community Services' Prison Youth Outreach Programme.
 With the support of his REACH Befriender, Ganesh learnt to rebuild relationships
 and make better decisions for his future. Today, he serves as a Befriender
-to other youths, guiding them towards positive change. By <a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">donating</a> to
-the President’s Challenge, you can empower youths-at-risk and other communities
-in need to rise to their full potential.</p>
+and Mentor to other youths, guiding them towards positive change. By
+<a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">donating</a>to the President’s Challenge, you can empower resilient youths
+and other communities in need to rise to their full potential.</p>
 <hr>
 <h4><strong>Benefitting Organisations</strong></h4>
 <ol data-tight="true" class="tight">
