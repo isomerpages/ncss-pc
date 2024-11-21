@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/grant call/Applicant_Briefing_Deck_.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on President’s Challenge Grant 2025</a>
+<p><a href="/files/grant call/Applicant_Briefing_Deck_Nov2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on President’s Challenge Grant 2025</a>
 </p>
 </li>
 <li>
@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/grant call/President_s_Challenge_2025_Application_Form.pdf" rel="noopener nofollow" target="_blank">President's Challenge 2025 Application Form</a>
+<p><a href="/files/grant call/Presidents_Challenge_2025_Application_Form_Nov2024.pdf" rel="noopener nofollow" target="_blank">President's Challenge 2025 Application Form</a>
 </p>
 </li>
 </ul>
@@ -51,7 +51,7 @@ the President's Challenge Grant Call:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/grant call/Letter_of_endorsement_template.pdf" rel="noopener nofollow" target="_blank"><u>Letter of Endorsement Template</u></a>
+<p><a href="https://go.gov.sg/letterofendorsement" rel="noopener nofollow" target="_blank">Letter of Endorsement Template</a>
 </p>
 <p></p>
 </li>
