@@ -30,8 +30,8 @@ sections:
   - infopic:
       title: President's Challenge Grant Call 2025
       id: infopic
-      description: Apply for the President’s Challenge 2025 Grant from 19 September to
-        29 November 2024.
+      description: Apply for the President’s Challenge 2025 Grant. Closing date is
+        extended to 29 November 2024.
       image: /images/homepage/2024_PresidentsChallenge_Grant_Call2.jpg
       alt: Hands forming a heart shape
       button: Apply for Grant now!
