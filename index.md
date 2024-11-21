@@ -19,15 +19,6 @@ sections:
       url: /take-action/donate/
       background: /images/homepage/PC2024_Hero_Banner.jpg
   - infopic:
-      title: About President’s Challenge
-      id: infopic
-      description: President’s Challenge aims to build a culture of unity and respect
-        for all, by supporting aspirations and recognising contributions by all.
-      button: Learn More About Us
-      url: /who-we-are/what-we-do/
-      image: /images/pc_eep_website.png
-      alt: Image alt text
-  - infopic:
       title: President's Challenge Grant Call 2025
       id: infopic
       description: Apply for the President’s Challenge 2025 Grant from 19 September to
@@ -37,6 +28,15 @@ sections:
       button: Apply for Grant now!
       url: https://go.gov.sg/pc2025grant
   - infopic:
+      title: About President’s Challenge
+      id: infopic
+      description: President’s Challenge aims to build a culture of unity and respect
+        for all, by supporting aspirations and recognising contributions by all.
+      button: Learn More About Us
+      url: /who-we-are/what-we-do/
+      image: /images/pc_eep_website.png
+      alt: Image alt text
+  - infopic:
       title: Empower Lives By Donating
       description: Your support towards the President’s Challenge will enable
         benefitting organisations to sustain their operations and serve the
@@ -45,6 +45,15 @@ sections:
       image: /images/pc_donate_website.png
       alt: Empower Lives By Donating
       button: Donate To Make A Difference
+  - infopic:
+      title: Empower Lives By Volunteering
+      id: infopic
+      description: Your gift of time and support towards the President’s Challenge
+        will enable benefitting organisations to continue serving those in need.
+      button: Learn About Volunteer Drive
+      url: /take-action/volunteer/
+      image: /images/pc_volunteer_website.png
+      alt: Image alt text
   - resources:
       title: Be in the know
       subtitle: Media
