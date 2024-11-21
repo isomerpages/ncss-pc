@@ -16,19 +16,25 @@ sections:
         - title: FUNDRAISE
           description: Do you want to give back as an organisation? Partner with us.
           url: /take-action/partner-with-us/
-        - title: Enabling Employment Pledge
-          description: Pledge your inclusive support today.
-          url: https://www.sgenable.sg/your-first-stop/hiring-employment/employers/pledge
       url: /take-action/donate/
       background: /images/homepage/PC2024_Hero_Banner.jpg
   - infopic:
+      title: About President’s Challenge
+      id: infopic
+      description: President’s Challenge aims to build a culture of unity and respect
+        for all, by supporting aspirations and recognising contributions by all.
+      button: Learn More About Us
+      url: /who-we-are/what-we-do/
+      image: /images/pc_eep_website.png
+      alt: Image alt text
+  - infopic:
       title: President's Challenge Grant Call 2025
       id: infopic
-      description: Apply for the President’s Challenge 2025 Grant from 19 September to
-        22 November 2024.
+      description: Apply for the President’s Challenge 2025 Grant. Closing date is
+        extended to 29 November 2024.
       image: /images/homepage/2024_PresidentsChallenge_Grant_Call2.jpg
       alt: Hands forming a heart shape
-      button: Apply for Grant now!
+      button: Apply for Grant now
       url: https://go.gov.sg/pc2025grant
   - infopic:
       title: Empower Lives By Donating
@@ -38,25 +44,16 @@ sections:
       url: /take-action/donate/
       image: /images/pc_donate_website.png
       alt: Empower Lives By Donating
-      button: Donate Now To Make A Difference
+      button: Donate To Make A Difference
   - infopic:
       title: Empower Lives By Volunteering
+      id: infopic
       description: Your gift of time and support towards the President’s Challenge
-        will enable our benefitting organisations to sustain their operations
-        and service delivery in serving the vulnerable groups.
+        will enable benefitting organisations to continue serving those in need.
+      button: Learn About Volunteer Drive
       url: /take-action/volunteer/
       image: /images/pc_volunteer_website.png
-      alt: Empower Lives By Volunteering
-      button: Learn More On Volunteer Drive
-  - infopic:
-      title: Empower Lives Through Inclusive Employment
-      description: Your support for inclusive employment through the Enabling
-        Employment Pledge will empower persons with disabilities to develop
-        their potential and gain independence.
-      url: https://www.sgenable.sg/your-first-stop/hiring-employment/employers/pledge
-      image: /images/pc_eep_website.png
-      alt: Enabling Employment Pledge
-      button: Learn More On Enabling Employment Pledge
+      alt: Image alt text
   - resources:
       title: Be in the know
       subtitle: Media
