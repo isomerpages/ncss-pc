@@ -19,6 +19,15 @@ sections:
       url: /take-action/donate/
       background: /images/homepage/PC2024_Hero_Banner.jpg
   - infopic:
+      title: About President’s Challenge
+      id: infopic
+      description: President’s Challenge aims to build a culture of unity and respect
+        for all, by supporting aspirations and recognising contributions by all.
+      button: Learn More About Us
+      url: /who-we-are/what-we-do/
+      image: /images/pc_eep_website.png
+      alt: Image alt text
+  - infopic:
       title: President's Challenge Grant Call 2025
       id: infopic
       description: Apply for the President’s Challenge 2025 Grant from 19 September to
@@ -35,7 +44,7 @@ sections:
       url: /take-action/donate/
       image: /images/pc_donate_website.png
       alt: Empower Lives By Donating
-      button: Donate Now To Make A Difference
+      button: Donate To Make A Difference
   - resources:
       title: Be in the know
       subtitle: Media
