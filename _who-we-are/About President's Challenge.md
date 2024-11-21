@@ -22,6 +22,10 @@ of going beyond meeting immediate needs to achieve sustained social impact&nbsp;
 uplift the aspirations, abilities and potential of those who face greater
 odds. It also extended its focus, to include the arts and sports as fields
 for nurturing budding talents and sustaining their development.</p>
+<p>President’s Challenge will support projects at varying stages of development,
+ranging from pilot projects trying out innovative solutions, to established
+projects with strong outcomes that need additional support to scale for
+greater impact.</p>
 <p>By working in concert with other funding platforms, public and philanthropic,
 the President’s Challenge seeks to also grow a broader environment of social
 initiative in Singapore, for years to come.</p>
