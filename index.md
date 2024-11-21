@@ -34,7 +34,7 @@ sections:
         extended to 29 November 2024.
       image: /images/homepage/2024_PresidentsChallenge_Grant_Call2.jpg
       alt: Hands forming a heart shape
-      button: Apply for Grant now!
+      button: Apply for Grant now
       url: https://go.gov.sg/pc2025grant
   - infopic:
       title: Empower Lives By Donating
