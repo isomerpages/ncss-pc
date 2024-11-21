@@ -18,10 +18,11 @@ and to help the less fortunate.</p>
 for disadvantaged children and families, the elderly in need of care, persons
 with disabilities, and ex-offenders.</p>
 <p>In September 2024, the President’s Challenge was refreshed with the aim,
-of going beyond meeting immediate needs to achieve sustained social impact&nbsp;and
-uplift the aspirations, abilities and potential of those who face greater
-odds. It also extended its focus, to include the arts and sports as fields
-for nurturing budding talents and sustaining their development.</p>
+of going beyond meeting immediate needs to achieve sustained social impact
+and uplift the aspirations, abilities and potential of individuals and
+communities, particularly those who start with greater odds. It also aims
+to widen the chances and opportunities for arts and sports talents to be
+nurtured, and for their development to be sustained.</p>
 <p>President’s Challenge will support projects at varying stages of development,
 ranging from pilot projects trying out innovative solutions, to established
 projects with strong outcomes that need additional support to scale for
