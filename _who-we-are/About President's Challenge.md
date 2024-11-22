@@ -17,8 +17,8 @@ and to help the less fortunate.</p>
 <p>It has since supported many organisations, including those providing support
 for disadvantaged children and families, the elderly in need of care, persons
 with disabilities, and ex-offenders.</p>
-<p>In September 2024, the President’s Challenge was refreshed with the aim,
-of going beyond meeting immediate needs to achieve sustained social impact
+<p>In September 2024, the President’s Challenge was refreshed with the aim
+of going beyond meeting immediate needs, to achieve sustained social impact
 and uplift the aspirations, abilities and potential of individuals and
 communities, particularly those who start with greater odds. It also aims
 to widen the chances and opportunities for arts and sports talents to be
