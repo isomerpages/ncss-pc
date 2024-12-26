@@ -11,16 +11,17 @@ support covers various sectors from children &amp; family services, healthcare
 &amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ganesh" src="/images/NCSS_Web_Banners_Ganesh_1920x720.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Image of a senior malay man in a running pose" src="/images/NCSS_Web_Banners_Aziz_1920x720.jpg">
 </div>
-<h4>Ganesh, Beneficiary of Reach Community Services Society</h4>
-<p>Ganesh’s transformation from a troubled youth to a mentor began when he
-participated in REACH Community Services' Prison Youth Outreach Programme.
-With the support of his REACH Befriender, Ganesh learnt to rebuild relationships
-and make better decisions for his future. Today, he serves as a Befriender
-and Mentor to other youths, guiding them towards positive change. By
-<a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">donating</a>to the President’s Challenge, you can empower resilient youths
-and other communities in need to rise to their full potential.</p>
+<h4>Ab Aziz Jamin, Beneficiary of National Kidney Foundation </h4>
+<p>Kidney failure brought Aziz to the demanding reality of dialysis and a
+challenging road ahead. Despite these obstacles, Aziz found strength in
+advocacy, promoting kidney health and organ donation within the Malay-Muslim
+community. The NKF dialysis patient is now a dedicated NKF volunteer and
+Patient Kaki, offering friendship and support to fellow patients. By
+<a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">donating</a>to the President’s Challenge, you can be part of this journey
+of hope and empower kidney disease survivors and other communities in need
+to rise to their full potential.</p>
 <hr>
 <h4><strong>Benefitting Organisations</strong></h4>
 <ol data-tight="true" class="tight">
