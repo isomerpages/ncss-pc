@@ -26,7 +26,7 @@ sections:
       button: Learn More About Us
       url: /who-we-are/what-we-do/
       image: /images/pc_eep_website.png
-      alt: Image alt text
+      alt: About President’s Challenge
   - infopic:
       title: Empower Lives By Donating
       description: Your support towards the President’s Challenge will enable
