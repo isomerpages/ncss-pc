@@ -10,7 +10,7 @@ description: Be Vigilant Against Scams
 <p>Visit <a href="https://www.sms.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sms.gov.sg</a> for
 more information.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="From 1 July 2024, gov.sg is the Sender ID government uses to send SMSes." src="/images/Infographic_Flyer_English.png">
+<img style="width: 60%;" height="auto" width="100%" alt="From 1 July 2024, gov.sg is the Sender ID government uses to send SMSes." src="/images/Infographic_Flyer_English.png">
 </div>
 <p></p>
 <hr>
@@ -42,5 +42,4 @@ call our hotline at 6210 2500</p>
 <p>Call the 24/7 Anti-Scam Helpline at 1799</p>
 </li>
 </ul>
-<p></p>
 <p></p>
