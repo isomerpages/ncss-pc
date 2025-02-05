@@ -13,7 +13,7 @@ support covers various sectors from children &amp; family services, healthcare
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of a girl in wheelchair with cerebral palsy" src="/images/NCSS_Web_Banners_JiaYi_1920x720.jpg">
 </div>
-<h4>Ab Aziz Jamin, Beneficiary of National Kidney Foundation</h4>
+<h4>Yan Jia Yi, Beneficiary of Singapore Disability Sports Council</h4>
 <p>Born with cerebral palsy, Yan Jia Yi’s life changed when she discovered
 Boccia at 13. Through the Singapore Disability Sports Council (SDSC), Jia
 Yi received comprehensive coaching and transportation assistance, enabling
