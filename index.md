@@ -49,7 +49,8 @@ sections:
       title: Be in the know
       subtitle: Media
       button: More Media
-notification: ""
+notification: Be Vigilant Against Scams. Please refer to the <a
+  href="/scam-advisory/">Scam Advisory Notice</a> for more details.
 description: President's Challenge. Empowering Lives, Uplifting Communities.
 image: /images/isomer-logo.svg
 ---
