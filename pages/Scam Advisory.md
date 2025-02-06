@@ -17,7 +17,7 @@ more information.</p>
 <p>Beware of scams. The President’s Challenge team will not ask you to send
 money, give us your credit card information, banking login details or One-Time
 Passwords (OTP) via SMS or messaging apps.</p>
-<p>You shall make donations via the President’s Challenge website at XX.</p>
+<p>Donations for President’s Challenge will only be made via our <a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">donation page</a>.</p>
 <hr>
 <p>Be alert to suspicious messages or requests. Scammers may pretend to be
 real organisations and contact people through text messages, messaging
