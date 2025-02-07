@@ -1,0 +1,28 @@
+logo: /images/pc_2020_may_11_v1.png
+links:
+  - title: Who We Are
+    url: /who-we-are/what-we-do
+    sublinks:
+      - title: About President's Challenge
+        url: /who-we-are/what-we-do
+      - title: Milestones
+        url: /who-we-are/milestones
+      - title: Events
+        url: /who-we-are/events
+      - title: Contact Us
+        url: /contact-us
+  - title: Who We Support
+    url: /whowesupport
+  - title: Take Action
+    collection: take-action
+  - title: Links
+    sublinks:
+      - title: Useful Links
+        url: /quick-links/useful-links/
+      - title: Forms
+        url: /quick-links/forms/
+      - title: Governance
+        url: /quick-links/governance/
+      - title: Media
+        url: /resource-room/
+    url: /quick-links/useful-links/
