@@ -15,10 +15,9 @@ locations:
               time: '8.30am - 6.00pm'
             - days: Fri
               time: '8.30am - 5.30pm'
-              description: 'Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays'
-image-url: null
+              description: 'Closed during lunch: 12.30pm - 1.30pm. Closed on Weekends and Public Holidays'
 contacts:
-    - title: 'If you are interested in organising a fundraising event in support of President’s Challenge or just want to know more about us, drop us an email at'
+    - title: 'Email'
       content:
             - email: pc_enquiry@ncss.gov.sg
 
