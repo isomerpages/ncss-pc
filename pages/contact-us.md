@@ -1,25 +1,28 @@
 ---
 layout: contact_us
 permalink: /contact-us/
-title: 'Contact Us'
+title: Contact Us
 locations:
-    - title: 'President''s Challenge Secretariat'
-      address:
-          - '170 Ghim Moh Road'
-          - '#01-02'
-          - 'c/o National Council of Social Service'
-          - 'Singapore 279621'
-      find-directions: 'https://www.google.com/maps/place/National+Council+of+Social+Service/@1.3110517,103.7867444,17z/data=!4m5!3m4!1s0x31da1465952cddbd:0x896b5ee2ccfeb12b!8m2!3d1.3120117!4d103.7891548'
-      operating_hours:
-            - days: 'Mon - Thu'
-              time: '8.30am - 6.00pm'
-            - days: Fri
-              time: '8.30am - 5.30pm'
-              description: 'Closed during lunch: 12.30pm - 1.30pm. Closed on Weekends and Public Holidays'
+  - address:
+      - 170 Ghim Moh Road
+      - "#01-02"
+      - c/o National Council of Social Service
+    operating_hours:
+      - days: Mon - Thu
+        time: 8.30am - 6.00pm
+        description: ""
+      - days: Fri
+        time: 8.30am - 5.30pm
+        description: "Closed during lunch: 12.30pm - 1.30pm. Closed on Weekends and
+          Public Holidays"
+    maps_link: ""
+    title: President's Challenge Secretariat
 contacts:
-    - title: 'Email'
-      content:
-            - email: pc_enquiry@ncss.gov.sg
-
+  - content:
+      - phone: ""
+      - email: pc_enquiry@ncss.gov.sg
+      - other: ""
+    title: Email
+feedback: https://form.gov.sg/#!/5e7c0d4734d8b200113b99be
+agency_name: President's Challenge
 ---
-
