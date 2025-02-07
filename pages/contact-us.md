@@ -21,7 +21,11 @@ contacts:
   - content:
       - phone: ""
       - email: pc_enquiry@ncss.gov.sg
-      - other: ""
+      - other: <small>If you are interested in organising a fundraising event in support
+          of President’s Challenge or just want to know more about us, drop us
+          an email aIf you are interested in organising a fundraising event in
+          support of President’s Challenge or just want to know more about us,
+          drop us an email.</small>
     title: Email
   - content:
       - phone: ""
