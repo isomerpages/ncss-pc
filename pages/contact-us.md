@@ -15,7 +15,7 @@ locations:
         time: 8.30am - 5.30pm
         description: "Closed during lunch: 12.30pm - 1.30pm. Closed on Weekends and
           Public Holidays"
-    maps_link: ""
+    maps_link: https://www.onemap.gov.sg/?lat=1.3122144&lng=103.7897232
     title: President's Challenge Secretariat
 contacts:
   - content:
