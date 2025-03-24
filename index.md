@@ -21,7 +21,9 @@ sections:
       title: Rising to all that we can be
       subtitle: Enabling everyone to lead a fulfilling life. Contribute to
         the           President's Challenge today.
-      variant: center
+      variant: side
+      alignment: right
+      backgroundColor: gray
   - infopic:
       title: About President’s Challenge
       id: infopic
