@@ -19,8 +19,8 @@ sections:
       url: /take-action/donate/
       background: /images/homepage/PC2024_Hero_Banner.jpg
       title: Rising to all that we can be
-      subtitle: Enabling everyone to lead a fulfilling life. Contribute to
-        the           President's Challenge today.
+      subtitle: Enabling everyone to lead a fulfilling life. Contribute to President's
+        Challenge today.
       variant: center
       alignment: right
       backgroundColor: gray
