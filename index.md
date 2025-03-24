@@ -18,6 +18,9 @@ sections:
           url: /take-action/partner-with-us/
       url: /take-action/donate/
       background: /images/homepage/PC2024_Hero_Banner.jpg
+      title: Rising to all that we can be
+      subtitle: Enabling everyone to lead a fulfilling life. Contribute to the
+        President's Challenge today.
   - infopic:
       title: About President’s Challenge
       id: infopic
