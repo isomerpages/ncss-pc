@@ -17,7 +17,7 @@ sections:
           description: Do you want to give back as an organisation? Partner with us.
           url: /take-action/partner-with-us/
       url: /take-action/donate/
-      background: /images/PC_Web_Banner.jpg
+      background: /images/homepage/PC_Web_Banner_Overlay.jpg
       title: Rising to all that we can be
       subtitle: Enabling everyone to lead a fulfilling life. Contribute to the
         President’s Challenge today.
