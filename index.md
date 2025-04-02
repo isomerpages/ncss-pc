@@ -17,7 +17,13 @@ sections:
           description: Do you want to give back as an organisation? Partner with us.
           url: /take-action/partner-with-us/
       url: /take-action/donate/
-      background: /images/homepage/PC2024_Hero_Banner.jpg
+      background: /images/homepage/PC_web_banner_Final.jpg
+      title: Rising to all that we can be
+      subtitle: Enabling everyone to lead a fulfilling life. Contribute to the
+        President’s Challenge today.
+      variant: center
+      alignment: right
+      backgroundColor: gray
   - infopic:
       title: About President’s Challenge
       id: infopic
