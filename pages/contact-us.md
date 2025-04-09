@@ -33,7 +33,7 @@ contacts:
       - other: Be alert to suspicious messages or requests. Scammers may pretend to be
           real organisations and contact people through text messages, messaging
           apps, email, or phone calls. For more details, please refer to the <a
-          href="https://www.ncss.gov.sg/about-us/our-media-centre/announcements-and-advisories/scam-advisory">Scam
+          href="https://www.presidentschallenge.gov.sg/scam-advisory/">Scam
           Advisory Notice</a>.
     title: Be Vigilant Against Scams
 feedback: https://form.gov.sg/#!/5e7c0d4734d8b200113b99be
