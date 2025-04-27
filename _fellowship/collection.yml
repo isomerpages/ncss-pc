@@ -1,4 +1,5 @@
 collections:
   fellowship:
     output: true
-    order: []
+    order:
+      - Join Our Fellowship Programme.md
