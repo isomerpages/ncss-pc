@@ -2,4 +2,5 @@ collections:
   fellowship:
     output: true
     order:
+      - Civic Action.md
       - Join Our Fellowship Programme.md
