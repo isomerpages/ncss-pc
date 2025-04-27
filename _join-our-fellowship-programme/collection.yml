@@ -1,5 +1,5 @@
 collections:
-  fellowship:
+  join-our-fellowship-programme:
     output: true
     order:
       - Civic Action.md
