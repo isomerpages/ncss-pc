@@ -1,0 +1,4 @@
+collections:
+  fellowship:
+    output: true
+    order: []
