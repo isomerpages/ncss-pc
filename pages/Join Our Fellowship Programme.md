@@ -27,7 +27,3 @@ cupidatat non
 <br>
 <br><a rel="noopener noreferrer nofollow" target="_blank"><u>CTA to Fellowships application form </u></a>
 <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[NL1]</a>&nbsp;</p>
-<hr>
-<p><u>Civic Action</u>
-</p>
-<p></p>
