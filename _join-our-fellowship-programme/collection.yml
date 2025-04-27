@@ -2,5 +2,5 @@ collections:
   join-our-fellowship-programme:
     output: true
     order:
-      - Civic Action.md
       - Join Our Fellowship Programme.md
+      - Civic Action.md
