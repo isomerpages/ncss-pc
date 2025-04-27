@@ -7,17 +7,20 @@ description: ""
 <h2><strong>Overview &nbsp;</strong></h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
-<h3>Eligibility Criteria for Civic Action Track</h3>
+<h3><strong>Civic Action Track</strong></h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
+<h4><strong>Eligibility Criteria</strong></h4>
 <p>commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
 velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
 cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
 id est laborum</p>
-<h3>How to Apply</h3>
+<h4><strong>How to Apply</strong></h4>
 <p>commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
 velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
 cupidatat non</p>
 <p></p>
-<h3>FAQs</h3>
+<h4><strong>FAQs</strong></h4>
 <p>commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
 velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
 cupidatat non
