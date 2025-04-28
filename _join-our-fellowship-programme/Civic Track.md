@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Overview &nbsp;</strong></h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
+<p>Fellowship Programme - Lorem ipsum dolor sit amet, consectetur adipiscing
+elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -43,6 +44,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
 </div>
 </div>
 </div>
+<hr>
 <h3><strong>Civic Action Track</strong></h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
