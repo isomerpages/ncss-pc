@@ -22,6 +22,6 @@ cupidatat non</p>
 velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
 cupidatat non
 <br>
-<br><a rel="noopener noreferrer nofollow" target="_blank"><u>CTA to Fellowships application form </u></a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[NL1]</a>&nbsp;</p>
+<br><a rel="noopener noreferrer nofollow" target="_blank"><u>CTA to Fellowships application form</u></a>
+</p>
 <p></p>
