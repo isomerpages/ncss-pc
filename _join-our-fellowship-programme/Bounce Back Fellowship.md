@@ -5,23 +5,23 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Overview &nbsp;</strong></h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
+<p>This track supports individuals who have faced challenges or setbacks
+in life but are motivated to bounce back and embark on new paths. Students
+from disadvantaged backgrounds, ex-offenders, persons undergoing rehabilitation
+and women from vulnerable backgrounds are just some of the eligible candidates
+for the Bounce Back Fellowship, which is a one-year programme that focuses
+on developing capabilities, pursuing long-term employability and entrepreneurship.</p>
 <h3>Eligibility Criteria</h3>
-<p>commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-id est laborum</p>
-<h3>How to Apply</h3>
-<p>commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non</p>
-<p></p>
-<h3>FAQs</h3>
-<p>commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non
-<br>
-<br><a rel="noopener noreferrer nofollow" target="_blank"><u>CTA to Fellowships application form</u></a>
-</p>
+<ul>
+<li>
+<p>Candidates must be a Singaporean citizen</p>
+</li>
+<li>
+<p>Candidates will be assessed based on their background, as well as their
+potential</p>
+</li>
+<li>
+<p>Able to commit full-time to a one-year programme</p>
+</li>
+</ul>
 <p></p>
