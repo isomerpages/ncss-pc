@@ -19,7 +19,7 @@ defaults:
       layout: page
 colors:
   primary-color: "#e32b26"
-  secondary-color: "#6031b6"
+  secondary-color: "#153f63"
   media-colors:
     - title: media-color-one
       color: "#153f63"
