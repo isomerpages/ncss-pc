@@ -19,16 +19,16 @@ defaults:
       layout: page
 colors:
   primary-color: "#6031b6"
-  secondary-color: "#2650AB"
+  secondary-color: "#e32b26"
   media-colors:
     - title: media-color-one
-      color: "#33566C"
+      color: "#153f63"
     - title: media-color-two
-      color: "#6C4794"
+      color: "#58595b"
     - title: media-color-three
-      color: "#00626B"
+      color: "#58595b"
     - title: media-color-four
-      color: "#00626B"
+      color: "#58595b"
     - title: media-color-five
       color: "#00626B"
 staging: https://staging.d2fhngqhdruzsz.amplifyapp.com/
