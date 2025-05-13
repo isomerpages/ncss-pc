@@ -2,5 +2,7 @@ collections:
   join-our-fellowship-programme:
     output: true
     order:
+      - Institute of Technical Education (ITE) x President’s Challenge
+        Fellowship.md
       - Civic Action Fellowship.md
       - Bounce Back Fellowship.md
