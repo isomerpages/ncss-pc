@@ -49,7 +49,7 @@ services sector.&nbsp;</p>
 </div>
 </div>
 <hr>
-<h3><strong>Civic Action Track</strong></h3>
+<h3><strong>Civic Action Fellowship</strong></h3>
 <p>The Civic Action track of the President’s Fellowship is open to social
 service professionals who aspire to innovate or spearhead new programmes,
 solutions or initiatives in the social services sector. If you have at
