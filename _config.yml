@@ -22,9 +22,9 @@ colors:
   secondary-color: "#153f63"
   media-colors:
     - title: media-color-one
-      color: "#153f63"
-    - title: media-color-two
       color: "#58595b"
+    - title: media-color-two
+      color: "#153f63"
     - title: media-color-three
       color: "#58595b"
     - title: media-color-four
