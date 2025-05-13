@@ -2,5 +2,5 @@ collections:
   join-our-fellowship-programme:
     output: true
     order:
-      - Civic Track.md
+      - Civic Action Fellowship.md
       - Bounce Back Fellowship.md
