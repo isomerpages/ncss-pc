@@ -22,39 +22,21 @@ Beyond the accolades, Boccia has significantly improved Jia Yi’s muscle
 mobility, overall fitness, and confidence. By <a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">donating</a> to the
 President’s Challenge, you can empower persons with disabilities and other
 communities in need to rise to their full potential.</p>
-<p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage/20170918_APG_Para_Archery_Flona_Hakim_01472.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Nur Syahidah Alim was born with diplegia, a form of cerebral palsy marked by stiff lower limbs that results in difficulty walking or standing for extended periods of time. But the physical challenges were just the tip of the iceberg. She was constantly bullied and ostracised In school due to her condition, which prevented her from taking part in sports activities with her peers.</strong>
-</p>
-<p><strong>However, it was Syahidah who demonstrated the grit and determination of a true athlete. With support from organisations like the Singapore Disability Sports Council (SDSC), she has become a world champion para archer and multiple gold medallist who has represented Singapore at the ASEAN PARA GAMES, Paralympic Games and the World Archery Para Championships.</strong>
-</p>
-<p><strong>There are many more talented individuals like Syahidah just waiting to achieve their potential. Join us in supporting their growth by donating to the President’s Challenge today.</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,17 +45,6 @@ communities in need to rise to their full potential.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage/Nur_Syahidah_Alim.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage/20170918_APG_Para_Archery_Flona_Hakim_01472.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage/PG2024_0830_Archery_Nur_Syahidah_Alim_1_Credit_SDSC.jpg">
-</div>
 <h4>Nur Syahidah Alim, Para archer</h4>
 <p>Nur Syahidah Alim was born with diplegia, a form of cerebral palsy marked
 by stiff lower limbs that results in difficulty walking or standing for
