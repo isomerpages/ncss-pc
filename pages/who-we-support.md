@@ -37,7 +37,6 @@ communities in need to rise to their full potential.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage/20170918_APG_Para_Archery_Flona_Hakim_01472.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
