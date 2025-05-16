@@ -20,13 +20,34 @@ with disabilities, and ex-offenders.</p>
 <p>In September 2024, the President’s Challenge was refreshed with the aim
 of going beyond meeting immediate needs, to achieve sustained social impact
 and uplift the aspirations, abilities and potential of individuals and
-communities, particularly those who start with greater odds. It also aims
-to widen the chances and opportunities for arts and sports talents to be
-nurtured, and for their development to be sustained.</p>
-<p>President’s Challenge will support projects at varying stages of development,
-ranging from pilot projects trying out innovative solutions, to established
-projects with strong outcomes that need additional support to scale for
-greater impact.</p>
-<p>By working in concert with other funding platforms, public and philanthropic,
-the President’s Challenge seeks to also grow a broader environment of social
-initiative in Singapore, for years to come.</p>
+communities, particularly those who start with greater odds. It aims to
+widen the chances and opportunities for arts and sports talents to be nurtured,
+and for their development to be sustained, while also providing fellowship
+programmes aimed at developing civic leaders and recognising individuals
+pursuing second chances in life.</p>
+<p><strong>President’s Challenge Refreshed Logo&nbsp;</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage/PC_new_2025.png">
+</div>
+<p>This refreshed President’s Challenge unveiled a new logo to reflect this
+repositioning of its role within the broader landscape of giving. The new
+logo – designed by Xandrea Alfie Isa from Temasek Polytechnic – was the
+winning submission in the President’s Challenge Logo Design Competition
+2025, which saw over a hundred logo design entries from IHL students across
+Singapore.&nbsp;</p>
+<p>Titled “Guided by the Heart”, Xandrea’s thoughtful creation visually embodies
+the organisation’s&nbsp;</p>
+<p>purpose of building a culture of unity, empowerment and uplift. The letters
+“P” and “C” form a continuous loop, representing the unbreakable cycle
+of unity and inclusivity.&nbsp;</p>
+<p>This loop extends gracefully into an upward arrow signifying growth, progress
+and the uplifting impact that the President’s Challenge strives to achieve
+in communities. The arrowhead is heart-shaped, symbolising the compassion,
+kindness and deep sense of purpose that guides the organisation.&nbsp;&nbsp;&nbsp;</p>
+<p>Together, the elements create a powerful and meaningful emblem that reflects
+a community rising together, driven by heart and purpose.
+<br>
+<br>
+</p>
