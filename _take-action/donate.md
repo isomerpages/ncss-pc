@@ -20,7 +20,7 @@ to $250 million under the General and Enhancing Matching tiers from 1 January
 2025 onwards.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGSHARE_MatchingGrant_Infographics_Web_1230X320__1____Copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SG Gives matching grant" src="/images/SGSHARE_MatchingGrant_Infographics_Web_1230X320__1____Copy.jpg">
 </div>
 <p></p>
 <p>100% of the donations raised through the President's Challenge will be
