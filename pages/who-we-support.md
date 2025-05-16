@@ -18,7 +18,7 @@ support covers various sectors from children &amp; family services, healthcare
 <p>Nur Syahidah Alim was born with diplegia, a form of cerebral palsy marked
 by stiff lower limbs that results in difficulty walking or standing for
 extended periods of time. But the physical challenges were just the tip
-of the iceberg. She was constantly bullied and ostracised In school due
+of the iceberg. She was constantly bullied and ostracised in school due
 to her condition, which prevented her from taking part in sports activities
 with her peers.</p>
 <p>However, it was Syahidah who demonstrated the grit and determination of
