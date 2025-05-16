@@ -4,29 +4,35 @@ permalink: /join-our-fellowship-programmes/
 variant: tiptap
 description: ""
 ---
-<p>The refreshed President’s Challenge seeks to build a culture of unity
-and respect for all, by uplifting the aspirations, abilities and potential
-of all, especially those who start with greater odds.</p>
-<p>As part of this effort, the President’s Challenge will introduce Fellowships
-to develop civic leaders, recognise individuals pursuing second chances
-in life, as well as encourage new innovations and initiatives in the social
-services sector.</p>
+<p>The refreshed President’s Challenge aims to foster a culture of unity
+and respect by empowering individuals, especially those facing greater
+challenges to realise their full potential.</p>
+<p>As part of this mission, we are launching three President’s Challenge
+Fellowship programmes to nurture civic leadership, support individuals
+embracing second chances, and bring sustainable impact to the community.
+Through these tracks, individuals from diverse backgrounds will have opportunities
+to develop their capabilities, with support in the form of mentorships,
+work placements and awards.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://staging-lite.d1pbrforksst58.amplifyapp.com/civic-action/" rel="noopener noreferrer nofollow" target="_blank">Civic Action Fellowship</a>
-<br>Short description
+<p><strong><a href="https://staging-lite.d1pbrforksst58.amplifyapp.com/civic-action/" rel="noopener noreferrer nofollow" target="_blank">Civic Action Fellowship</a></strong>
+<br>To empower social sector professionals to deepen their expertise and develop
+new approaches for achieving the social good. 
 <br>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.d1pbrforksst58.amplifyapp.com/bounce-back/" rel="noopener noreferrer nofollow" target="_blank">Bounce Back Fellowship</a>
-<br>Short description
+<p><strong><a href="https://staging-lite.d1pbrforksst58.amplifyapp.com/bounce-back/" rel="noopener noreferrer nofollow" target="_blank">Springboard Fellowship</a></strong>
+<br>To empower individuals who have faced setbacks by enhancing their employability
+and career prospects through capability development and skills upgrading.
 <br>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.d1pbrforksst58.amplifyapp.com/ite/" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education (ITE) x President’s Challenge Fellowship</a>
-<br>Short description</p>
+<p><strong><a href="https://staging-lite.d1pbrforksst58.amplifyapp.com/ite/" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education (ITE) Inspire</a></strong>
+<br>To recognise individuals who have progressed through the ITE pathway and
+achieved remarkable career success, to motivate and inspire youth, the
+ITE community, and others to develop their fullest potential.</p>
 </li>
 </ul>
 <p></p>
