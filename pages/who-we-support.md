@@ -11,39 +11,9 @@ support covers various sectors from children &amp; family services, healthcare
 &amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of a girl in wheelchair with cerebral palsy" src="/images/NCSS_Web_Banners_JiaYi_1920x720.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage/Nur_Syahidah_Alim.jpg">
 </div>
-<h4>Yan Jia Yi, Beneficiary of Singapore Disability Sports Council</h4>
-<p>Born with cerebral palsy, Yan Jia Yi’s life changed when she discovered
-Boccia at 13. Through the Singapore Disability Sports Council (SDSC), Jia
-Yi received comprehensive coaching and transportation assistance, enabling
-her to focus on her training and win medals both locally and internationally.
-Beyond the accolades, Boccia has significantly improved Jia Yi’s muscle
-mobility, overall fitness, and confidence. By <a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">donating</a> to the
-President’s Challenge, you can empower persons with disabilities and other
-communities in need to rise to their full potential.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage/20170918_APG_Para_Archery_Flona_Hakim_01472.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Nur Syahidah Alim, Para archer</h4>
 <p>Nur Syahidah Alim was born with diplegia, a form of cerebral palsy marked
 by stiff lower limbs that results in difficulty walking or standing for
