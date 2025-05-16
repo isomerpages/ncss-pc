@@ -18,13 +18,13 @@ defaults:
     values:
       layout: page
 colors:
-  primary-color: "#e32b26"
-  secondary-color: "#153f63"
+  primary-color: "#153f63"
+  secondary-color: "#58595b"
   media-colors:
     - title: media-color-one
       color: "#58595b"
     - title: media-color-two
-      color: "#153f63"
+      color: "#e32b26"
     - title: media-color-three
       color: "#58595b"
     - title: media-color-four
