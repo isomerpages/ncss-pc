@@ -22,9 +22,7 @@ to $250 million under the General and Enhancing Matching tiers from 1 January
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGSHARE_MatchingGrant_Infographics_Web_1230X320__1____Copy.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p>100% of the donations raised through the President's Challenge will be
 channelled to the benefitting organisations across various sectors, including
 children with special needs, persons with disabilities, healthcare and
