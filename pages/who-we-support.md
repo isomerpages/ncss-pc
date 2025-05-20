@@ -11,14 +11,13 @@ support covers various sectors from children &amp; family services, healthcare
 &amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage/Nur_Syahidah_Alim.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Nur Syahidah Alim" src="/images/Syahidah.png">
 </div>
-<p></p>
 <h4>Nur Syahidah Alim, Para archer</h4>
 <p>Nur Syahidah Alim was born with diplegia, a form of cerebral palsy marked
 by stiff lower limbs that results in difficulty walking or standing for
 extended periods of time. But the physical challenges were just the tip
-of the iceberg. She was constantly bullied and ostracised in school due
+of the iceberg. She was constantly bullied and ostracised In school due
 to her condition, which prevented her from taking part in sports activities
 with her peers.</p>
 <p>However, it was Syahidah who demonstrated the grit and determination of
@@ -27,9 +26,38 @@ Sports Council (SDSC), she has become a world champion para archer and
 multiple gold medallist who has represented Singapore at the ASEAN PARA
 GAMES, Paralympic Games and the World Archery Para Championships.</p>
 <p>There are many more talented individuals like Syahidah just waiting to
-achieve their potential. Join us in supporting their growth by donating
-to the President’s Challenge today.</p>
+achieve their potential.</p>
+<p>Join us in supporting their growth by donating to the President’s Challenge
+today.</p>
+<hr>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Reuel Dylan Tan" src="/images/Reuel_Dylan_Tan.png">
+</div>
+<h4>Reuel Dylan Tan, Artist with autism</h4>
+<p>Reuel was just two years old when his family members noticed something
+odd: he avoided eye contract with almost everyone. Sensing something amiss,
+Reuel’s Mum brought him for a checkup. Reuel was diagnosed with autism
+and as he grew older, he exhibited more signs, such as outbursts and difficulty
+interacting with others.</p>
+<p>Then something unexpected occurred. During the Covid lockdown when Reuel
+was 13, his parents bought him a paint-by-numbers set to keep him occupied
+while the family was cooped up at home. Each resulting artwork was better
+than the last, demonstrating Reuel’s intuitive grasp of colours. He soon
+“graduated” to starting with a blank canvas, then he went on to expand
+his skillsets by watching YouTube videos.</p>
+<p>Reuel’s therapists at Extra•Ordinary People – which holistically supports
+persons with special needs – recognised his talent immediately and gave
+him the opportunity to flourish at Creative Lab, their in-house vocational
+arts incubator for emerging artists with disabilities.</p>
+<p>Today, self-taught Reuel is an accomplished still life and landscape painter
+whose highly detailed paintings have been purchased by private corporations.
+He was also recently commissioned by the Crowne Plaza Penang Straits City
+Hotel to paint two artworks for their premises.</p>
+<p>&nbsp;</p>
+<p>Painting is now Reuel’s purpose in life. Now let’s make it our purpose
+to ensure he achieves his full potential. Join us in supporting talented
+individuals like Reuel. Donate to the President’s Challenge today.</p>
 <hr>
 <h4><strong>Benefitting Organisations</strong></h4>
 <ol data-tight="true" class="tight">
