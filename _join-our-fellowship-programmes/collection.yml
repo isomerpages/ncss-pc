@@ -2,7 +2,7 @@ collections:
   join-our-fellowship-programmes:
     output: true
     order:
-      - Join Our Fellowship Programmes.md
+      - Join Our Fellowship Programmes Overview.md
       - Civic Action Fellowship.md
       - Springboard Fellowship.md
       - Institute of Technical Education (ITE) Inspire.md
