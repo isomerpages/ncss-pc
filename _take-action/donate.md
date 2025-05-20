@@ -19,10 +19,10 @@ made to the President’s Challenge will be matched by the Government up
 to $250 million under the General and Enhancing Matching tiers from 1 January
 2025 onwards.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SG Gives matching grant" src="/images/SGSHARE_MatchingGrant_Infographics_Web_1230X320__1____Copy.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Matching Grant" src="/images/homepage/MatchingGrant.png">
+</div>
 <p>100% of the donations raised through the President's Challenge will be
 channelled to the benefitting organisations across various sectors, including
 children with special needs, persons with disabilities, healthcare and
