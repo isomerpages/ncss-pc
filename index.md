@@ -5,25 +5,39 @@ permalink: /
 sections:
   - hero:
       key_highlights:
-        - title: Donate
-          description: 100% of your donations go towards the benefitting organisations
-            supported by President’s Challenge.
-          url: /take-action/donate/
-        - title: VOLUNTEER
-          description: Be a part of President’s Challenge Volunteer Drive and make a
-            difference in someone’s life.
-          url: /take-action/volunteer/
-        - title: FUNDRAISE
-          description: Do you want to give back as an organisation? Partner with us.
-          url: /take-action/partner-with-us/
+        - title: MAKE AN IMPACT
+          description: Every act of giving counts.
+          url: /take-action
+        - title: JOIN OUR FELLOWSHIP PROGRAMMES
+          description: Serve with a greater purpose
+          url: /join-our-fellowship-programmes
       url: /take-action/donate/
       background: /images/homepage/PC_web_banner_Final.jpg
       title: Rising to all that we can be
-      subtitle: Enabling everyone to lead a fulfilling life. Contribute to the
-        President’s Challenge today.
+      subtitle: Join us in enabling everyone to lead a fulfilling life.  Be part of
+        the President’s Challenge today.
       variant: center
       alignment: right
       backgroundColor: gray
+  - infopic:
+      title: Rising to the Challenge
+      id: infopic
+      description: Born with diplegia, Nur Syahidah Alim rose above limits,
+        transforming challenges into strength to become Singapore's para archery
+        champion.
+      button: Read Now
+      url: /whowesupport
+      image: /images/homepage/Nur_Syahidah_Alim_home.jpg
+      alt: Nur Syahidah Alim
+  - infopic:
+      title: Empower Lives By Volunteering
+      id: infopic
+      description: Your gift of time and support towards the President’s Challenge
+        will enable benefitting organisations to continue serving those in need.
+      button: Learn About Volunteer Drive
+      url: /take-action/volunteer/
+      image: /images/pc_volunteer_website.png
+      alt: Image alt text
   - infopic:
       title: About President’s Challenge
       id: infopic
@@ -42,15 +56,6 @@ sections:
       image: /images/pc_donate_website.png
       alt: Empower Lives By Donating
       button: Donate To Make A Difference
-  - infopic:
-      title: Empower Lives By Volunteering
-      id: infopic
-      description: Your gift of time and support towards the President’s Challenge
-        will enable benefitting organisations to continue serving those in need.
-      button: Learn About Volunteer Drive
-      url: /take-action/volunteer/
-      image: /images/pc_volunteer_website.png
-      alt: Image alt text
   - resources:
       title: Be in the know
       subtitle: Media
