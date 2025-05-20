@@ -23,8 +23,9 @@ new approaches for achieving the social good. 
 </li>
 <li>
 <p><strong><a href="https://staging-lite.d1pbrforksst58.amplifyapp.com/bounce-back/" rel="noopener noreferrer nofollow" target="_blank">Springboard Fellowship</a></strong>
-<br>To empower individuals who have faced setbacks by enhancing their employability
-and career prospects through capability development and skills upgrading.
+<br>To empower individuals who have faced setbacks through targeted skill
+development and capability building, equipping them to pursue sustainable
+careers or launch entrepreneurial ventures.
 <br>
 </p>
 </li>
