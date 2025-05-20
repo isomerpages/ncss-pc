@@ -4,10 +4,9 @@ permalink: /civic-action/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Overview &nbsp;</strong></h2>
-<p>The Civic Action track empowers social sector professionals, through full-time
-and part-time sabbaticals, to deepen their expertise and develop new approaches
-for achieving social good.</p>
+<p>The Civic Action track aims to empower social sector professionals, through
+full-time and part-time sabbaticals, to deepen their expertise and develop
+new approaches for achieving social good.</p>
 <h3>Eligibility Criteria</h3>
 <ul>
 <li>
@@ -17,10 +16,12 @@ for achieving social good.</p>
 <p>A minimum of five years' experience, either in professional work within
 the social service or civic sector, or in active community service and
 volunteering</p>
+<p></p>
 </li>
 </ul>
 <h3>Selection Criteria</h3>
-<ul>
+<p>Candidates will be assessed on the following aspects:</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Experience, skills and growth potential to drive positive change</p>
 </li>
@@ -29,4 +30,5 @@ volunteering</p>
 desire to contribute to social good.</p>
 </li>
 </ul>
-<p></p>
+<p><strong><a href="https://form.gov.sg/6824094f9efd893deb7eef6f" rel="noopener noreferrer nofollow" target="_blank">Apply for Civic Action Fellowship now!</a></strong>
+</p>
