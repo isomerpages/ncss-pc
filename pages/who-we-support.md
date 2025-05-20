@@ -10,11 +10,10 @@ so that they can focus on their mission and cause. President's Challenge's
 support covers various sectors from children &amp; family services, healthcare
 &amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
 <hr>
-<p></p>
+<h4>Nur Syahidah Alim, Para archer</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Nur Syahidah Alim" src="/images/Syahidah.png">
 </div>
-<h4>Nur Syahidah Alim, Para archer</h4>
 <p>Nur Syahidah Alim was born with diplegia, a form of cerebral palsy marked
 by stiff lower limbs that results in difficulty walking or standing for
 extended periods of time. But the physical challenges were just the tip
