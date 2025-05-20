@@ -30,12 +30,10 @@ sections:
       image: /images/homepage/Nur_Syahidah_Alim_home.jpg
       alt: Nur Syahidah Alim
   - infopic:
-      title: Empower Lives By Volunteering
+      title: Quote from President
       id: infopic
       description: Your gift of time and support towards the President’s Challenge
         will enable benefitting organisations to continue serving those in need.
-      button: Learn About Volunteer Drive
-      url: /take-action/volunteer/
       image: /images/pc_volunteer_website.png
       alt: Image alt text
   - infopic:
