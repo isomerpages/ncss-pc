@@ -45,7 +45,7 @@ sections:
       button: Learn More
       url: /join-our-fellowship-programmes
       image: /images/homepage/fellowship.png
-      alt: Fulfil Your Purpose
+      alt: Fellowship programmes
   - infopic:
       title: Make A Difference
       description: There are many ways you can support our benefitting organisations –
@@ -53,7 +53,7 @@ sections:
         the community.
       url: /take-action
       image: /images/homepage/make_a_difference.png
-      alt: Make a difference
+      alt: Making a difference to support
       button: How you can contribute
   - infopic:
       title: About President’s Challenge
