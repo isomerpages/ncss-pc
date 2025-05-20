@@ -10,7 +10,7 @@ so that they can focus on their mission and cause. President's Challenge's
 support covers various sectors from children &amp; family services, healthcare
 &amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
 <hr>
-<h4>Nur Syahidah Alim, Para archer</h4>
+<h4>Nur Syahidah Alim, Para Archer</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Nur Syahidah Alim" src="/images/Syahidah.png">
 </div>
@@ -30,7 +30,7 @@ achieve their potential.</p>
 <p>Join us in supporting their growth by donating to the President’s Challenge
 today.</p>
 <hr>
-<h4>Reuel Dylan Tan, Artist with autism</h4>
+<h4>Reuel Dylan Tan, Artist with Autism</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Reuel Dylan Tan" src="/images/Reuel_Dylan_Tan.png">
 </div>
