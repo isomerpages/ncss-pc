@@ -52,7 +52,7 @@ sections:
         as a donor, volunteer or partner – to sustain their operations and serve
         the community.
       url: /take-action
-      image: /images/pc_donate_website.png
+      image: /images/homepage/About.png
       alt: Empower Lives By Donating
       button: How you can contribute
   - infopic:
@@ -62,7 +62,7 @@ sections:
         for all, by supporting aspirations and recognising contributions by all.
       button: Learn More About Us
       url: /who-we-are/what-we-do/
-      image: /images/pc_eep_website.png
+      image: /images/homepage/About.png
       alt: About President’s Challenge
   - resources:
       title: Be in the know
