@@ -4,7 +4,6 @@ permalink: /springboard/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Overview &nbsp;</strong></h2>
 <p>The Springboard track supports individuals who have faced challenges or
 setbacks in life and are motivated to bounce back and embark on new paths.
 It provides them with the opportunity to develop capabilities, pursue long-term
@@ -16,14 +15,16 @@ their fullest potential.</p>
 <p>Singaporean citizen 18 years old and above</p>
 </li>
 <li>
-<p>Candidates will be assessed based on their background, as well as their
-potential</p>
+<p>Demonstrate resilience in overcoming significant life challenges</p>
+</li>
+<li>
+<p>Clear motivation and concrete steps/plans for overcoming challenging circumstances</p>
 </li>
 <li>
 <p>Must not be a current recipient of similar full scholarships or fellowships</p>
 </li>
 <li>
-<p>Able to commit full-time to a one-year programme</p>
+<p>Able to commit full-time to a two-year programme</p>
 </li>
 </ul>
 <h3>Selection Criteria</h3>
@@ -35,4 +36,6 @@ potential</p>
 <p>Community impact potential</p>
 </li>
 </ul>
+<p><strong><a href="https://form.gov.sg/admin/form/68274e965a15921cdf80e67a" rel="noopener noreferrer nofollow" target="_blank">Apply for Springboard Fellowship now!</a></strong>
+</p>
 <p></p>
