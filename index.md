@@ -32,8 +32,8 @@ sections:
   - infopic:
       title: Quote from President
       id: infopic
-      description: Your gift of time and support towards the President’s Challenge
-        will enable benefitting organisations to continue serving those in need.
+      description: Discover how the revamped President’s Challenge seeks to uplift
+        Singaporeans from all walks of life.
       image: /images/pc_volunteer_website.png
       alt: Image alt text
   - infopic:
