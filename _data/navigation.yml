@@ -1,6 +1,8 @@
 logo: /images/Logo/president's challenge .png
 links:
   - title: Who We Are
+    collection: who-we-are
+  - title: Who We Are
     url: /who-we-are/what-we-do
     sublinks:
       - title: About President's Challenge
@@ -28,5 +30,3 @@ links:
       - title: Media
         url: /resource-room/
     url: /quick-links/useful-links/
-  - title: New folder
-    collection: who-we-are
