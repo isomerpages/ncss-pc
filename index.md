@@ -52,7 +52,7 @@ sections:
         as a donor, volunteer or partner – to sustain their operations and serve
         the community.
       url: /take-action
-      image: /images/homepage/About.png
+      image: /images/homepage/make_a_difference.png
       alt: Empower Lives By Donating
       button: How you can contribute
   - infopic:
