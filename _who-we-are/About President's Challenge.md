@@ -13,10 +13,14 @@ description: Initiated by former President S R Nathan in 2000, President’s
 </div>
 <p>The President’s Challenge was launched in 2000 by then-President Mr S
 R Nathan, to rally Singaporeans to build a more caring and cohesive society,
-and to help the less fortunate.</p>
+and to help the less fortunate.
+<br>
+</p>
 <p>It has since supported many organisations, including those providing support
 for disadvantaged children and families, the elderly in need of care, persons
-with disabilities, and ex-offenders.</p>
+with disabilities, and ex-offenders.
+<br>
+</p>
 <p>In September 2024, the President’s Challenge was refreshed with the aim
 of going beyond meeting immediate needs, to achieve sustained social impact
 and uplift the aspirations, abilities and potential of individuals and
@@ -38,16 +42,14 @@ winning submission in the President’s Challenge Logo Design Competition
 2025, which saw over a hundred logo design entries from IHL students across
 Singapore.&nbsp;</p>
 <p>Titled “Guided by the Heart”, Xandrea’s thoughtful creation visually embodies
-the organisation’s&nbsp;</p>
-<p>purpose of building a culture of unity, empowerment and uplift. The letters
-“P” and “C” form a continuous loop, representing the unbreakable cycle
-of unity and inclusivity.&nbsp;</p>
+the organisation’s purpose of building a culture of unity, empowerment
+and upliftment. The letters “P” and “C” form a continuous loop, representing
+the unbreakable cycle of unity and inclusivity.&nbsp;</p>
 <p>This loop extends gracefully into an upward arrow signifying growth, progress
 and the uplifting impact that the President’s Challenge strives to achieve
 in communities. The arrowhead is heart-shaped, symbolising the compassion,
 kindness and deep sense of purpose that guides the organisation.&nbsp;&nbsp;&nbsp;</p>
 <p>Together, the elements create a powerful and meaningful emblem that reflects
 a community rising together, driven by heart and purpose.
-<br>
 <br>
 </p>
