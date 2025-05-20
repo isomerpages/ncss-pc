@@ -32,9 +32,6 @@ pursuing second chances in life.</p>
 <p><strong>President’s Challenge Refreshed Logo&nbsp;</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="President's Challenge (Vertical)" src="/images/Logo/PC_vertical_logo.png">
-</div>
 <p>This refreshed President’s Challenge unveiled a new logo to reflect this
 repositioning of its role within the broader landscape of giving. The new
 logo – designed by Xandrea Alfie Isa from Temasek Polytechnic – was the
