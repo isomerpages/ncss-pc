@@ -9,6 +9,7 @@ large number of benefitting organisations to support and raise funds for
 so that they can focus on their mission and cause. President's Challenge's
 support covers various sectors from children &amp; family services, healthcare
 &amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Nur Syahidah Alim" src="/images/Syahidah.png">
@@ -30,11 +31,10 @@ achieve their potential.</p>
 <p>Join us in supporting their growth by donating to the President’s Challenge
 today.</p>
 <hr>
-<p></p>
+<h4>Reuel Dylan Tan, Artist with autism</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Reuel Dylan Tan" src="/images/Reuel_Dylan_Tan.png">
 </div>
-<h4>Reuel Dylan Tan, Artist with autism</h4>
 <p>Reuel was just two years old when his family members noticed something
 odd: he avoided eye contract with almost everyone. Sensing something amiss,
 Reuel’s Mum brought him for a checkup. Reuel was diagnosed with autism
@@ -54,7 +54,7 @@ arts incubator for emerging artists with disabilities.</p>
 whose highly detailed paintings have been purchased by private corporations.
 He was also recently commissioned by the Crowne Plaza Penang Straits City
 Hotel to paint two artworks for their premises.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Painting is now Reuel’s purpose in life. Now let’s make it our purpose
 to ensure he achieves his full potential. Join us in supporting talented
 individuals like Reuel. Donate to the President’s Challenge today.</p>
