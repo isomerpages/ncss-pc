@@ -34,8 +34,8 @@ sections:
       id: infopic
       description: Discover how the revamped President’s Challenge seeks to uplift
         Singaporeans from all walks of life.
-      image: /images/pc_volunteer_website.png
-      alt: Image alt text
+      image: /images/homepage/president.png
+      alt: Tharman Shanmugaratnam
   - infopic:
       title: Fulfil Your Purpose
       subtitle: Add an image and text
@@ -45,7 +45,7 @@ sections:
       button: Learn More
       url: /join-our-fellowship-programmes
       image: /images/homepage/fellowship.png
-      alt: Fellowsh
+      alt: Fulfil Your Purpose
   - infopic:
       title: Make A Difference
       description: There are many ways you can support our benefitting organisations –
@@ -53,7 +53,7 @@ sections:
         the community.
       url: /take-action
       image: /images/homepage/make_a_difference.png
-      alt: Empower Lives By Donating
+      alt: Make a difference
       button: How you can contribute
   - infopic:
       title: About President’s Challenge
