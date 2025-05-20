@@ -20,5 +20,5 @@ youth, the ITE community, and others to develop their fullest potential.&nbsp;</
 <p>Aged between 28 and 40 years old, or above 40</p>
 </li>
 </ul>
-<p><a href="#" rel="noopener nofollow" target="_blank">Apply for ITE Inspire now!</a>
+<p><strong><a href="#" rel="noopener nofollow" target="_blank">Apply for ITE Inspire now!</a></strong>
 </p>
