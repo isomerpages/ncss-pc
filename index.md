@@ -58,6 +58,16 @@ sections:
       title: Be in the know
       subtitle: Media
       button: More Media
+  - infopic:
+      title: Fulfil Your Purpose
+      subtitle: Add an image and text
+      id: infopic
+      description: Our Fellowship programmes develop aspiring individuals through
+        three unique tracks, building capabilities for meaningful social impact.
+      button: Learn More
+      url: /join-our-fellowship-programmes
+      image: /images/homepage/fellowship.png
+      alt: Fellowsh
 notification: Be Vigilant Against Scams. Please refer to the <a
   href="/scam-advisory/">Scam Advisory Notice</a> for more details.
 description: President's Challenge. Empowering Lives, Uplifting Communities.
