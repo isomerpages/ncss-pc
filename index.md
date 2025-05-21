@@ -30,7 +30,7 @@ sections:
       image: /images/homepage/Nur_Syahidah_Alim_home.jpg
       alt: Nur Syahidah Alim
   - infopic:
-      title: Quote from President Tharman Shanmugaratna
+      title: — President Tharman Shanmugaratna
       id: infopic
       image: /images/PC_Quote.jpg
       alt: Tharman Shanmugaratnam
