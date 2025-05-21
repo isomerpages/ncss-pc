@@ -67,6 +67,12 @@ sections:
       title: Be in the know
       subtitle: Media
       button: More Media
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 notification: Be Vigilant Against Scams. Please refer to the <a
   href="/scam-advisory/">Scam Advisory Notice</a> for more details.
 description: President's Challenge. Empowering Lives, Uplifting Communities.
