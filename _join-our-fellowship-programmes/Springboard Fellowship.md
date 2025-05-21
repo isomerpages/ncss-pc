@@ -4,6 +4,10 @@ permalink: /springboard/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/page_banner.jpg">
+</div>
 <p>The Springboard track supports individuals who have faced challenges or
 setbacks in life and are motivated to bounce back and embark on new paths.
 It provides them with the opportunity to develop capabilities, pursue long-term
