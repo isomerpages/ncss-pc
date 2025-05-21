@@ -1,5 +1,5 @@
 collections:
-  fellowship-programmes:
+  our-fellowship-programmes:
     output: true
     order:
       - Overview.md
