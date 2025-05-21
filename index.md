@@ -32,8 +32,7 @@ sections:
   - infopic:
       title: Quote from President
       id: infopic
-      description: Discover how the revamped President’s Challenge seeks to uplift
-        Singaporeans from all walks of life.
+      description: ~ Quote from President Tharman Shanmugaratnam
       image: /images/homepage/president.png
       alt: Tharman Shanmugaratnam
   - infopic:
