@@ -33,7 +33,7 @@ sections:
       title: Quote from President
       id: infopic
       description: ~ Quote from President Tharman Shanmugaratnam
-      image: /images/homepage/president.png
+      image: /images/president.png
       alt: Tharman Shanmugaratnam
   - infopic:
       title: Fulfil Your Purpose
