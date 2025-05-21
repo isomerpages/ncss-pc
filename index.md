@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: — President Tharman Shanmugaratna
       id: infopic
-      image: /images/PC_Quote.jpg
+      image: /images/PC_Quote_blue.jpg
       alt: Tharman Shanmugaratnam
   - infopic:
       title: Fulfil Your Purpose
