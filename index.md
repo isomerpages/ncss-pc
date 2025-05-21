@@ -9,7 +9,7 @@ sections:
           description: Every act of giving counts.
           url: /take-action
         - title: JOIN OUR FELLOWSHIP PROGRAMMES
-          description: Serve with a greater purpose.
+          description: Choose from three tracks.
           url: /join-our-fellowship-programmes
       url: /take-action/donate/
       background: /images/homepage/PC_web_banner_Final.jpg
