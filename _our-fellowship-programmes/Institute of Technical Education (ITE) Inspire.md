@@ -17,10 +17,8 @@ youth, the ITE community, and others to develop their fullest potential.&nbsp;</
 <p>Singaporean citizen</p>
 </li>
 <li>
-<p>A former graduate of ITE</p>
-</li>
-<li>
-<p>Aged between 28 and 40 years old, or above 40</p>
+<p>A graduate of ITE or its predecessor institutions (Trade Schools, Vocational
+Institutes, and the Vocational and Industrial Training Board)</p>
 </li>
 </ul>
 <h3>Selection Criteria</h3>
