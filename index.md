@@ -36,7 +36,6 @@ sections:
       alt: Tharman Shanmugaratnam
   - infopic:
       title: Fulfil Your Purpose
-      subtitle: Add an image and text
       id: infopic
       description: Our Fellowship programmes develop aspiring individuals through
         three unique tracks, building capabilities for meaningful social impact.
