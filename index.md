@@ -41,7 +41,7 @@ sections:
         three unique tracks, building capabilities for meaningful social impact.
       button: Learn More
       url: /join-our-fellowship-programmes
-      image: /images/homepage/fellowship.png
+      image: /images/homepage/siva.jpg
       alt: Fellowship programmes
   - infopic:
       title: Make A Difference
