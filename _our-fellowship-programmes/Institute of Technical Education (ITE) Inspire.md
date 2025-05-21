@@ -25,7 +25,6 @@ youth, the ITE community, and others to develop their fullest potential.&nbsp;</
 </ul>
 <h3>Selection Criteria</h3>
 <p>Candidates will be assessed on the following aspects:</p>
-<p>Singaporean citizen</p>
 <ul>
 <li>
 <p>Career Achievement and Impact</p>
