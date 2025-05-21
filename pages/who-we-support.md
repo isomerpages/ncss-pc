@@ -11,8 +11,9 @@ support covers various sectors from children &amp; family services, healthcare
 &amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
 <hr>
 <h4>Nur Syahidah Alim, Para Archer</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nur Syahidah Alim" src="/images/Syahidah.png">
+<img style="width: 100%" height="auto" width="100%" alt="Nur Syahidah Alim" src="/images/User/Nur.jpg">
 </div>
 <p>Nur Syahidah Alim was born with diplegia, a form of cerebral palsy marked
 by stiff lower limbs that results in difficulty walking or standing for
@@ -31,8 +32,9 @@ achieve their potential.</p>
 today.</p>
 <hr>
 <h4>Reuel Dylan Tan, Artist with Autism</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Reuel Dylan Tan" src="/images/Reuel_Dylan_Tan.png">
+<img style="width: 100%" height="auto" width="100%" alt="Reuel Dylan Tan" src="/images/User/dylan.jpg">
 </div>
 <p>Reuel was just two years old when his family members noticed something
 odd: he avoided eye contract with almost everyone. Sensing something amiss,
