@@ -14,7 +14,7 @@ youth, the ITE community, and others to develop their fullest potential.&nbsp;</
 <h3>Eligibility Criteria</h3>
 <ul>
 <li>
-<p>Singaporean citizen</p>
+<p>Singapore citizen</p>
 </li>
 <li>
 <p>A graduate of ITE or its predecessor institutions (Trade Schools, Vocational
