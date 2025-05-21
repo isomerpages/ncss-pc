@@ -8,7 +8,7 @@ sections:
         - title: MAKE AN IMPACT
           description: Every act of giving counts.
           url: /take-action
-        - title: JOIN OUR FELLOWSHIP PROGRAMMES
+        - title: PRESIDENT’S CHALLENGE FELLOWSHIPS
           description: Choose from three tracks.
           url: /join-our-fellowship-programmes
       url: /take-action/donate/
