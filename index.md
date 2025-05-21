@@ -30,9 +30,9 @@ sections:
       image: /images/homepage/Nur_Syahidah_Alim_home.jpg
       alt: Nur Syahidah Alim
   - infopic:
-      title: Quote from President
+      title: Quote from President Tharman Shanmugaratna
       id: infopic
-      description: ~ Quote from President Tharman Shanmugaratnam
+      description: Quote from President Tharman Shanmugaratna
       image: /images/president.png
       alt: Tharman Shanmugaratnam
   - infopic:
@@ -67,12 +67,6 @@ sections:
       title: Be in the know
       subtitle: Media
       button: More Media
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 notification: Be Vigilant Against Scams. Please refer to the <a
   href="/scam-advisory/">Scam Advisory Notice</a> for more details.
 description: President's Challenge. Empowering Lives, Uplifting Communities.
