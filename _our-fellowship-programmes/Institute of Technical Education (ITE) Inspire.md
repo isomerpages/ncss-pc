@@ -23,5 +23,16 @@ youth, the ITE community, and others to develop their fullest potential.&nbsp;</
 <p>Aged between 28 and 40 years old, or above 40</p>
 </li>
 </ul>
-<p><strong><a href="#" rel="noopener nofollow" target="_blank">Apply for ITE Inspire now!</a></strong>
+<h3>Selection Criteria</h3>
+<p>Candidates will be assessed on the following aspects:</p>
+<p>Singaporean citizen</p>
+<ul>
+<li>
+<p>Career Achievement and Impact</p>
+</li>
+<li>
+<p>Advocacy for Skills and Nurturing Others</p>
+</li>
+</ul>
+<p><strong><a href="https://form.gov.sg/6806e6084d66a6a1871daf59" rel="noopener nofollow" target="_blank">Apply for ITE Inspire now!</a></strong>
 </p>
