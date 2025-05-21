@@ -32,7 +32,6 @@ sections:
   - infopic:
       title: Quote from President Tharman Shanmugaratna
       id: infopic
-      description: Quote from President Tharman Shanmugaratna
       image: /images/president.png
       alt: Tharman Shanmugaratnam
   - infopic:
