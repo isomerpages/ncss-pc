@@ -115,11 +115,11 @@ individuals like Reuel. Donate to the President’s Challenge today.</p>
 </p>
 </li>
 <li>
-<p><a href="www.ccs.org.sg" rel="noopener noreferrer nofollow" target="_blank">Credit Counselling Singapore</a>
+<p><a href="https://www.ccs.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Credit Counselling Singapore</a>
 </p>
 </li>
 <li>
-<p><a href="www.downsyndrome-singapore.org" rel="noopener noreferrer nofollow" target="_blank">Down Syndrome Association (Singapore)</a>
+<p><a href="https://downsyndrome-singapore.org/" rel="noopener noreferrer nofollow" target="_blank">Down Syndrome Association (Singapore)</a>
 </p>
 </li>
 <li>
