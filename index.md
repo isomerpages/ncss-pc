@@ -32,8 +32,10 @@ sections:
   - infopic:
       title: — President Tharman Shanmugaratnam
       id: infopic
-      image: /images/PC_Quote_blue.jpg
-      alt: Tharman Shanmugaratnam
+      description: The President’s Challenge is at the service of the tighter social
+        compact we are striving to achieve in Singapore.
+      image: /images/homepage/kidsread_edited.jpg
+      alt: Image alt text
   - infopic:
       title: Fulfil Your Purpose
       id: infopic
@@ -61,17 +63,15 @@ sections:
       url: /who-we-are/what-we-do/
       image: /images/homepage/Paralympics_edited.jpg
       alt: About President’s Challenge
-  - infopic:
-      title: — President Tharman Shanmugaratnam
-      id: infopic
-      description: The President’s Challenge is at the service of the tighter social
-        compact we are striving to achieve in Singapore.
-      image: /images/homepage/kidsread_edited.jpg
-      alt: Image alt text
   - resources:
       title: Be in the know
       subtitle: Media
       button: More Media
+  - infopic:
+      title: — President Tharman Shanmugaratnam
+      id: infopic
+      image: /images/PC_Quote_blue.jpg
+      alt: Tharman Shanmugaratnam
 notification: Be Vigilant Against Scams. Please refer to the <a
   href="/scam-advisory/">Scam Advisory Notice</a> for more details.
 description: President's Challenge. Empowering Lives, Uplifting Communities.
