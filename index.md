@@ -39,7 +39,7 @@ sections:
       image: /images/homepage/siva.jpg
       alt: Fellowship programmes
   - infopic:
-      title: A Quote from our President
+      title: A Quote from Our President
       id: infopic
       image: /images/PC_Quote_blue.jpg
       alt: Tharman Shanmugaratnam
