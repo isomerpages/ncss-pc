@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/page_banner.jpg">
-</div>
 <p>This Fellowship recognises individuals who have progressed through the
 ITE pathway and achieved remarkable career success, to motivate and inspire
 youth, the ITE community, and others to develop their fullest potential.&nbsp;</p>
