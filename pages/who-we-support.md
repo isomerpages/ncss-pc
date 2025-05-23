@@ -103,7 +103,7 @@ individuals like Reuel. Donate to the President’s Challenge today.</p>
 </p>
 </li>
 <li>
-<p><a href="https://gccprod.sharepoint.com/sites/NCSS-communicationsmarketing-MST-BrandCommunications/Shared%20Documents/Brand%20Communications/Website/PC%20Revamp/%5bPhase%201%5d%20Wireframe/care.sg" rel="noopener noreferrer nofollow" target="_blank">CHILDREN-AT-RISK EMPOWERMENT ASSOCIATION</a>
+<p><a href="https://care.sg/" rel="noopener noreferrer nofollow" target="_blank">CHILDREN-AT-RISK EMPOWERMENT ASSOCIATION</a>
 </p>
 </li>
 <li>
@@ -115,15 +115,15 @@ individuals like Reuel. Donate to the President’s Challenge today.</p>
 </p>
 </li>
 <li>
-<p><a href="https://gccprod.sharepoint.com/sites/NCSS-communicationsmarketing-MST-BrandCommunications/Shared%20Documents/Brand%20Communications/Website/PC%20Revamp/%5bPhase%201%5d%20Wireframe/ccs.org.sg" rel="noopener noreferrer nofollow" target="_blank">Credit Counselling Singapore</a>
+<p><a href="www.ccs.org.sg" rel="noopener noreferrer nofollow" target="_blank">Credit Counselling Singapore</a>
 </p>
 </li>
 <li>
-<p><a href="https://gccprod.sharepoint.com/sites/NCSS-communicationsmarketing-MST-BrandCommunications/Shared%20Documents/Brand%20Communications/Website/PC%20Revamp/%5bPhase%201%5d%20Wireframe/downsyndrome-singapore.org" rel="noopener noreferrer nofollow" target="_blank">Down Syndrome Association (Singapore)</a>
+<p><a href="www.downsyndrome-singapore.org" rel="noopener noreferrer nofollow" target="_blank">Down Syndrome Association (Singapore)</a>
 </p>
 </li>
 <li>
-<p><a href="https://gccprod.sharepoint.com/sites/NCSS-communicationsmarketing-MST-BrandCommunications/Shared%20Documents/Brand%20Communications/Website/PC%20Revamp/%5bPhase%201%5d%20Wireframe/equestrianfederationsg.com/home" rel="noopener noreferrer nofollow" target="_blank">Equestrian Federation of Singapore</a>
+<p><a href="www.-equestrianfederationsg.com/home" rel="noopener noreferrer nofollow" target="_blank">Equestrian Federation of Singapore</a>
 </p>
 </li>
 <li>
