@@ -13,12 +13,12 @@ description: Initiated by former President S R Nathan in 2000, President’s
 </div>
 <p>The President’s Challenge was launched in 2000 by then-President Mr S
 R Nathan, to rally Singaporeans to build a more caring and cohesive society,
-and to help the less fortunate.
+and to help our communities in need.
 <br>
 </p>
 <p>It has since supported many organisations, including those providing support
-for disadvantaged children and families, the elderly in need of care, persons
-with disabilities, and ex-offenders.
+for children with special needs and families who need support, the elderly
+in need of care, persons with disabilities, and ex-offenders.
 <br>
 </p>
 <p>In September 2024, the President’s Challenge was refreshed with the aim
