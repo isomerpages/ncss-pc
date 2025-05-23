@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/page_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fellowship/Website_Banner_1920x700_R2_Siva.jpg">
 </div>
 <p>The Civic Action track aims to empower social sector professionals, through
 full-time and part-time sabbaticals, to deepen their expertise and develop
