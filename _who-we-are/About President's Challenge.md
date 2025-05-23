@@ -39,8 +39,8 @@ pursuing second chances in life.</p>
 repositioning of its role within the broader landscape of giving. The new
 logo – designed by Xandrea Alfie Isa from Temasek Polytechnic – was the
 winning submission in the President’s Challenge Logo Design Competition
-2025, which saw over a hundred logo design entries from IHL students across
-Singapore.&nbsp;</p>
+2025, which saw over a hundred logo design entries from students of Institutes
+of Higher Learning in Singapore.</p>
 <p>Titled “Guided by the Heart”, Xandrea’s thoughtful creation visually embodies
 the organisation’s purpose of building a culture of unity, empowerment
 and upliftment. The letters “P” and “C” form a continuous loop, representing
