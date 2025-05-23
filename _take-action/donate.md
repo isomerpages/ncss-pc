@@ -11,8 +11,8 @@ within our community.</p>
 <p><strong><a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">Donate Now!</a></strong>
 </p>
 <p>As part of Singapore’s journey towards becoming a Smart Nation, the President’s
-Challenge will move towards digital payments, hence we will no longer accept
-cheque and cash donations from 1 January 2024.&nbsp;</p>
+Challenge will move towards digital payments, we no longer accept cheque
+and cash donations from 1 January 2024.&nbsp;</p>
 <p>Your support and partnership in uplifting the Singapore communities in
 need remain important to us. Through the SG Gives matching grant, donations
 made to the President’s Challenge will be matched by the Government up
