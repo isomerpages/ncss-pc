@@ -4,7 +4,6 @@ permalink: /ite-inspire/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <p>This Fellowship recognises individuals who have progressed through the
 ITE pathway and achieved remarkable career success, to motivate and inspire
 youth, the ITE community, and others to develop their fullest potential.&nbsp;</p>
