@@ -99,7 +99,7 @@ individuals like Reuel. Donate to the President’s Challenge today.</p>
 </p>
 </li>
 <li>
-<p><a href="https://gccprod.sharepoint.com/sites/NCSS-communicationsmarketing-MST-BrandCommunications/Shared%20Documents/Brand%20Communications/Website/PC%20Revamp/%5bPhase%201%5d%20Wireframe/cfs.org.sg" rel="noopener noreferrer nofollow" target="_blank">Centre For Seniors</a>
+<p><a href="https://www.cfs.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Centre For Seniors</a>
 </p>
 </li>
 <li>
