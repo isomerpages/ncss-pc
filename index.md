@@ -59,7 +59,7 @@ sections:
         for all, by supporting aspirations and recognising contributions by all.
       button: Learn More About Us
       url: /who-we-are/what-we-do/
-      image: /images/homepage/About.png
+      image: /images/homepage/Paralympics_edited.jpg
       alt: About President’s Challenge
   - resources:
       title: Be in the know
