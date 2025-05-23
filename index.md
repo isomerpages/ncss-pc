@@ -41,7 +41,7 @@ sections:
   - infopic:
       title: A Quote from Our President
       id: infopic
-      image: /images/PC_Quote_blue.jpg
+      image: /images/homepage/PC_Quote.jpg
       alt: Tharman Shanmugaratnam
   - infopic:
       title: Make A Difference
