@@ -30,11 +30,6 @@ sections:
       image: /images/homepage/Nur_Syahidah_Alim_home.jpg
       alt: Nur Syahidah Alim
   - infopic:
-      title: — President Tharman Shanmugaratnam
-      id: infopic
-      image: /images/PC_Quote_blue.jpg
-      alt: Tharman Shanmugaratnam
-  - infopic:
       title: Fulfil Your Purpose
       id: infopic
       description: Our Fellowship programmes develop aspiring individuals through
@@ -43,6 +38,11 @@ sections:
       url: /join-our-fellowship-programmes
       image: /images/homepage/siva.jpg
       alt: Fellowship programmes
+  - infopic:
+      title: A Quote from our President
+      id: infopic
+      image: /images/PC_Quote_blue.jpg
+      alt: Tharman Shanmugaratnam
   - infopic:
       title: Make A Difference
       description: There are many ways you can support our benefitting organisations –
