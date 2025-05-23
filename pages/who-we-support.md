@@ -123,7 +123,7 @@ individuals like Reuel. Donate to the President’s Challenge today.</p>
 </p>
 </li>
 <li>
-<p><a href="www.-equestrianfederationsg.com/home" rel="noopener noreferrer nofollow" target="_blank">Equestrian Federation of Singapore</a>
+<p><a href="https://www.equestrianfederationsg.com/home" rel="noopener noreferrer nofollow" target="_blank">Equestrian Federation of Singapore</a>
 </p>
 </li>
 <li>
