@@ -27,7 +27,7 @@ sections:
         champion.
       button: Read Now
       url: /whowesupport
-      image: /images/homepage/Nur_Syahidah_Alim_home.jpg
+      image: /images/homepage/Website_Banner_1920x700_R3_combined_profile_op1__1_.jpg
       alt: Nur Syahidah Alim
   - infopic:
       title: Fulfil Your Purpose
