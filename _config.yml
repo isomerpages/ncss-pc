@@ -8,7 +8,7 @@ paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 resources_name: resource-room
-favicon: /images/pc_2020_may_11_v1.png
+favicon: /images/Logo/PC_favicon.jpg
 google_analytics: UA-2833102-27
 permalink: none
 baseurl: ""
