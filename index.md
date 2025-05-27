@@ -12,7 +12,7 @@ sections:
           description: Choose from three tracks.
           url: /join-our-fellowship-programmes
       url: /take-action/donate/
-      background: /images/homepage/Profile_image.jpg
+      background: /images/homepage/Profile_banner.jpg
       title: Rising to all that we can be
       subtitle: Join us in enabling everyone to lead a fulfilling life.  Be part of
         the President’s Challenge today.
