@@ -5,9 +5,6 @@ breadcrumb: Partner With Us
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Partner With Us Banner" alt="Partner With Us Banner" src="/images/pc_banner_partnerwithus_v2.jpg">
-</div>
 <p>Every year, supporters of President’s Challenge —people from all walks
 of life— regardless of culture, religion or family background, pull together
 their resources to organise big to small-scale fundraising events to raise
