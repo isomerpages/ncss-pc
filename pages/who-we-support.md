@@ -111,10 +111,6 @@ individuals like Reuel. Donate to the President’s Challenge today.</p>
 </p>
 </li>
 <li>
-<p><a href="http://www.comchest.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Community Chest</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.ccs.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Credit Counselling Singapore</a>
 </p>
 </li>
