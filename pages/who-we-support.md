@@ -215,7 +215,7 @@ individuals like Reuel. Donate to the President’s Challenge today.</p>
 </p>
 </li>
 <li>
-<p><a href="http://www.shine.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SHINE Children and Youth Services</a>
+<p><a href="https://www.shine.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SHINE Children and Youth Services</a>
 </p>
 </li>
 <li>
