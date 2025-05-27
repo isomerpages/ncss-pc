@@ -48,7 +48,7 @@ sections:
       description: There are many ways you can support our benefitting organisations –
         as a donor, volunteer or partner – to sustain their operations and serve
         the community.
-      url: /take-action
+      url: /take-action/donate/
       image: /images/homepage/make_a_difference.png
       alt: Making a difference to support
       button: How you can contribute
