@@ -34,7 +34,7 @@ pursuing second chances in life.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logo/PC_Logo_L_25Anni_27May.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logo/pc_logo.jpg">
 </div>
 <p>This refreshed President’s Challenge unveiled a new logo to reflect this
 repositioning of its role within the broader landscape of giving. The new
