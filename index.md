@@ -9,7 +9,7 @@ sections:
           description: Every act of giving counts.
           url: /take-action
         - title: PRESIDENT’S CHALLENGE FELLOWSHIPS
-          description: Choose from three tracks.
+          description: Three Opportunities to Grow.
           url: /join-our-fellowship-programmes
       url: /take-action/donate/
       background: /images/homepage/profile_op2.jpg
