@@ -63,7 +63,7 @@ individuals like Reuel. Donate to the President’s Challenge today.</p>
 <h4><strong>Benefitting Organisations</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="http://www.able-sg.org/" rel="noopener noreferrer nofollow" target="_blank">Abilities Beyond Limitations and Expectations Limited (ABLE)</a>
+<p><a href="https://able-sg.org/" rel="noopener noreferrer nofollow" target="_blank">Abilities Beyond Limitations and Expectations Limited (ABLE)</a>
 </p>
 </li>
 <li>
