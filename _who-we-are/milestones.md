@@ -94,7 +94,7 @@ Challenge. The Permanent Secretary of the Ministry of Social and Family
 Development (MSF) and Principal Private Secretary to the President continued
 as co-chairs of the President's Challenge Steering Committee.</p>
 <hr>
-<h3><strong>Year 2012 </strong></h3>
+<h3><strong>Year 2012</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Tony Tan Keng Yam" src="/images/milestones-tonytan.jpg">
 </div>
