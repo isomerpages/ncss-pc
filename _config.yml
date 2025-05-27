@@ -39,7 +39,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Logo/PC_favicon.jpg
 is_government: true
 facebook-pixel: "2505999109655304"
 google_analytics_ga4: G-59HC7KSS29
