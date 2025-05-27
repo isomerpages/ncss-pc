@@ -39,8 +39,7 @@ their fullest potential.</p>
 </li>
 <li>
 <p>Community impact potential</p>
+<p></p>
 </li>
 </ul>
-<p><strong><a href="https://form.gov.sg/admin/form/68274e965a15921cdf80e67a" rel="noopener noreferrer nofollow" target="_blank">Apply for Springboard Fellowship now!</a></strong>
-</p>
 <p></p>
