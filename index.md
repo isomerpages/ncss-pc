@@ -5,25 +5,53 @@ permalink: /
 sections:
   - hero:
       key_highlights:
-        - title: Donate
-          description: 100% of your donations go towards the benefitting organisations
-            supported by President’s Challenge.
-          url: /take-action/donate/
-        - title: VOLUNTEER
-          description: Be a part of President’s Challenge Volunteer Drive and make a
-            difference in someone’s life.
-          url: /take-action/volunteer/
-        - title: FUNDRAISE
-          description: Do you want to give back as an organisation? Partner with us.
-          url: /take-action/partner-with-us/
+        - title: MAKE AN IMPACT
+          description: Every act of giving counts.
+          url: /take-action
+        - title: PRESIDENT’S CHALLENGE FELLOWSHIPS
+          description: Three Opportunities to Grow.
+          url: /join-our-fellowship-programmes
       url: /take-action/donate/
-      background: /images/homepage/PC_web_banner_Final.jpg
+      background: /images/homepage/profile_op2.jpg
       title: Rising to all that we can be
-      subtitle: Enabling everyone to lead a fulfilling life. Contribute to the
-        President’s Challenge today.
+      subtitle: Join us in enabling everyone to lead a fulfilling life.  Be part of
+        the President’s Challenge today.
       variant: center
       alignment: right
       backgroundColor: gray
+  - infopic:
+      title: Rising to the Challenge
+      id: infopic
+      description: Born with diplegia, Nur Syahidah Alim rose above limits,
+        transforming challenges into strength to become Singapore's para archery
+        champion.
+      button: Read Now
+      url: /whowesupport
+      image: /images/homepage/Nur_Syahidah_Alim_home.jpg
+      alt: Nur Syahidah Alim
+  - infopic:
+      title: Fulfil Your Purpose
+      id: infopic
+      description: Our Fellowship programmes develop aspiring individuals through
+        three unique tracks, building capabilities for meaningful social impact.
+      button: Learn More
+      url: /join-our-fellowship-programmes
+      image: /images/homepage/siva.jpg
+      alt: Fellowship programmes
+  - infopic:
+      title: A Quote from Our President
+      id: infopic
+      image: /images/homepage/PC_Quote_white.jpg
+      alt: Tharman Shanmugaratnam
+  - infopic:
+      title: Make A Difference
+      description: There are many ways you can support our benefitting organisations –
+        as a donor, volunteer or partner – to sustain their operations and serve
+        the community.
+      url: /take-action/donate/
+      image: /images/homepage/make_a_difference.png
+      alt: Making a difference to support
+      button: How you can contribute
   - infopic:
       title: About President’s Challenge
       id: infopic
@@ -31,26 +59,8 @@ sections:
         for all, by supporting aspirations and recognising contributions by all.
       button: Learn More About Us
       url: /who-we-are/what-we-do/
-      image: /images/pc_eep_website.png
+      image: /images/homepage/Paralympics_edited.jpg
       alt: About President’s Challenge
-  - infopic:
-      title: Empower Lives By Donating
-      description: Your support towards the President’s Challenge will enable
-        benefitting organisations to sustain their operations and serve the
-        community.
-      url: /take-action/donate/
-      image: /images/pc_donate_website.png
-      alt: Empower Lives By Donating
-      button: Donate To Make A Difference
-  - infopic:
-      title: Empower Lives By Volunteering
-      id: infopic
-      description: Your gift of time and support towards the President’s Challenge
-        will enable benefitting organisations to continue serving those in need.
-      button: Learn About Volunteer Drive
-      url: /take-action/volunteer/
-      image: /images/pc_volunteer_website.png
-      alt: Image alt text
   - resources:
       title: Be in the know
       subtitle: Media
@@ -58,5 +68,5 @@ sections:
 notification: Be Vigilant Against Scams. Please refer to the <a
   href="/scam-advisory/">Scam Advisory Notice</a> for more details.
 description: President's Challenge. Empowering Lives, Uplifting Communities.
-image: /images/isomer-logo.svg
+image: /images/Logo/PC_favicon.jpg
 ---

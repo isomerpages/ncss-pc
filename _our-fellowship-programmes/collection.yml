@@ -1,0 +1,8 @@
+collections:
+  our-fellowship-programmes:
+    output: true
+    order:
+      - Overview.md
+      - Civic Action Fellowship.md
+      - Springboard Fellowship.md
+      - Institute of Technical Education (ITE) Inspire.md

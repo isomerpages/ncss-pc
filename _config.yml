@@ -8,7 +8,7 @@ paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 resources_name: resource-room
-favicon: /images/pc_2020_may_11_v1.png
+favicon: /images/Logo/PC_favicon.jpg
 google_analytics: UA-2833102-27
 permalink: none
 baseurl: ""
@@ -18,17 +18,17 @@ defaults:
     values:
       layout: page
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#2650AB"
+  primary-color: "#153f63"
+  secondary-color: "#58595b"
   media-colors:
     - title: media-color-one
-      color: "#33566C"
+      color: "#58595b"
     - title: media-color-two
-      color: "#6C4794"
+      color: "#153f63"
     - title: media-color-three
-      color: "#00626B"
+      color: "#58595b"
     - title: media-color-four
-      color: "#00626B"
+      color: "#58595b"
     - title: media-color-five
       color: "#00626B"
 staging: https://staging.d2fhngqhdruzsz.amplifyapp.com/
@@ -39,7 +39,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Logo/PC_favicon.jpg
 is_government: true
 facebook-pixel: "2505999109655304"
 google_analytics_ga4: G-59HC7KSS29
