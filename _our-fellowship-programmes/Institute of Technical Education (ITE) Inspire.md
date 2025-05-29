@@ -31,6 +31,6 @@ Institutes, and the Vocational and Industrial Training Board)</p>
 <p>Advocacy for Skills and Nurturing Others</p>
 </li>
 </ul>
-<p>Applications for ITE Inspire starts from 3 June 2025.
+<p>Applications for ITE Inspire will be accepted starting 3 June 2025.
 <br><strong><a href="https://form.gov.sg/6806e6084d66a6a1871daf59" rel="noopener nofollow" target="_blank">Apply for ITE Inspire now!</a></strong>
 </p>
