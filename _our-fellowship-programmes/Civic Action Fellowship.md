@@ -34,7 +34,7 @@ volunteering</p>
 <p>Demonstrate strong values alignment, compassion for others, and a genuine
 desire to contribute to social good.</p>
 <p></p>
-<p>Applications for Civic Action Fellowship starts from 3 June 2025.
+<p>Application for Civic Action Fellowship start from 3 June 2025.
 <br><strong><a href="https://form.gov.sg/6824094f9efd893deb7eef6f" rel="noopener noreferrer nofollow" target="_blank">Apply for Civic Action Fellowship now!</a></strong>
 </p>
 </li>
