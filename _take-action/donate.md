@@ -28,5 +28,5 @@ channelled to the benefitting organisations across various sectors, including
 children with special needs, persons with disabilities, healthcare and
 families, as well as elderly in need.</p>
 <p>Please email us&nbsp;<a href="https://www.presidentschallenge.gov.sg/take-action/donate/pc_enquiry@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pc_enquiry@ncss.gov.sg</u></a>&nbsp;or
-send us&nbsp;<a href="https://form.gov.sg/5e7c0d4734d8b200113b99be" rel="noopener noreferrer nofollow" target="_blank"><u>your feedback</u></a>&nbsp;if
+send us&nbsp;<a href="https://form.gov.sg/6837c4b2dc33a3a315fb65ce" rel="noopener noreferrer nofollow" target="_blank"><u>your feedback</u></a>&nbsp;if
 you encounter any problem in your donation process.</p>
