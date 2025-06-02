@@ -5,7 +5,7 @@ permalink: /
 sections:
   - hero:
       key_highlights:
-        - title: MAKE A DIFFERENCE=
+        - title: MAKE A DIFFERENCE
           description: Every act of giving counts.
           url: /take-action
         - title: PRESIDENT’S CHALLENGE FELLOWSHIPS
