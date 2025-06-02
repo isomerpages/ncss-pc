@@ -14,8 +14,6 @@ sections:
       url: /take-action/donate/
       background: /images/homepage/profile_op2.jpg
       title: Rising to all that we can be
-      subtitle: Join us in enabling everyone to lead a fulfilling life.  Be part of
-        the President’s Challenge today.
       variant: center
       alignment: right
       backgroundColor: gray
