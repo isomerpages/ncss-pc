@@ -53,12 +53,15 @@ closer together. .</p>
 </div>
 <p>To reflect the new identity of the President’s Challenge, a logo competition
 was launched in early 2025, opened to students enrolled in our Polytechnics,
-Institutes of Technical Education and the University of the Arts Singapore.
-The competition drew 153 entries.</p>
-<p>The winning design by Xandrea Alfie Isa from Temasek Polytechnic will
-be the new logo of the President’s Challenge. It provides a simple but
-powerful emblem, evoking a community rising together, driven by heart and
-purpose. Along with Xandrea, four other students were also recognised for
-their outstanding designs.
+Institutes of Technical Education (ITE) and the University of the Arts
+Singapore. The competition drew 153 entries. The winning design by Xandrea
+Alfie Isa from Temasek Polytechnic will be the new logo of the President’s
+Challenge.</p>
+<p>This logo, titled Guided by the Heart, is a thoughtfully designed symbol
+that visually embodies the values of unity, empowerment, and upliftment.
+At the heart of the design, the letters P and C are crafted into a continuous
+loop, representing the unbreakable cycle of unity and inclusivity. Together,
+the elements create a powerful and meaningful emblem that reflects a community
+rising together, driven by heart and purpose.
 <br>
 </p>
