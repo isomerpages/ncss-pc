@@ -51,21 +51,14 @@ closer together. .</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logo/pc_logo.jpg">
 </div>
-<p>This refreshed President’s Challenge unveiled a new logo to reflect this
-repositioning of its role within the broader landscape of giving. The new
-logo – designed by Xandrea Alfie Isa from Temasek Polytechnic – was the
-winning submission in the President’s Challenge Logo Design Competition
-2025, which saw over a hundred logo design entries from students of Institutes
-of Higher Learning in Singapore.</p>
-<p>Titled “Guided by the Heart”, Xandrea’s thoughtful creation visually embodies
-the organisation’s purpose of building a culture of unity, empowerment
-and upliftment. The letters “P” and “C” form a continuous loop, representing
-the unbreakable cycle of unity and inclusivity.&nbsp;</p>
-<p>This loop extends gracefully into an upward arrow signifying growth, progress
-and the uplifting impact that the President’s Challenge strives to achieve
-in communities. The arrowhead is heart-shaped, symbolising the compassion,
-kindness and deep sense of purpose that guides the organisation.&nbsp;&nbsp;&nbsp;</p>
-<p>Together, the elements create a powerful and meaningful emblem that reflects
-a community rising together, driven by heart and purpose.
+<p>To reflect the new identity of the President’s Challenge, a logo competition
+was launched in early 2025, opened to students enrolled in our Polytechnics,
+Institutes of Technical Education and the University of the Arts Singapore.
+The competition drew 153 entries.</p>
+<p>The winning design by Xandrea Alfie Isa from Temasek Polytechnic will
+be the new logo of the President’s Challenge. It provides a simple but
+powerful emblem, evoking a community rising together, driven by heart and
+purpose. Along with Xandrea, four other students were also recognised for
+their outstanding designs.
 <br>
 </p>
