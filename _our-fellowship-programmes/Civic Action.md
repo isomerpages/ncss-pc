@@ -1,5 +1,5 @@
 ---
-title: Civic Action Fellowship
+title: Civic Action
 permalink: /civic-action/
 variant: tiptap
 description: ""

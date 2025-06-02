@@ -5,17 +5,18 @@ permalink: /
 sections:
   - hero:
       key_highlights:
-        - title: MAKE AN IMPACT
+        - title: MAKE A DIFFERENCE
           description: Every act of giving counts.
           url: /take-action
+        - title: About President's Challenge
+          description: Learn more about us.
+          url: /who-we-are/what-we-do/
         - title: PRESIDENT’S CHALLENGE FELLOWSHIPS
-          description: Three Opportunities to Grow.
+          description: Opportunities to grow.
           url: /join-our-fellowship-programmes
       url: /take-action/donate/
       background: /images/homepage/profile_op2.jpg
       title: Rising to all that we can be
-      subtitle: Join us in enabling everyone to lead a fulfilling life.  Be part of
-        the President’s Challenge today.
       variant: center
       alignment: right
       backgroundColor: gray

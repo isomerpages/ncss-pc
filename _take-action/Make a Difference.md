@@ -1,8 +1,9 @@
 ---
-title: Donate
+title: Make a Difference
 permalink: /take-action/donate/
 breadcrumb: Donate
 variant: tiptap
+description: ""
 ---
 <p>The President's Challenge would not be where we are today without the
 strong support of our donors and partners. Your donations will help our

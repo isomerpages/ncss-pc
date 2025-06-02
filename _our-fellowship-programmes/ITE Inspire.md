@@ -1,5 +1,5 @@
 ---
-title: Institute of Technical Education (ITE) Inspire
+title: ITE Inspire
 permalink: /ite-inspire/
 variant: tiptap
 description: ""

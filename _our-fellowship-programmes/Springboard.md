@@ -1,5 +1,5 @@
 ---
-title: Springboard Fellowship
+title: Springboard
 permalink: /springboard/
 variant: tiptap
 description: ""
