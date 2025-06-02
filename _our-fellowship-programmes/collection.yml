@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Civic Action Fellowship.md
+      - Civic Action.md
       - Springboard Fellowship.md
       - Institute of Technical Education (ITE) Inspire.md
