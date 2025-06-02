@@ -7,7 +7,7 @@ sections:
       key_highlights:
         - title: MAKE A DIFFERENCE
           description: Every act of giving counts.
-          url: /take-action
+          url: /take-action/donate
         - title: About President's Challenge
           description: Learn more about us.
           url: /who-we-are/what-we-do/
