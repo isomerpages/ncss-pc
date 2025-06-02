@@ -13,24 +13,39 @@ description: Initiated by former President S R Nathan in 2000, President’s
 </div>
 <p>The President’s Challenge was launched in 2000 by then-President Mr S
 R Nathan, to rally Singaporeans to build a more caring and cohesive society,
-and to help our communities in need.
-<br>
-</p>
-<p>It has since supported many organisations, including those providing support
-for children with special needs and families who need support, the elderly
-in need of care, persons with disabilities, and ex-offenders.
-<br>
-</p>
-<p>In September 2024, the President’s Challenge was refreshed with the aim
-of going beyond meeting immediate needs, to achieve sustained social impact
-and uplift the aspirations, abilities and potential of individuals and
-communities, particularly those who start with greater odds. It aims to
-widen the chances and opportunities for arts and sports talents to be nurtured,
-and for their development to be sustained, while also providing fellowship
-programmes aimed at developing civic leaders and recognising individuals
-pursuing second chances in life.</p>
-<p><strong>President’s Challenge Refreshed Logo&nbsp;</strong>
-</p>
+and to help our communities in need.</p>
+<p>The President’s Challenge, refreshed from 2025, aims to promote <strong>a culture of unity</strong> and <strong>respect for all</strong>.</p>
+<p>It will do so by helping to <strong>uplift individuals from all backgrounds</strong> and
+recognising contributions by all.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We will promote initiatives to <strong>develop talents and abilities in every field</strong>,
+especially among those who have to <strong>overcome disadvantages or setbacks</strong>.
+This will include the arts and sports as fields for nurturing potential.</p>
+</li>
+<li>
+<p>In addition, we will introduce <a href="/join-our-fellowship-programmes/" rel="noopener nofollow" target="_blank">President's Challenge Fellowships</a> aimed
+at developing <strong>civic leaders</strong> and recognising <strong>individuals pursuing second chances in life</strong>.</p>
+</li>
+</ul>
+<p>Across these initiatives, we will seek to promote v<strong>olunteerism, multiracialism, and cross-cultural appreciation</strong> as
+a way of life.</p>
+<p>The President’s Challenge will hence be at the service of the <strong>more inclusive and vibrant social compact</strong> that
+we are developing in Singapore:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One which motivates everyone to develop themselves to the fullest, and
+recognises the different ways in which we all contribute to our nation.</p>
+</li>
+<li>
+<p>One that is shaped by the whole community and civic fabric.</p>
+</li>
+<li>
+<p>One that ultimately fosters a culture of respect for all, and brings us
+closer together. .</p>
+</li>
+</ul>
+<h3><strong>President’s Challenge Refreshed Logo&nbsp;</strong></h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
