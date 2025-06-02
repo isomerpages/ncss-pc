@@ -8,6 +8,9 @@ sections:
         - title: MAKE A DIFFERENCE
           description: Every act of giving counts.
           url: /take-action
+        - title: About President's Challenge
+          description: Learn more about us.
+          url: /who-we-are/what-we-do/
         - title: PRESIDENT’S CHALLENGE FELLOWSHIPS
           description: Opportunities to grow.
           url: /join-our-fellowship-programmes
