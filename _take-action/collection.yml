@@ -2,6 +2,6 @@ collections:
   take-action:
     output: true
     order:
-      - donate.md
+      - Make a Difference.md
       - Volunteer.md
       - partner-with-us.md
