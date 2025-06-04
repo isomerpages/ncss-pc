@@ -16,7 +16,7 @@ Passwords (OTP) via SMS, messaging apps or via phone call.</p>
 details such as identity card number. Be on your guard against callers
 who ask you to install mobile apps.</p>
 <hr>
-<h3>If you received an SMS from the government, check that it’s gov.sg </h3>
+<h3>If you received an SMS from the government, check that it’s gov.sg</h3>
 <p>From 1 Jul 2024, government SMSes will be sent from a single Sender ID: <strong>gov.sg</strong>.
 Visit <a href="https://www.sms.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sms.gov.sg</a> for
 more information.</p>
