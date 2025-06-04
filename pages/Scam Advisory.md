@@ -36,7 +36,6 @@ at 1799 <em>(if you are unsure if something is a scam)</em>.</p>
 <li>
 <p>Write to us at <a href="mailto:pc_enquiry@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pc_enquiry@ncss.gov.sg</a> or
 call our helpline at 6210 2500.</p>
-<p></p>
 </li>
 </ol>
 <p></p>
