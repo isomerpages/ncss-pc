@@ -26,9 +26,8 @@ sections:
   - infopic:
       title: Rising to the Challenge
       id: infopic
-      description: Born with diplegia, Nur Syahidah Alim rose above limits,
-        transforming challenges into strength to become Singapore's para archery
-        champion.
+      description: Born with diplegia, Nur Syahidah Alim transformed challenges into
+        strength to become Singapore's para archery champion.
       button: Read Now
       url: /whowesupport
       image: /images/homepage/Nur_Syahidah_Alim_home.jpg
@@ -47,6 +46,11 @@ sections:
       id: infopic
       image: /images/homepage/PC_Quote_white.jpg
       alt: Tharman Shanmugaratnam
+      description: “We're really developing a community of respect. Where we value the
+        effort and contribution that every individual brings. Where we rise
+        together..”
+      button: Read more
+      url: /who-we-are/what-we-do/
   - infopic:
       title: Make A Difference
       description: There are many ways you can support our benefitting organisations –
