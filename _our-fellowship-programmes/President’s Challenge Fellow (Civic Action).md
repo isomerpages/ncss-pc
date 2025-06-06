@@ -4,8 +4,6 @@ permalink: /civic-action/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fellowship/Website_Banner_1920x700_R2_Siva.jpg">
 </div>
@@ -31,11 +29,11 @@ volunteering</p>
 <p>Candidates will be assessed on the following aspects:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Experience, skills and growth potential to drive positive change</p>
+<p>Experience, skills, and growth potential to drive positive change</p>
 </li>
 <li>
 <p>Demonstrate strong values alignment, compassion for others, and a genuine
-desire to contribute to social good.</p>
+desire to contribute to social good</p>
 </li>
 </ul>
 <p>Applications for Civic Action Fellowship will be accepted starting 3 June
