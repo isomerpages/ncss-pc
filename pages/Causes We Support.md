@@ -345,8 +345,7 @@ individuals like Reuel. <a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" r
 <p>20.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>iC@RE HUB LTD</u>
-</p>
+<p>iC@RE HUB LTD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>iTAP - individual Transitional Accommodation Programme&nbsp;</p>
