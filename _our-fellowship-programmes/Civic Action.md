@@ -13,8 +13,7 @@ description: ""
 full-time and part-time sabbaticals over 1-2 years, to deepen their expertise
 and develop new approaches for achieving social good. The Fellowships are
 also open to those from other sectors who have been active volunteers in
-the social field.</p>
-<p><strong><a href="https://form.gov.sg/6824094f9efd893deb7eef6f" rel="noopener noreferrer nofollow" target="_blank">Apply for Civic Action Fellowship now!</a></strong>
+the social field. <strong><a href="https://form.gov.sg/6824094f9efd893deb7eef6f" rel="noopener noreferrer nofollow" target="_blank">Apply for Civic Action Fellowship now!</a></strong>
 </p>
 <h3>Eligibility Criteria</h3>
 <ul>
@@ -40,7 +39,7 @@ desire to contribute to social good.</p>
 </li>
 </ul>
 <p>Applications for Civic Action Fellowship will be accepted starting 3 June
-2025.</p>
-<p><strong><a href="https://form.gov.sg/6824094f9efd893deb7eef6f" rel="noopener noreferrer nofollow" target="_blank">Apply for Civic Action Fellowship now!</a></strong>
+2025.
+<br><strong><a href="https://form.gov.sg/6824094f9efd893deb7eef6f" rel="noopener noreferrer nofollow" target="_blank">Apply for Civic Action Fellowship now!</a></strong>
 </p>
 <p></p>
