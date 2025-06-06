@@ -4,9 +4,9 @@ permalink: /join-our-fellowship-programmes/
 variant: tiptap
 description: ""
 ---
-<p>The President’s Challenge Fellowships aim to develop new approaches in
-the social sector; support individuals bouncing back from major setbacks;
-and to recognise outstanding career achievements among ITE graduates.</p>
+<p>The President’s Challenge Fellowships aim to develop <strong>new approaches</strong> in
+the social sector; support <strong>individuals bouncing back from major setbacks</strong>;
+and to recognise <strong>outstanding career achievements among ITE graduates</strong>.</p>
 <p>The President’s Challenge will be partnering with several philanthropic
 and impact partners in enabling the Fellowships.</p>
 <h4><strong><a href="/civic-action/" rel="noopener nofollow" target="_blank">Civic Action</a></strong></h4>
