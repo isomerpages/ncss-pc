@@ -40,7 +40,7 @@ sections:
         impact.
       button: Learn More
       url: /join-our-fellowship-programmes
-      image: /images/homepage/siva.jpg
+      image: /images/RobinTay_in_picture_830x623.jpg
       alt: Fellowship programmes
   - infopic:
       title: A Quote from Our President
