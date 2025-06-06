@@ -5,11 +5,47 @@ breadcrumb: Who We Support
 variant: tiptap
 description: ""
 ---
-<p>Every year, our community outreach and fundraising campaign selects a
-large number of benefitting organisations to support and raise funds for
-so that they can focus on their mission and cause. President's Challenge's
-support covers various sectors from children &amp; family services, healthcare
-&amp; eldercare, disability services and rehabilitation of ex-offenders.</p>
+<p>The President’s Challenge seeks to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop talents and abilities in every field, especially among those facing
+disadvantage. This includes the arts and sports as fields for nurturing
+potential.</p>
+</li>
+<li>
+<p>Provide sustained funding for beneficiary organisations, typically from
+three to five years, to help achieve better and more lasting social impact.</p>
+</li>
+</ul>
+<p>In 2025, the President’s Challenge will support 60 programmes from 52
+organisations. Here are some selected supported programmes and their beneficiaries.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Life Community Services Society (Life! Mentors)</p>
+</li>
+<li>
+<p>Morning Star Community Services (Carenights)</p>
+</li>
+<li>
+<p>New Life Stories (Family Strengthening Programme)</p>
+</li>
+<li>
+<p>Riding for the Disabled Association of Singapore (Equine Assisted Activities)</p>
+</li>
+<li>
+<p>SHINE Children and Youth Services (Youth Community Outreach Patrol – Scale
+up)</p>
+</li>
+<li>
+<p>Yayasan Mendaki (Women At Work Programme)</p>
+</li>
+</ul>
+<p>As an example, New Life Stories' Family Strengthening programme seeks
+to build resilience among children of incarcerated parents and their families,
+helping them achieve their potential. The programme mobilises the community
+to equip children with essential skills and competencies for positive development,
+while strengthening family bonds.</p>
+<p>See below for the full list.</p>
 <hr>
 <h4>Nur Syahidah Alim, Para Archer</h4>
 <p></p>
@@ -62,214 +98,647 @@ to ensure he achieves his full potential. Join us in supporting talented
 individuals like Reuel. Donate to the President’s Challenge today.</p>
 <hr>
 <h4><strong>Benefitting Organisations</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://able-sg.org/" rel="noopener noreferrer nofollow" target="_blank">Abilities Beyond Limitations and Expectations Limited (ABLE)</a>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
 </p>
-</li>
-<li>
-<p><a href="http://www.allkin.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Allkin Singapore Ltd</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Organisations</strong>
 </p>
-</li>
-<li>
-<p><a href="http://www.ascendinghope.org/" rel="noopener noreferrer nofollow" target="_blank">Ascending Hope Community Services Ltd</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programmes</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Abilities Beyond Limitations and Expectations Limited (ABLE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Health Integration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Community Reintegration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sustainable Employment&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allkin Singapore Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Club Infinity&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ascending Hope Community Services Ltd *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food For Hope&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Autism Association (Singapore), Eden Centre for Adults</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Towards supported or independent living for autistic adults&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beautiful Mind Charity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Employment Program: Pathway to Financial Independence&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bizlink Centre Singapore Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Work Therapy Programme&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blessed Grace Social Services Limited</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bakery Rehabilitation Project&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bowling Association for the Disabled</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enhancing Existing Para Bowling Competitions and Fun Bowl Programme&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys’ Town</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys’ Town Sanctuary Care&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Centre For Seniors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Empowering seniors in purposeful longevity&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHILDREN-AT-RISK EMPOWERMENT ASSOCIATION</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mentoring Programme&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Club Rainbow (Singapore) *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Care Connection – a Caregiver Support and Empowerment Program&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit Counselling Singapore *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Proposal for Administration of Debt Relief for Families on COMLINK Plus&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Down Syndrome Association (Singapore)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Community Support Network&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Equestrian Federation of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Youth Seeking New Opportunities&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Filos Community Services Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Project P.E.E.R&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FootballPlus Ltd *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions Unlimited&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Good News Community Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Good News Homeless Outreach Program -&nbsp; Bridging Forward&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>19.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>HCSA Highpoint Halfway House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEP UP Initiative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HCSA Highpoint: Action In Motion Society (AIMS)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>iC@RE HUB LTD</u>
 </p>
-</li>
-<li>
-<p><a href="http://www.autismlinks.org.sg/programmes/ecfa" rel="noopener noreferrer nofollow" target="_blank">Autism Association (Singapore), Eden Centre for Adults</a>
+</td>
+<td rowspan="1" colspan="1">
+<p>iTAP - individual Transitional Accommodation Programme&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Impart Ltd. *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Common Ground&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lakeside Family Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The GRIT Academy (TGA)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lawn Bowls Association for the Disabled</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Short Mat Bowls&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Life Community Services Society</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Life! Mentors&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MINDSG LTD (Movement for the Intellectually Disabled of Singapore)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MINDS Caregivers Support Services&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Morning Star Community Services Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Carenights&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Gallery Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gallery Wonders&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Netball Singapore *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Netball Rising&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NeuGen Fund</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beyond the Walls: Family ReUNITE&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New Life Stories</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Family Strengthening Programme&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUHS Fund Limited</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nourish &amp; Thrive: Empowering Communities for Health and Sustainability&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>32.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Persatuan Permudi Islam Singapura (PPIS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enhancement of Aftercare Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Therapeutic Interventions for Foster Families: Healing from Trauma and
+Building Resilience using Creative Arts&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Playeum Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Minds Open Doors: Building Pathways to Inclusive Communities through
+Play&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presbyterian Preschool Services Ltd. *</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Educational Support Programme (ESP)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>35.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Rainbow Centre Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friends for a Good Life - Developing a community of befrienders and advocates
+for persons with disabilities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Good Life Boarding (GLB)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Riding for the Disabled Association of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Equine Assisted Activities (EAA)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RiverLife Community Services Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BLESS Mums&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCWO (Singapore Council of Women's Organisations)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Single Mothers Programme&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>39.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>SHINE Children and Youth Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Youth Community Outreach Patrol (COP) – Scale up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reading Odyssey&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EmpowerConnect: Inclusive Contact Centre Pathways for Persons with Disabilities&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St Andrew's Autism Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dignity of Work Programme&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>42.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUN-DAC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seed of Hope (Urban Farming Programme)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>43.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Tasek Academy and Social Services Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finding your feet: Tasek Football-cum-Mentoring for Character Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Youth Hub: Wraparound support for growth&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>44.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Community Justice Centre Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Access is empowerment – Empowering self represented persons through enhancing
+the ease of use of court processes and services&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Helping Hand Halfway House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Support Healthy Living for Elderly Ex-Offenders&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Salvation Army</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kids In Play (KIP)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>47.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>The TENG Company Ltd.*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TENG Gives Back</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In-School Programmes for Targeted Students (At-Risk Youths and Individuals
+with Special Needs)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>48.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TOUCH Community Services Limited</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADAPT Programme&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>49.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yayasan MENDAKI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Women At Work (W@W) Programme&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>50.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yellow Ribbon Fund</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YRF Skills Training Assistance to Re-start (STAR) Bursary Case Management
+Services&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>51.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeo Boon Khim Mind Science Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Autism Social Emotional Resilience (ASER) Program for National Curriculum
+Students&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>52.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YMCA of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vocational and Soft Skills Programme (VaSSP) 2.0</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong><em>Note: Organisations marked with an asterisk (*) are new benefitting organisations under President's Challenge.</em>
 </p>
-</li>
-<li>
-<p><a href="http://www.bmcsg.org/" rel="noopener noreferrer nofollow" target="_blank">Beautiful Mind Charity</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.bizlink.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bizlink Centre Singapore Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.bgss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Blessed Grace Social Services Limited</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.bads.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling Association for the Disabled</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.boystown.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Boys’ Town</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.cfs.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Centre For Seniors</a>
-</p>
-</li>
-<li>
-<p><a href="https://care.sg/" rel="noopener noreferrer nofollow" target="_blank">CHILDREN-AT-RISK EMPOWERMENT ASSOCIATION</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.clubrainbow.org/" rel="noopener noreferrer nofollow" target="_blank">Club Rainbow (Singapore)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.ccs.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Credit Counselling Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="https://downsyndrome-singapore.org/" rel="noopener noreferrer nofollow" target="_blank">Down Syndrome Association (Singapore)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.equestrianfederationsg.com/home" rel="noopener noreferrer nofollow" target="_blank">Equestrian Federation of Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.filos.sg/" rel="noopener noreferrer nofollow" target="_blank">Filos Community Services Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.footballplus.org/" rel="noopener noreferrer nofollow" target="_blank">FootballPlus Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.goodnews.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Good News Community Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://hcsa.org.sg/" rel="noopener noreferrer nofollow" target="_blank">HCSA Highpoint Halfway House</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.icarehub.org.sg/" rel="noopener noreferrer nofollow" target="_blank">iC@RE HUB LTD</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.impart.sg/" rel="noopener noreferrer nofollow" target="_blank">Impart Ltd.</a>
-</p>
-</li>
-<li>
-<p><a href="https://lakeside.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Lakeside Family Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://parabowlsingapore.org/" rel="noopener noreferrer nofollow" target="_blank">Lawn Bowls Association for the Disabled</a>
-</p>
-</li>
-<li>
-<p><a href="https://life-community.org/about/about-us" rel="noopener noreferrer nofollow" target="_blank">Life Community Services Society</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.minds.org.sg/" rel="noopener noreferrer nofollow" target="_blank">MINDSG LTD (Movement for the Intellectually Disabled of Singapore)</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.morningstar.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Morning Star Community Services Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.nationalgallery.sg/" rel="noopener noreferrer nofollow" target="_blank">National Gallery Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.netball.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Netball Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.neugen.org.sg/" rel="noopener noreferrer nofollow" target="_blank">NeuGen Fund</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.newlifestories.org.sg/" rel="noopener noreferrer nofollow" target="_blank">New Life Stories</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.nuhs.edu.sg/giving/about-nuhs-fund" rel="noopener noreferrer nofollow" target="_blank">NUHS Fund Limited</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.ppis.sg/" rel="noopener noreferrer nofollow" target="_blank">Persatuan Permudi Islam Singapura(PPIS)</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.playeum.com/" rel="noopener noreferrer nofollow" target="_blank">Playeum Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.presbypreschool.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Presbyterian Preschool Services Ltd.</a>
-</p>
-</li>
-<li>
-<p><a href="https://rainbowcentre.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Rainbow Centre Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.rdasingapore.org/" rel="noopener noreferrer nofollow" target="_blank">Riding for the Disabled Association of Singapore</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.rcs.org.sg/" rel="noopener noreferrer nofollow" target="_blank">RiverLife Community Services Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.scwo.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SCWO (Singapore Council of Women's Organisations)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.shine.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SHINE Children and Youth Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.spd.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SPD</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.saac.org.sg/" rel="noopener noreferrer nofollow" target="_blank">St Andrew's Autism Centre</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.sundac.org/" rel="noopener noreferrer nofollow" target="_blank">SUN-DAC</a>
-</p>
-</li>
-<li>
-<p><a href="https://tasek.org/" rel="noopener noreferrer nofollow" target="_blank">Tasek Academy and Social Services Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://cjc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">The Community Justice Centre Ltd</a>
-</p>
-</li>
-<li>
-<p><a href="https://thehelpinghand.org.sg/" rel="noopener noreferrer nofollow" target="_blank">The Helping Hand Halfway House</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.salvationarmy.org.sg/" rel="noopener noreferrer nofollow" target="_blank">The Salvation Army</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.thetengcompany.com/" rel="noopener noreferrer nofollow" target="_blank">The TENG Company Ltd.</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.touch.org.sg/" rel="noopener noreferrer nofollow" target="_blank">TOUCH Community Services Limited</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.mendaki.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Yayasan MENDAKI</a>
-</p>
-</li>
-<li>
-<p><a href="http://www.yellowribbon.gov.sg/yellow-ribbon-fund" rel="noopener noreferrer nofollow" target="_blank">Yellow Ribbon Fund</a>
-</p>
-</li>
-<li>
-<p><a href="https://coe.nuhs.edu.sg/mind-science-centre" rel="noopener noreferrer nofollow" target="_blank">Yeo Boon Khim Mind Science Centre</a>
-</p>
-</li>
-<li>
-<p><a href="https://ywca.org.sg/" rel="noopener noreferrer nofollow" target="_blank">YMCA of Singapore</a>
-</p>
-</li>
-</ol>
-<p></p>
