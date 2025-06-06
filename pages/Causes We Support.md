@@ -56,8 +56,8 @@ by stiff lower limbs that results in difficulty walking or standing for
 extended periods of time. But the physical challenges were just the tip
 of the iceberg. During her school years, Syahidah faced bullying and exclusion
 due to misconceptions about her condition This prevented her from taking
-part in sports activities with her peers.
-<br>However, it was Syahidah who demonstrated the grit and determination of
+part in sports activities with her peers.</p>
+<p>However, it was Syahidah who demonstrated the grit and determination of
 a true athlete. With support from organisations like the Singapore Disability
 Sports Council (SDSC), she became a world champion para-archer and multiple
 gold medallist who has represented Singapore at the ASEAN Para Games, Paralympic
@@ -73,21 +73,18 @@ achieve their potential. Join us in supporting their growth by <a href="https://
 odd: he avoided eye contract with almost everyone. Sensing something amiss,
 Reuel’s Mum brought him for a checkup. Reuel was diagnosed with autism
 and as he grew older, he exhibited more signs, such as outbursts and difficulty
-interacting with others.
-<br>
-<br>Then something unexpected occurred. During the Covid lockdown when Reuel
+interacting with others.</p>
+<p>Then something unexpected occurred. During the Covid lockdown when Reuel
 was 13, his parents bought him a paint-by-numbers set to keep him occupied
 while the family was cooped up at home. Each resulting artwork was better
 than the last, demonstrating Reuel’s intuitive grasp of colours. He soon
 “graduated” to starting with a blank canvas, then he went on to expand
-his skillsets by watching YouTube videos.
-<br>
-<br>Reuel’s therapists at Extra•Ordinary People – which holistically supports
+his skillsets by watching YouTube videos.</p>
+<p>Reuel’s therapists at Extra•Ordinary People – which holistically supports
 persons with special needs – recognised his talent immediately and gave
 him the opportunity to flourish at Creative Lab, their in-house vocational
-arts incubator for emerging artists with disabilities.
-<br>
-<br>Today, self-taught Reuel is an accomplished still life and landscape painter
+arts incubator for emerging artists with disabilities.</p>
+<p>Today, self-taught Reuel is an accomplished still life and landscape painter
 whose highly detailed paintings have been purchased by private corporations.
 He was also recently commissioned by the Crowne Plaza Penang Straits City
 Hotel to paint two artworks for their premises.</p>
