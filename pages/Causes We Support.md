@@ -8,13 +8,13 @@ description: ""
 <p>The President’s Challenge seeks to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Develop talents and abilities in every field, especially among those facing
-disadvantage. This includes the arts and sports as fields for nurturing
-potential.</p>
+<p><strong>Develop talents and abilities</strong> in every field, especially
+among those facing disadvantage. This includes the <strong>arts and sports</strong> as
+fields for nurturing potential.</p>
 </li>
 <li>
-<p>Provide sustained funding for beneficiary organisations, typically from
-three to five years, to help achieve better and more lasting social impact.</p>
+<p><strong>Provide sustained funding</strong> for beneficiary organisations,
+typically from three to five years, to help achieve better and more lasting <strong>social impact</strong>.</p>
 </li>
 </ul>
 <p>In 2025, the President’s Challenge will support 60 programmes from 52
@@ -64,9 +64,7 @@ Sports Council (SDSC), she has become a world champion para archer and
 multiple gold medallist who has represented Singapore at the ASEAN PARA
 GAMES, Paralympic Games and the World Archery Para Championships.</p>
 <p>There are many more talented individuals like Syahidah just waiting to
-achieve their potential.</p>
-<p>Join us in supporting their growth by donating to the President’s Challenge
-today.</p>
+achieve their potential. Join us in supporting their growth by <a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">donating to the President's Challenge</a> today.</p>
 <hr>
 <h4>Reuel Dylan Tan, Artist with Autism</h4>
 <p></p>
@@ -92,12 +90,12 @@ arts incubator for emerging artists with disabilities.</p>
 whose highly detailed paintings have been purchased by private corporations.
 He was also recently commissioned by the Crowne Plaza Penang Straits City
 Hotel to paint two artworks for their premises.</p>
-<p></p>
 <p>Painting is now Reuel’s purpose in life. Now let’s make it our purpose
 to ensure he achieves his full potential. Join us in supporting talented
-individuals like Reuel. Donate to the President’s Challenge today.</p>
+individuals like Reuel. <a href="https://donate.stripe.com/00gcQzevAcvq47e4gy" rel="noopener nofollow" target="_blank">Donate to the President's Challenge today.</a>
+</p>
 <hr>
-<h4><strong>Benefitting Organisations</strong></h4>
+<h3><strong>Benefitting Organisations</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
