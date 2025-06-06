@@ -11,6 +11,9 @@ sections:
         - title: About President's Challenge
           description: Learn more about us.
           url: /who-we-are/what-we-do/
+        - title: Causes we support
+          description: Read about who we support.
+          url: ""
         - title: PRESIDENT’S CHALLENGE FELLOWSHIPS
           description: Opportunities to grow.
           url: /join-our-fellowship-programmes
@@ -23,9 +26,8 @@ sections:
   - infopic:
       title: Rising to the Challenge
       id: infopic
-      description: Born with diplegia, Nur Syahidah Alim rose above limits,
-        transforming challenges into strength to become Singapore's para archery
-        champion.
+      description: Born with diplegia, Nur Syahidah Alim transformed challenges into
+        strength to become Singapore's para archery champion.
       button: Read Now
       url: /whowesupport
       image: /images/homepage/Nur_Syahidah_Alim_home.jpg
@@ -33,31 +35,37 @@ sections:
   - infopic:
       title: Fulfil Your Purpose
       id: infopic
-      description: Our Fellowship programmes develop aspiring individuals through
-        three unique tracks, building capabilities for meaningful social impact.
+      description: President’s Challenge Fellowships develop aspiring individuals
+        through three unique tracks, building capabilities for meaningful social
+        impact.
       button: Learn More
       url: /join-our-fellowship-programmes
-      image: /images/homepage/siva.jpg
+      image: /images/RobinTay_in_picture_830x623.jpg
       alt: Fellowship programmes
   - infopic:
       title: A Quote from Our President
       id: infopic
-      image: /images/homepage/PC_Quote_white.jpg
-      alt: Tharman Shanmugaratnam
+      image: /images/PC_Presidents_Quote.jpg
+      alt: A Quote from President Tharman
+      description: “We're really developing a community of respect. Where we value the
+        effort and contribution that every individual brings. Where we rise
+        together..”
+      button: Read more
+      url: /who-we-are/what-we-do/
   - infopic:
       title: Make A Difference
-      description: There are many ways you can support our benefitting organisations –
-        as a donor, volunteer or partner – to sustain their operations and serve
-        the community.
+      description: There are many ways you can support a cause  – as a volunteer,
+        donor, or partner – and help achieve social impact.
       url: /take-action/donate/
-      image: /images/homepage/make_a_difference.png
+      image: /images/PC_Make_A_Difference.jpg
       alt: Making a difference to support
       button: How you can contribute
   - infopic:
       title: About President’s Challenge
       id: infopic
       description: President’s Challenge aims to build a culture of unity and respect
-        for all, by supporting aspirations and recognising contributions by all.
+        for all, by supporting every aspiration and recognising every
+        contribution.
       button: Learn More About Us
       url: /who-we-are/what-we-do/
       image: /images/homepage/Paralympics_edited.jpg

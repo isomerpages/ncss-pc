@@ -1,5 +1,5 @@
 ---
-title: Springboard
+title: President’s Challenge Fellow (Springboard)
 permalink: /springboard/
 variant: tiptap
 description: ""
@@ -9,11 +9,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fellowship/Website_Banner_1920x700_R2_Robin.jpg">
 </div>
-<p>The Springboard track supports individuals who have faced challenges or
-setbacks in life and are motivated to bounce back and embark on new paths.
-It provides them with the opportunity to develop capabilities, pursue long-term
-employability and grow new initiatives, thereby enabling them to develop
-their fullest potential.</p>
+<p>The Springboard track empowers individuals bouncing back from challenging
+circumstances, enabling them to embark on new career paths. It will support
+individuals who have faced major disadvantages or setbacks in life, and
+are determined to overcome them, by helping them embark on new pathways
+through education and skills or entrepreneurship training.</p>
 <h3>Eligibility Criteria</h3>
 <ul>
 <li>
