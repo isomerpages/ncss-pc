@@ -4,36 +4,29 @@ permalink: /join-our-fellowship-programmes/
 variant: tiptap
 description: ""
 ---
-<p>The refreshed President’s Challenge aims to foster a culture of unity
-and respect by empowering individuals, especially those facing greater
-challenges to realise their full potential.</p>
-<p>As part of this mission, we are launching three President’s Challenge
-Fellowship programmes to nurture civic leadership, support individuals
-embracing second chances, and bring sustainable impact to the community.
-Through these tracks, individuals from diverse backgrounds will have opportunities
-to develop their capabilities, with support in the form of mentorships,
-work placements and awards.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="/civic-action" rel="noopener noreferrer nofollow" target="_blank">Civic Action Fellowship</a></strong>
-<br>To empower social sector professionals to deepen their expertise and develop
-new approaches for achieving the social good. 
-<br>
-</p>
-</li>
-<li>
-<p><strong><a href="/springboard" rel="noopener noreferrer nofollow" target="_blank">Springboard Fellowship</a></strong>
-<br>To empower individuals who have faced setbacks through targeted skill
-development and capability building, equipping them to pursue sustainable
-careers or launch entrepreneurial ventures.
-<br>
-</p>
-</li>
-<li>
-<p><strong><a href="/ite-inspire" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education (ITE) Inspire</a></strong>
-<br>To recognise individuals who have progressed through the ITE pathway and
-achieved remarkable career success, to motivate and inspire youth, the
-ITE community, and others to develop their fullest potential.</p>
-</li>
-</ul>
+<p>The President’s Challenge Fellowships aim to develop new approaches in
+the social sector; support individuals bouncing back from major setbacks;
+and to recognise outstanding career achievements among ITE graduates.</p>
+<p>The President’s Challenge will be partnering with several philanthropic
+and impact partners in enabling the Fellowships.</p>
+<h4><strong><a href="/civic-action/" rel="noopener nofollow" target="_blank">Civic Action</a></strong></h4>
+<p>Empowers seasoned social sector professionals, through fulltime and part-time
+sabbaticals over 1-2 years, to deepen their expertise and develop new approaches
+for achieving social good. The Fellowships are also open to those from
+other sectors who have been active volunteers in the social field.</p>
+<p><strong>Supported by:</strong> Quantedge Foundation, SMU, and SUSS</p>
+<h4><strong><a href="/springboard/" rel="noopener nofollow" target="_blank">Springboard</a></strong></h4>
+<p>Empowers individuals bouncing back from challenging circumstances, enabling
+them to embark on new career paths. It will support individuals who have
+faced major disadvantages or setbacks in life, and are determined to overcome
+them, by helping them embark on new pathways through education and skills
+or entrepreneurship training.</p>
+<p><strong>Supported by:</strong> SIM, Temasek and Temasek Foundation</p>
+<h4><strong><a href="/ite-inspire/" rel="noopener nofollow" target="_blank">ITE Inspire</a></strong></h4>
+<p>Recognises individuals who have achieved remarkable career or entrepreneurial
+success following a technical education background, so as to motivate youth,
+the ITE community, and others in the community to develop themselves to
+the fullest. Those chosen for this Fellowship will serve as role models
+and mentors for others walking a similar path.</p>
+<p><strong>Supported by:</strong> ITE, Singapore Business Federation Foundation</p>
 <p></p>
