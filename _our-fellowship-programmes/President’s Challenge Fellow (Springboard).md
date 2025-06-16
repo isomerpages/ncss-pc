@@ -4,10 +4,8 @@ permalink: /springboard/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fellowship/Website_Banner_1920x700_R2_Robin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_Banner_1920x700_R6_Robin.jpg">
 </div>
 <p>The Springboard track empowers individuals bouncing back from challenging
 circumstances, enabling them to embark on new career paths. It will support
