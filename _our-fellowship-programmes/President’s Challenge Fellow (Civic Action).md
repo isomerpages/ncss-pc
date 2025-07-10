@@ -51,7 +51,8 @@ future initiatives. (possibility of overseas exposure)</p>
 <p><strong>Full-Time Sabbatical</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Part-time Sabbatical (1 – 2 years)</strong>&nbsp;</p>
+<p><strong>Part-time Sabbatical</strong>
+<br><strong>(1 – 2 years)</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -90,21 +91,22 @@ duration</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Currently employed in the sector: Fellows will continue to receive their
-last drawn salary.&nbsp;</p>
+last drawn salary</p>
 </li>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>Not currently employed in the sector or New to the sector.</p>
+<p>Not currently employed in the sector or New to the sector</p>
 </li>
 <li>
 <p>NCSS will determine the appropriate grade and salary with reference to
-with the <a href="https://go.gov.sg/salary2025" rel="noopener nofollow" target="_blank">NCSS Sector Salary Guidelines</a>.</p>
+with the <a href="https://go.gov.sg/salary2025" rel="noopener nofollow" target="_blank">NCSS Sector Salary Guidelines</a>
+</p>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Additional Benefit: A monthly stipend of $500 will be provided.&nbsp;</p>
+<p>Additional Benefit: A monthly stipend of $500 will be provided&nbsp;</p>
 </li>
 </ol>
 </td>
