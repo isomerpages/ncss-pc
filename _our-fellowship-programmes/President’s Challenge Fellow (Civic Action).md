@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fellowship/Website_Banner_1920x700_R2_Siva.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Quote from Senior Social Worker" src="/images/Fellowship/Website_Banner_1920x700_R2_Siva.jpg">
 </div>
 <p>The Civic Action Fellowship offers full-time and part-time sabbaticals
 for social service professionals and active volunteers in the social field
