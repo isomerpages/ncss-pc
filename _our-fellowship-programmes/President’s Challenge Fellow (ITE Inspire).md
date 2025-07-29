@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fellowship/ite.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A group of students" src="/images/Fellowship/ite.jpg">
 </div>
 <p>This Fellowship recognises individuals who have progressed through the
 ITE pathway and achieved remarkable career success, to motivate and inspire
