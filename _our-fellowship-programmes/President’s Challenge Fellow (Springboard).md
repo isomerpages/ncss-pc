@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_Banner_1920x700_R6_Robin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Quote from Ex-offender turned Deputy Director" src="/images/Website_Banner_1920x700_R6_Robin.jpg">
 </div>
 <p>The Springboard track empowers individuals bouncing back from challenging
 circumstances, enabling them to embark on new career paths. It will support
