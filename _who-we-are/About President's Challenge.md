@@ -8,10 +8,10 @@ description: Initiated by former President S R Nathan in 2000, President’s
   help the less fortunate
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PC_About_Presidents_Challenge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Group photo with President of Singapore" src="/images/PC_About_Presidents_Challenge.jpg">
 </div>
-<h3><strong>A Quote from Our President </strong></h3>
-<p><em>“The ultimate objective is something intangible. We're really developing a community of respect. It's intangible. It's a culture. But we're at the stage of our development as a country where the intangibles matter more in our own lives, and in national life. And they even matter in our being able to achieve our tangible goals. </em>
+<h3><strong>A Quote from Our President</strong></h3>
+<p><em>“The ultimate objective is something intangible. We're really developing a community of respect. It's intangible. It's a culture. But we're at the stage of our development as a country where the intangibles matter more in our own lives, and in national life. And they even matter in our being able to achieve our tangible goals.</em>
 </p>
 <p><em>Developing that community of respect – not just respecting our differences, but respecting the effort, skills, and contribution that every individual brings – is what creates unity. But its more than that. It's actually one of the most powerful ways in which we uplift ourselves.</em>
 </p>
@@ -58,7 +58,7 @@ closer together.</p>
 <h4></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logo/pc_logo.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="President’s Challenge Refreshed Logo" src="/images/Logo/pc_logo.jpg">
 </div>
 <p>To reflect the new identity of the President’s Challenge, a logo competition
 was launched in early 2025, opened to students enrolled in our Polytechnics,
