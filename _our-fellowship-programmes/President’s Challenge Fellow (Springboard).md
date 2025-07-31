@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_Banner_1920x700_R6_Robin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Quote from Ex-offender turned Deputy Director" src="/images/Website_Banner_1920x700_R6_Robin.jpg">
 </div>
 <p>The Springboard track empowers individuals bouncing back from challenging
 circumstances, enabling them to embark on new career paths. It will support
@@ -40,4 +40,5 @@ through education and skills or entrepreneurship training.</p>
 <p>Community impact potential</p>
 </li>
 </ul>
-<p>Applications for the Springboard Fellowship will close on 18 July 2025.</p>
+<p>Applications for the Springboard Fellowship are now closed. For enquiries,
+email us at <a href="mailto:pc_enquiry@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pc_enquiry@ncss.gov.sg</a>.</p>

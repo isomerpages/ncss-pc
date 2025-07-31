@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fellowship/Website_Banner_1920x700_R2_Siva.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Quote from Senior Social Worker" src="/images/Fellowship/Website_Banner_1920x700_R2_Siva.jpg">
 </div>
 <p>The Civic Action Fellowship offers full-time and part-time sabbaticals
 for social service professionals and active volunteers in the social field
@@ -30,10 +30,11 @@ supported by Quantedge Foundation).</p>
 <p><strong>Gain knowledge or experience in new areas</strong>, including
 in adjacent fields to social sector work, that could support them in leading
 future initiatives. (possibility of overseas exposure)</p>
+<p></p>
 </li>
 </ol>
-<p><strong><a href="https://form.gov.sg/6824094f9efd893deb7eef6f" rel="noopener noreferrer nofollow" target="_blank">Apply for Civic Action Fellowship now!</a></strong>
-</p>
+<p>Applications for the Civic Action Fellowship are now closed. For enquiries,
+email us at <a href="mailto:pc_enquiry@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pc_enquiry@ncss.gov.sg</a>.</p>
 <h3>Civic Action Fellowship Tracks&nbsp;</h3>
 <p>Choose from two dedicated tracks to empower your next step:&nbsp;</p>
 <table style="minWidth: 75px">
