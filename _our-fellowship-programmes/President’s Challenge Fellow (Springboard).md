@@ -40,4 +40,5 @@ through education and skills or entrepreneurship training.</p>
 <p>Community impact potential</p>
 </li>
 </ul>
-<p>Applications for the Springboard Fellowship will close on 18 July 2025.</p>
+<p>Applications for the Springboard Fellowship are now closed. For enquiries,
+email us at <a href="mailto:pc_enquiry@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pc_enquiry@ncss.gov.sg</a>.</p>
