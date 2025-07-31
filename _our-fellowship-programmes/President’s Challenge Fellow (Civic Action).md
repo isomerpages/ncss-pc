@@ -135,7 +135,7 @@ social service or civic sector</p>
 desire to contribute to social good</p>
 </li>
 </ul>
-<p>Applications for the Civic Action Fellowship will be close on 31 July
+<p>Applications for the Civic Action Fellowship will be close on 18 July
 2025.
 <br><strong><a href="https://form.gov.sg/6824094f9efd893deb7eef6f" rel="noopener nofollow" target="_blank">Apply for Civic Action Fellowship now!</a></strong>
 </p>
