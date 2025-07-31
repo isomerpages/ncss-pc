@@ -33,8 +33,8 @@ future initiatives. (possibility of overseas exposure)</p>
 <p></p>
 </li>
 </ol>
-<p>Applications for the Civic Action Fellowship are now closed. For enquiries,
-email us at <a href="mailto:pc_enquiry@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pc_enquiry@ncss.gov.sg</a>.</p>
+<p><strong><a href="https://form.gov.sg/6824094f9efd893deb7eef6f" rel="noopener nofollow" target="_blank">Apply for Civic Action Fellowship now! </a></strong>
+</p>
 <h3>Civic Action Fellowship Tracks&nbsp;</h3>
 <p>Choose from two dedicated tracks to empower your next step:&nbsp;</p>
 <table style="minWidth: 75px">
@@ -136,5 +136,6 @@ social service or civic sector</p>
 desire to contribute to social good</p>
 </li>
 </ul>
-<p>Applications for the Civic Action Fellowship are now closed. For enquiries,
-email us at <a href="mailto:pc_enquiry@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pc_enquiry@ncss.gov.sg</a>.</p>
+<p><strong><a href="https://form.gov.sg/6824094f9efd893deb7eef6f" rel="noopener nofollow" target="_blank">Apply for Civic Action Fellowship now! </a></strong>
+</p>
+<p>For enquiries, email us at <a href="mailto:pc_enquiry@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pc_enquiry@ncss.gov.sg</a>.</p>
