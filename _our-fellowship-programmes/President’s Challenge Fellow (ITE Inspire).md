@@ -10,8 +10,7 @@ description: ""
 </div>
 <p>This Fellowship recognises individuals who have progressed through the
 ITE pathway and achieved remarkable career success, to motivate and inspire
-youth, the ITE community, and others to develop their fullest potential.&nbsp;<strong><a href="https://form.gov.sg/6806e6084d66a6a1871daf59" rel="noopener nofollow" target="_blank">Apply for ITE Inspire now!</a></strong>
-</p>
+youth, the ITE community, and others to develop their fullest potential.&nbsp;</p>
 <h3>Eligibility Criteria</h3>
 <ul>
 <li>
@@ -29,8 +28,10 @@ Institutes, and the Vocational and Industrial Training Board)</p>
 <p>Career Achievement and Impact</p>
 </li>
 <li>
-<p>Advocacy for Skills and Nurturing Others</p>
+<p>Advocacy for Skills and Nurturing Others
+<br>
+<br>Applications for the ITE Inspire are now closed. For enquiries, email
+us at <a rel="noopener noreferrer nofollow" target="_blank">pc_enquiry@ncss.gov.sg</a>.</p>
 </li>
 </ul>
-<p>Applications for the ITE Inspire will close on 18 July 2025. <strong><a href="https://form.gov.sg/6806e6084d66a6a1871daf59" rel="noopener nofollow" target="_blank">Apply for ITE Inspire now!</a></strong>
-</p>
+<p></p>
