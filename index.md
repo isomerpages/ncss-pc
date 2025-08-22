@@ -74,8 +74,11 @@ sections:
       title: Be in the know
       subtitle: Media
       button: More Media
-notification: Be Vigilant Against Scams. Please refer to the <a
-  href="/scam-advisory/">Scam Advisory Notice</a> for more details.
+notification: <strong>Maintenance Notice</strong><br> Our website will undergo
+  maintenance from 27 to 28 August 2025. Access may be temporarily affected. We
+  apologise for any inconvenience. <br><br> Be Vigilant Against Scams. Please
+  refer to the <a href="/scam-advisory/">Scam Advisory Notice</a> for more
+  details.
 description: President's Challenge. Empowering Lives, Uplifting Communities.
 image: /images/Logo/PC_favicon.jpg
 ---
